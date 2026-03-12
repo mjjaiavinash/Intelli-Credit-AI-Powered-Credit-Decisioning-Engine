@@ -28,7 +28,6 @@ function SignUp() {
     e.preventDefault();
     setError('');
 
-    // Validation
     if (!formData.fullName || !formData.email || !formData.username || !formData.password) {
       setError('Please fill in all required fields');
       return;
@@ -51,19 +50,15 @@ function SignUp() {
 
     setLoading(true);
 
-    // Simulate signup
     setTimeout(() => {
-      // Save user data
       const users = JSON.parse(localStorage.getItem('users') || '[]');
       
-      // Check if username already exists
       if (users.find(u => u.username === formData.username)) {
         setError('Username already exists');
         setLoading(false);
         return;
       }
 
-      // Check if email already exists
       if (users.find(u => u.email === formData.email)) {
         setError('Email already exists');
         setLoading(false);
@@ -81,10 +76,7 @@ function SignUp() {
       });
 
       localStorage.setItem('users', JSON.stringify(users));
-      
       setLoading(false);
-      
-      // Show success message and redirect to login
       alert(`Account created successfully!\n\nUsername: ${formData.username}\nYou can now login with your credentials.`);
       navigate('/login');
     }, 1500);
@@ -99,58 +91,30 @@ function SignUp() {
       padding: '2rem'
     }}>
       <div className="card" style={{ 
-        maxWidth: '550px', 
+        maxWidth: '520px', 
         width: '100%',
-        position: 'relative',
-        overflow: 'visible'
+        padding: '2.5rem'
       }}>
-        {/* Logo/Brand */}
-        <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
-          <div style={{ 
-            fontSize: '3.5rem', 
-            marginBottom: '1rem',
-            filter: 'drop-shadow(0 0 20px rgba(99, 102, 241, 0.5))'
-          }}>
-            🏦
-          </div>
-          <h1 style={{ 
-            fontSize: '2rem', 
-            fontWeight: '900',
-            background: 'linear-gradient(135deg, #6366f1, #a855f7)',
-            WebkitBackgroundClip: 'text',
-            WebkitTextFillColor: 'transparent',
-            backgroundClip: 'text',
-            marginBottom: '0.5rem'
-          }}>
-            Intelli-Credit
-          </h1>
-          <p style={{ color: '#94a3b8', fontSize: '0.95rem' }}>
-            AI-Powered Credit Decisioning
-          </p>
-        </div>
 
-        {/* Welcome Text */}
         <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
           <h2 style={{ color: '#e2e8f0', fontSize: '1.5rem', fontWeight: '700', marginBottom: '0.5rem' }}>
             Create Account
           </h2>
-          <p style={{ color: '#64748b', fontSize: '0.9rem' }}>
-            Join us to access advanced credit analysis tools
+          <p style={{ color: '#64748b', fontSize: '0.95rem' }}>
+            Join us to access advanced tools
           </p>
         </div>
 
-        {/* Error Message */}
         {error && (
-          <div className="alert alert-error" style={{ marginBottom: '1.5rem' }}>
+          <div className="alert alert-error" style={{ marginBottom: '1.5rem', padding: '1rem', fontSize: '0.9rem' }}>
             ⚠️ {error}
           </div>
         )}
 
-        {/* SignUp Form */}
         <form onSubmit={handleSubmit}>
-          <div className="grid grid-2" style={{ gap: '1rem', marginBottom: '1.5rem' }}>
+          <div className="grid grid-2" style={{ gap: '1rem', marginBottom: '1.25rem' }}>
             <div>
-              <label className="label">Full Name *</label>
+              <label className="label" style={{ fontSize: '0.9rem' }}>Full Name *</label>
               <input
                 type="text"
                 name="fullName"
@@ -159,11 +123,12 @@ function SignUp() {
                 value={formData.fullName}
                 onChange={handleChange}
                 required
+                style={{ padding: '0.9rem 1.1rem', fontSize: '0.95rem' }}
               />
             </div>
 
             <div>
-              <label className="label">Email Address *</label>
+              <label className="label" style={{ fontSize: '0.9rem' }}>Email *</label>
               <input
                 type="email"
                 name="email"
@@ -172,13 +137,14 @@ function SignUp() {
                 value={formData.email}
                 onChange={handleChange}
                 required
+                style={{ padding: '0.9rem 1.1rem', fontSize: '0.95rem' }}
               />
             </div>
           </div>
 
-          <div className="grid grid-2" style={{ gap: '1rem', marginBottom: '1.5rem' }}>
+          <div className="grid grid-2" style={{ gap: '1rem', marginBottom: '1.25rem' }}>
             <div>
-              <label className="label">Username *</label>
+              <label className="label" style={{ fontSize: '0.9rem' }}>Username *</label>
               <input
                 type="text"
                 name="username"
@@ -187,11 +153,12 @@ function SignUp() {
                 value={formData.username}
                 onChange={handleChange}
                 required
+                style={{ padding: '0.9rem 1.1rem', fontSize: '0.95rem' }}
               />
             </div>
 
             <div>
-              <label className="label">Organization</label>
+              <label className="label" style={{ fontSize: '0.9rem' }}>Organization</label>
               <input
                 type="text"
                 name="organization"
@@ -199,17 +166,19 @@ function SignUp() {
                 placeholder="Company Name"
                 value={formData.organization}
                 onChange={handleChange}
+                style={{ padding: '0.9rem 1.1rem', fontSize: '0.95rem' }}
               />
             </div>
           </div>
 
-          <div style={{ marginBottom: '1.5rem' }}>
-            <label className="label">Role</label>
+          <div style={{ marginBottom: '1.25rem' }}>
+            <label className="label" style={{ fontSize: '0.9rem' }}>Role</label>
             <select
               name="role"
               className="input"
               value={formData.role}
               onChange={handleChange}
+              style={{ padding: '0.9rem 1.1rem', fontSize: '0.95rem' }}
             >
               <option value="analyst">Credit Analyst</option>
               <option value="manager">Credit Manager</option>
@@ -218,9 +187,9 @@ function SignUp() {
             </select>
           </div>
 
-          <div className="grid grid-2" style={{ gap: '1rem', marginBottom: '1.5rem' }}>
+          <div className="grid grid-2" style={{ gap: '1rem', marginBottom: '1.25rem' }}>
             <div>
-              <label className="label">Password *</label>
+              <label className="label" style={{ fontSize: '0.9rem' }}>Password *</label>
               <input
                 type="password"
                 name="password"
@@ -229,11 +198,12 @@ function SignUp() {
                 value={formData.password}
                 onChange={handleChange}
                 required
+                style={{ padding: '0.9rem 1.1rem', fontSize: '0.95rem' }}
               />
             </div>
 
             <div>
-              <label className="label">Confirm Password *</label>
+              <label className="label" style={{ fontSize: '0.9rem' }}>Confirm Password *</label>
               <input
                 type="password"
                 name="confirmPassword"
@@ -242,19 +212,19 @@ function SignUp() {
                 value={formData.confirmPassword}
                 onChange={handleChange}
                 required
+                style={{ padding: '0.9rem 1.1rem', fontSize: '0.95rem' }}
               />
             </div>
           </div>
 
-          {/* Terms & Conditions */}
-          <div style={{ marginBottom: '2rem' }}>
+          <div style={{ marginBottom: '1.75rem' }}>
             <label style={{ 
               display: 'flex', 
               alignItems: 'flex-start', 
-              gap: '0.75rem',
+              gap: '0.5rem',
               cursor: 'pointer',
               color: '#cbd5e1',
-              fontSize: '0.9rem',
+              fontSize: '0.85rem',
               lineHeight: '1.5'
             }}>
               <input
@@ -263,10 +233,10 @@ function SignUp() {
                 checked={formData.terms}
                 onChange={handleChange}
                 style={{ 
-                  width: '18px', 
-                  height: '18px',
+                  width: '17px', 
+                  height: '17px',
                   cursor: 'pointer',
-                  accentColor: '#6366f1',
+                  accentColor: '#1976d2',
                   marginTop: '2px',
                   flexShrink: 0
                 }}
@@ -275,7 +245,7 @@ function SignUp() {
                 I agree to the{' '}
                 <a 
                   href="#terms" 
-                  style={{ color: '#a5b4fc', textDecoration: 'none', fontWeight: '600' }}
+                  style={{ color: '#64b5f6', textDecoration: 'none', fontWeight: '600' }}
                   onClick={(e) => {
                     e.preventDefault();
                     alert('Terms and Conditions:\n\n1. Use responsibly\n2. Protect your credentials\n3. Follow data privacy guidelines');
@@ -286,7 +256,7 @@ function SignUp() {
                 {' '}and{' '}
                 <a 
                   href="#privacy" 
-                  style={{ color: '#a5b4fc', textDecoration: 'none', fontWeight: '600' }}
+                  style={{ color: '#64b5f6', textDecoration: 'none', fontWeight: '600' }}
                   onClick={(e) => {
                     e.preventDefault();
                     alert('Privacy Policy:\n\nYour data is secure and encrypted.');
@@ -298,22 +268,20 @@ function SignUp() {
             </label>
           </div>
 
-          {/* Submit Button */}
           <button 
             type="submit" 
             className="btn" 
             disabled={loading}
-            style={{ width: '100%', marginBottom: '1.5rem' }}
+            style={{ width: '100%', marginBottom: '1.5rem', padding: '1rem' }}
           >
             {loading ? '⏳ Creating Account...' : '🚀 Create Account'}
           </button>
         </form>
 
-        {/* Sign In Link */}
         <div style={{ 
           textAlign: 'center', 
-          marginTop: '2rem',
-          paddingTop: '1.5rem',
+          marginTop: '1.75rem',
+          paddingTop: '1.25rem',
           borderTop: '1px solid rgba(148, 163, 184, 0.2)'
         }}>
           <span style={{ color: '#94a3b8', fontSize: '0.9rem' }}>
@@ -322,7 +290,7 @@ function SignUp() {
           <a 
             href="#login" 
             style={{ 
-              color: '#a5b4fc', 
+              color: '#64b5f6', 
               textDecoration: 'none',
               fontWeight: '700',
               fontSize: '0.9rem'
@@ -336,40 +304,15 @@ function SignUp() {
           </a>
         </div>
 
-        {/* Footer */}
         <div style={{ 
           textAlign: 'center', 
-          marginTop: '2rem',
+          marginTop: '1.25rem',
           color: '#64748b',
           fontSize: '0.8rem'
         }}>
           © 2024 Intelli-Credit. All rights reserved.
         </div>
       </div>
-
-      {/* Background Decorations */}
-      <div style={{
-        position: 'absolute',
-        top: '10%',
-        left: '10%',
-        width: '300px',
-        height: '300px',
-        background: 'radial-gradient(circle, rgba(99, 102, 241, 0.15) 0%, transparent 70%)',
-        borderRadius: '50%',
-        pointerEvents: 'none',
-        zIndex: 0
-      }}></div>
-      <div style={{
-        position: 'absolute',
-        bottom: '10%',
-        right: '10%',
-        width: '400px',
-        height: '400px',
-        background: 'radial-gradient(circle, rgba(168, 85, 247, 0.15) 0%, transparent 70%)',
-        borderRadius: '50%',
-        pointerEvents: 'none',
-        zIndex: 0
-      }}></div>
     </div>
   );
 }

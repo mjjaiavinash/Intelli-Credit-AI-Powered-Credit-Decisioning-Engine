@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import Login from './pages/Login';
 import SignUp from './pages/SignUp';
@@ -12,9 +12,15 @@ import Settings from './pages/Settings';
 import Reports from './pages/Reports';
 import ProtectedRoute from './components/ProtectedRoute';
 import ScrollToTop from './components/ScrollToTop';
+import { initializeDefaultData } from './utils/defaultData';
 import './App.css';
 
 function App() {
+  useEffect(() => {
+    // Initialize default data on app load
+    initializeDefaultData();
+  }, []);
+
   return (
     <Router>
       <ScrollToTop />

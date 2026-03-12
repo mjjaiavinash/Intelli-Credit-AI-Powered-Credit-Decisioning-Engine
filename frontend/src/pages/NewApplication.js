@@ -6,6 +6,7 @@ import api from '../services/api';
 function NewApplication() {
   const navigate = useNavigate();
   const [loading, setLoading] = useState(false);
+  const [processingStep, setProcessingStep] = useState(0);
   const [uploadMode, setUploadMode] = useState(true);
   const [files, setFiles] = useState({
     financials: null,
@@ -46,6 +47,20 @@ function NewApplication() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     setLoading(true);
+    setProcessingStep(0);
+
+    const steps = [
+      'Ingesting data from documents...',
+      'Running AI research agent...',
+      'Calculating credit score...',
+      'Generating CAM report...'
+    ];
+
+    // Simulate step-by-step processing
+    for (let i = 0; i < steps.length; i++) {
+      setProcessingStep(i + 1);
+      await new Promise(resolve => setTimeout(resolve, 1500));
+    }
 
     try {
       let response;
@@ -74,6 +89,7 @@ function NewApplication() {
       alert('Error processing application: ' + error.message);
     } finally {
       setLoading(false);
+      setProcessingStep(0);
     }
   };
 
@@ -386,9 +402,130 @@ function NewApplication() {
             {/* Submit Button */}
             <div style={{ textAlign: 'center', marginTop: '3rem' }}>
               {loading ? (
-                <div className="spinner"></div>
+                <div style={{ padding: '2rem' }}>
+                  <div style={{
+                    border: '4px solid rgba(25, 118, 210, 0.2)',
+                    borderTop: '4px solid #1976d2',
+                    borderRadius: '50%',
+                    width: '60px',
+                    height: '60px',
+                    animation: 'spin 0.8s linear infinite',
+                    margin: '0 auto 2rem'
+                  }}></div>
+                  <div style={{ marginTop: '2rem' }}>
+                    <div style={{
+                      padding: '1.5rem',
+                      background: 'rgba(25, 118, 210, 0.1)',
+                      borderRadius: '12px',
+                      border: '2px solid rgba(25, 118, 210, 0.3)',
+                      marginBottom: '1rem'
+                    }}>
+                      <div style={{ color: '#64b5f6', fontSize: '1.1rem', fontWeight: '700', marginBottom: '1rem' }}>
+                        Processing Your Application...
+                      </div>
+                      <div style={{ display: 'flex', flexDirection: 'column', gap: '0.8rem' }}>
+                        <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+                          <div style={{
+                            width: '30px',
+                            height: '30px',
+                            borderRadius: '50%',
+                            background: processingStep >= 1 ? 'linear-gradient(135deg, #10b981, #059669)' : 'rgba(148, 163, 184, 0.2)',
+                            display: 'flex',
+                            alignItems: 'center',
+                            justifyContent: 'center',
+                            color: 'white',
+                            fontWeight: '700',
+                            transition: 'all 0.5s ease',
+                            animation: processingStep === 1 ? 'pulse 1s infinite' : 'none'
+                          }}>
+                            {processingStep > 1 ? '✓' : '1'}
+                          </div>
+                          <div style={{ 
+                            color: processingStep >= 1 ? '#6ee7b7' : '#94a3b8',
+                            fontWeight: '600',
+                            transition: 'all 0.5s ease'
+                          }}>
+                            📄 Ingesting data from documents...
+                          </div>
+                        </div>
+                        <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+                          <div style={{
+                            width: '30px',
+                            height: '30px',
+                            borderRadius: '50%',
+                            background: processingStep >= 2 ? 'linear-gradient(135deg, #10b981, #059669)' : 'rgba(148, 163, 184, 0.2)',
+                            display: 'flex',
+                            alignItems: 'center',
+                            justifyContent: 'center',
+                            color: 'white',
+                            fontWeight: '700',
+                            transition: 'all 0.5s ease',
+                            animation: processingStep === 2 ? 'pulse 1s infinite' : 'none'
+                          }}>
+                            {processingStep > 2 ? '✓' : '2'}
+                          </div>
+                          <div style={{ 
+                            color: processingStep >= 2 ? '#6ee7b7' : '#94a3b8',
+                            fontWeight: '600',
+                            transition: 'all 0.5s ease'
+                          }}>
+                            🔍 Running AI research agent...
+                          </div>
+                        </div>
+                        <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+                          <div style={{
+                            width: '30px',
+                            height: '30px',
+                            borderRadius: '50%',
+                            background: processingStep >= 3 ? 'linear-gradient(135deg, #10b981, #059669)' : 'rgba(148, 163, 184, 0.2)',
+                            display: 'flex',
+                            alignItems: 'center',
+                            justifyContent: 'center',
+                            color: 'white',
+                            fontWeight: '700',
+                            transition: 'all 0.5s ease',
+                            animation: processingStep === 3 ? 'pulse 1s infinite' : 'none'
+                          }}>
+                            {processingStep > 3 ? '✓' : '3'}
+                          </div>
+                          <div style={{ 
+                            color: processingStep >= 3 ? '#6ee7b7' : '#94a3b8',
+                            fontWeight: '600',
+                            transition: 'all 0.5s ease'
+                          }}>
+                            ⚡ Calculating credit score...
+                          </div>
+                        </div>
+                        <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+                          <div style={{
+                            width: '30px',
+                            height: '30px',
+                            borderRadius: '50%',
+                            background: processingStep >= 4 ? 'linear-gradient(135deg, #10b981, #059669)' : 'rgba(148, 163, 184, 0.2)',
+                            display: 'flex',
+                            alignItems: 'center',
+                            justifyContent: 'center',
+                            color: 'white',
+                            fontWeight: '700',
+                            transition: 'all 0.5s ease',
+                            animation: processingStep === 4 ? 'pulse 1s infinite' : 'none'
+                          }}>
+                            {processingStep > 4 ? '✓' : '4'}
+                          </div>
+                          <div style={{ 
+                            color: processingStep >= 4 ? '#6ee7b7' : '#94a3b8',
+                            fontWeight: '600',
+                            transition: 'all 0.5s ease'
+                          }}>
+                            📊 Generating CAM report...
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               ) : (
-                <button type="submit" className="btn">
+                <button type="submit" className="btn" style={{ fontSize: '1.1rem', padding: '1.2rem 3.5rem' }}>
                   🚀 Process Application
                 </button>
               )}

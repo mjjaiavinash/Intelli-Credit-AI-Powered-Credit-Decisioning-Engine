@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Navbar from '../components/Navbar';
+import { initializeDefaultData } from '../utils/defaultData';
 
 function Analytics() {
   const [stats, setStats] = useState({
@@ -11,6 +12,9 @@ function Analytics() {
   });
 
   useEffect(() => {
+    // Initialize default data if empty
+    initializeDefaultData();
+    
     // Load analytics from localStorage
     const history = JSON.parse(localStorage.getItem('applicationHistory') || '[]');
     

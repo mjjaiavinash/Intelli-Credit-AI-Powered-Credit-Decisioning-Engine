@@ -16,14 +16,14 @@ function Navbar() {
   const isAuthenticated = localStorage.getItem('isAuthenticated');
 
   const navStyle = {
-    background: 'rgba(15, 23, 42, 0.95)',
+    background: 'rgba(10, 22, 40, 0.95)',
     backdropFilter: 'blur(20px)',
-    boxShadow: '0 4px 16px rgba(0, 0, 0, 0.3)',
-    padding: '1rem 2rem',
+    boxShadow: '0 2px 16px rgba(0, 0, 0, 0.5)',
+    padding: '0.75rem 2rem',
     display: 'flex',
     justifyContent: 'space-between',
     alignItems: 'center',
-    borderBottom: '1px solid rgba(148, 163, 184, 0.1)',
+    borderBottom: '2px solid rgba(218, 165, 32, 0.2)',
     position: 'fixed',
     top: 0,
     left: 0,
@@ -34,36 +34,40 @@ function Navbar() {
   const linkStyle = {
     color: '#94a3b8',
     textDecoration: 'none',
-    padding: '0.6rem 1.2rem',
-    borderRadius: '12px',
+    padding: '0.5rem 1rem',
+    borderRadius: '6px',
     fontWeight: '600',
     transition: 'all 0.3s ease',
-    fontSize: '0.95rem'
+    fontSize: '0.85rem',
+    textTransform: 'uppercase',
+    letterSpacing: '0.5px'
   };
 
   const activeLinkStyle = {
     ...linkStyle,
-    background: 'rgba(99, 102, 241, 0.2)',
-    color: '#a5b4fc',
-    boxShadow: '0 0 20px rgba(99, 102, 241, 0.3)'
+    background: 'rgba(25, 118, 210, 0.2)',
+    color: '#64b5f6',
+    boxShadow: '0 0 12px rgba(25, 118, 210, 0.3)',
+    borderBottom: '2px solid #daa520'
   };
 
   return (
     <nav style={navStyle}>
       <Link to="/" style={{ 
-        background: 'linear-gradient(135deg, #6366f1, #a855f7)',
+        background: 'linear-gradient(135deg, #1976d2, #daa520)',
         WebkitBackgroundClip: 'text',
         WebkitTextFillColor: 'transparent',
         backgroundClip: 'text',
         textDecoration: 'none', 
-        fontSize: '1.5rem', 
+        fontSize: '1.3rem', 
         fontWeight: '900',
-        letterSpacing: '-0.5px'
+        letterSpacing: '0.5px',
+        textTransform: 'uppercase'
       }}>
         🏦 Intelli-Credit
       </Link>
       
-      <div style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>
+      <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center' }}>
         <Link 
           to="/" 
           style={location.pathname === '/' ? activeLinkStyle : linkStyle}
@@ -109,16 +113,16 @@ function Navbar() {
         
         {/* User Menu */}
         <div style={{ 
-          marginLeft: '1rem',
-          paddingLeft: '1rem',
+          marginLeft: '0.75rem',
+          paddingLeft: '0.75rem',
           borderLeft: '1px solid rgba(148, 163, 184, 0.2)',
           display: 'flex',
           alignItems: 'center',
-          gap: '0.75rem'
+          gap: '0.5rem'
         }}>
           {isAuthenticated ? (
             <>
-              <span style={{ color: '#94a3b8', fontSize: '0.85rem' }}>
+              <span style={{ color: '#94a3b8', fontSize: '0.8rem' }}>
                 {userEmail}
               </span>
               <button
@@ -140,11 +144,11 @@ function Navbar() {
               to="/login"
               style={{
                 ...linkStyle,
-                background: 'rgba(99, 102, 241, 0.2)',
-                border: '1px solid rgba(99, 102, 241, 0.3)',
-                color: '#a5b4fc',
+                background: 'rgba(25, 118, 210, 0.2)',
+                border: '1px solid rgba(25, 118, 210, 0.4)',
+                color: '#64b5f6',
                 cursor: 'pointer',
-                padding: '0.5rem 1rem'
+                padding: '0.4rem 0.9rem'
               }}
             >
               🔐 Login

@@ -24,10 +24,8 @@ function Login() {
     setError('');
     setLoading(true);
 
-    // Simulate login
     setTimeout(() => {
       if (formData.email && formData.password) {
-        // Check registered users first
         const users = JSON.parse(localStorage.getItem('users') || '[]');
         const user = users.find(u => u.username === formData.email && u.password === formData.password);
         
@@ -37,7 +35,6 @@ function Login() {
           localStorage.setItem('userFullName', user.fullName);
           navigate('/');
         }
-        // Default demo credentials
         else if (formData.email === 'mjjaiavinash' && formData.password === 'jai123') {
           localStorage.setItem('isAuthenticated', 'true');
           localStorage.setItem('userEmail', formData.email);
@@ -66,57 +63,29 @@ function Login() {
       padding: '2rem'
     }}>
       <div className="card" style={{ 
-        maxWidth: '450px', 
+        maxWidth: '440px', 
         width: '100%',
-        position: 'relative',
-        overflow: 'visible'
+        padding: '2.5rem'
       }}>
-        {/* Logo/Brand */}
-        <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
-          <div style={{ 
-            fontSize: '3.5rem', 
-            marginBottom: '1rem',
-            filter: 'drop-shadow(0 0 20px rgba(99, 102, 241, 0.5))'
-          }}>
-            🏦
-          </div>
-          <h1 style={{ 
-            fontSize: '2rem', 
-            fontWeight: '900',
-            background: 'linear-gradient(135deg, #6366f1, #a855f7)',
-            WebkitBackgroundClip: 'text',
-            WebkitTextFillColor: 'transparent',
-            backgroundClip: 'text',
-            marginBottom: '0.5rem'
-          }}>
-            Intelli-Credit
-          </h1>
-          <p style={{ color: '#94a3b8', fontSize: '0.95rem' }}>
-            AI-Powered Credit Decisioning
-          </p>
-        </div>
 
-        {/* Welcome Text */}
         <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
           <h2 style={{ color: '#e2e8f0', fontSize: '1.5rem', fontWeight: '700', marginBottom: '0.5rem' }}>
-            Welcome Back
+            Login
           </h2>
-          <p style={{ color: '#64748b', fontSize: '0.9rem' }}>
-            Sign in to access your credit analysis dashboard
+          <p style={{ color: '#64748b', fontSize: '0.95rem' }}>
+            Log in to your dashboard
           </p>
         </div>
 
-        {/* Error Message */}
         {error && (
-          <div className="alert alert-error" style={{ marginBottom: '1.5rem' }}>
+          <div className="alert alert-error" style={{ marginBottom: '1.5rem', padding: '1rem', fontSize: '0.9rem' }}>
             ⚠️ {error}
           </div>
         )}
 
-        {/* Login Form */}
         <form onSubmit={handleSubmit}>
-          <div style={{ marginBottom: '1.5rem' }}>
-            <label className="label">Username</label>
+          <div style={{ marginBottom: '1.25rem' }}>
+            <label className="label" style={{ fontSize: '0.9rem' }}>Username</label>
             <input
               type="text"
               name="email"
@@ -125,12 +94,12 @@ function Login() {
               value={formData.email}
               onChange={handleChange}
               required
-              autoComplete="username"
+              style={{ padding: '0.9rem 1.1rem', fontSize: '0.95rem' }}
             />
           </div>
 
-          <div style={{ marginBottom: '1.5rem' }}>
-            <label className="label">Password</label>
+          <div style={{ marginBottom: '1.25rem' }}>
+            <label className="label" style={{ fontSize: '0.9rem' }}>Password</label>
             <input
               type="password"
               name="password"
@@ -139,16 +108,15 @@ function Login() {
               value={formData.password}
               onChange={handleChange}
               required
-              autoComplete="current-password"
+              style={{ padding: '0.9rem 1.1rem', fontSize: '0.95rem' }}
             />
           </div>
 
-          {/* Remember Me & Forgot Password */}
           <div style={{ 
             display: 'flex', 
             justifyContent: 'space-between', 
             alignItems: 'center',
-            marginBottom: '2rem'
+            marginBottom: '1.75rem'
           }}>
             <label style={{ 
               display: 'flex', 
@@ -156,7 +124,7 @@ function Login() {
               gap: '0.5rem',
               cursor: 'pointer',
               color: '#cbd5e1',
-              fontSize: '0.9rem'
+              fontSize: '0.85rem'
             }}>
               <input
                 type="checkbox"
@@ -164,10 +132,10 @@ function Login() {
                 checked={formData.remember}
                 onChange={handleChange}
                 style={{ 
-                  width: '18px', 
-                  height: '18px',
+                  width: '17px', 
+                  height: '17px',
                   cursor: 'pointer',
-                  accentColor: '#6366f1'
+                  accentColor: '#1976d2'
                 }}
               />
               Remember me
@@ -175,9 +143,9 @@ function Login() {
             <a 
               href="#forgot" 
               style={{ 
-                color: '#a5b4fc', 
+                color: '#64b5f6', 
                 textDecoration: 'none',
-                fontSize: '0.9rem',
+                fontSize: '0.85rem',
                 fontWeight: '600'
               }}
               onClick={(e) => {
@@ -189,22 +157,20 @@ function Login() {
             </a>
           </div>
 
-          {/* Submit Button */}
           <button 
             type="submit" 
             className="btn" 
             disabled={loading}
-            style={{ width: '100%', marginBottom: '1.5rem' }}
+            style={{ width: '100%', marginBottom: '1.5rem', padding: '1rem' }}
           >
-            {loading ? '⏳ Signing In...' : '🚀 Sign In'}
+            {loading ? '⏳ Logging In...' : '🚀 Log In'}
           </button>
         </form>
 
-        {/* Sign Up Link */}
         <div style={{ 
           textAlign: 'center', 
-          marginTop: '2rem',
-          paddingTop: '1.5rem',
+          marginTop: '1.75rem',
+          paddingTop: '1.25rem',
           borderTop: '1px solid rgba(148, 163, 184, 0.2)'
         }}>
           <span style={{ color: '#94a3b8', fontSize: '0.9rem' }}>
@@ -213,7 +179,7 @@ function Login() {
           <a 
             href="#signup" 
             style={{ 
-              color: '#a5b4fc', 
+              color: '#64b5f6', 
               textDecoration: 'none',
               fontWeight: '700',
               fontSize: '0.9rem'
@@ -227,40 +193,15 @@ function Login() {
           </a>
         </div>
 
-        {/* Footer */}
         <div style={{ 
           textAlign: 'center', 
-          marginTop: '2rem',
+          marginTop: '1.25rem',
           color: '#64748b',
           fontSize: '0.8rem'
         }}>
           © 2024 Intelli-Credit. All rights reserved.
         </div>
       </div>
-
-      {/* Background Decorations */}
-      <div style={{
-        position: 'absolute',
-        top: '10%',
-        left: '10%',
-        width: '300px',
-        height: '300px',
-        background: 'radial-gradient(circle, rgba(99, 102, 241, 0.15) 0%, transparent 70%)',
-        borderRadius: '50%',
-        pointerEvents: 'none',
-        zIndex: 0
-      }}></div>
-      <div style={{
-        position: 'absolute',
-        bottom: '10%',
-        right: '10%',
-        width: '400px',
-        height: '400px',
-        background: 'radial-gradient(circle, rgba(168, 85, 247, 0.15) 0%, transparent 70%)',
-        borderRadius: '50%',
-        pointerEvents: 'none',
-        zIndex: 0
-      }}></div>
     </div>
   );
 }
