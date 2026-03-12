@@ -8,6 +8,10 @@ ENV/
 backend/__pycache__/
 backend/**/__pycache__/
 
+# Package lock files (optional - keep if you want)
+# package-lock.json
+# yarn.lock
+
 # Environment variables
 .env
 .env.local
