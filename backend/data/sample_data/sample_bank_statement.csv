@@ -1,0 +1,28 @@
+date,description,amount,balance
+2023-01-01,Opening Balance,0,5000000
+2023-01-05,Customer Payment - XYZ Corp,2500000,7500000
+2023-01-08,Supplier Payment - ABC Suppliers,-1200000,6300000
+2023-01-12,Customer Payment - DEF Ltd,1800000,8100000
+2023-01-15,Salary Payment,-800000,7300000
+2023-01-18,GST Payment,-450000,6850000
+2023-01-22,Customer Payment - GHI Industries,2200000,9050000
+2023-01-25,Supplier Payment - JKL Materials,-1500000,7550000
+2023-01-28,Loan EMI Payment,-350000,7200000
+2023-02-01,Customer Payment - XYZ Corp,2600000,9800000
+2023-02-05,Supplier Payment - ABC Suppliers,-1300000,8500000
+2023-02-08,Customer Payment - MNO Enterprises,1900000,10400000
+2023-02-12,Salary Payment,-850000,9550000
+2023-02-15,GST Payment,-480000,9070000
+2023-02-18,Customer Payment - PQR Ltd,2100000,11170000
+2023-02-22,Supplier Payment - JKL Materials,-1600000,9570000
+2023-02-25,Utility Bills,-120000,9450000
+2023-02-28,Loan EMI Payment,-350000,9100000
+2023-03-01,Customer Payment - XYZ Corp,2400000,11500000
+2023-03-05,Supplier Payment - ABC Suppliers,-1100000,10400000
+2023-03-08,Customer Payment - STU Corp,2000000,12400000
+2023-03-12,Salary Payment,-820000,11580000
+2023-03-15,GST Payment,-440000,11140000
+2023-03-18,Customer Payment - VWX Industries,2300000,13440000
+2023-03-22,Supplier Payment - JKL Materials,-1400000,12040000
+2023-03-25,Insurance Premium,-180000,11860000
+2023-03-28,Loan EMI Payment,-350000,11510000

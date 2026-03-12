@@ -1,0 +1,227 @@
+{
+  "company_info": {
+    "company_name": "Mari Company ",
+    "sector": "Services",
+    "incorporation_year": 2015,
+    "promoters": [
+      "jai"
+    ]
+  },
+  "ingested_data": {
+    "gst": {
+      "gstin": null,
+      "total_turnover": 0,
+      "input_tax_credit": 0,
+      "tax_liability": 0,
+      "filing_frequency": [],
+      "gstr3b_vs_gstr2a_mismatch": false
+    },
+    "mca": {
+      "director_changes": 0,
+      "charge_modifications": 0,
+      "compliance_status": "Active",
+      "last_agm_date": null,
+      "authorized_capital": 100,
+      "paid_up_capital": 75
+    }
+  },
+  "research_results": {
+    "company_name": "Mari Company ",
+    "research_date": "2026-03-11T22:41:17.806049",
+    "news_analysis": [
+      {
+        "title": "Exclusive | Mari Selvaraj on Guiding Actors Through Character Ideology - THR India - The Hollywood Reporter India",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMGtJelc1T1Y4clJrMWNXdmVEN1NSSmRidlBacTF3THUtazJkaDhXb2MyYzZmOVNJVXFGQ252QlkxaHZhdXJ5LWVtcmRmY3ByWnRLTEJZZUcwSndwckJWaklTaFBBeFRtUjZ6bjVub3c0bVM0dklVb1lxMHh5YWwwR2RZdlRJNTNfLTVORW15dWYwVXRMbTV6dUVob0FSeV82M0dUd2RlLVp4VTJ6cFVJcUJDMEtLclZkV0tVN1VlU0Q3SjJydEJTaW1QUDJoallwbFFXUl9zZjNkWDN3QXhMdDJLLWUyY1NuYmhFT29VN2s0QdIB9wFBVV95cUxQb1pVVWVUQWNxa040aW45RF9lQjY5ZFBadjlyYzRlN1BUYlJJY3NwdjR2YzN6N09veENOQm1GU1FadHBtUkl2UXhiVXB3ZXdYRDdDT3RUUXBWcEJqSWpXam5mMGJQR29HeWtjellLc0RNNDNHQTMtZ3hXSVh6ZnVLMmZyekJYdjFQMF9qOFJmZzBZVmNBdF9kc1JtcDRYRHBpdjY0VVNENDZpNDhsTDFJanE3ck9KcDFEU0UyU0FETUZ5YXhjVjRSOWNGMEpaMkpGMWt4RTZ1cTU4LW40UXVlNDI2M0RoeVFGUi1YNDJlel9JY3M2ZElv?oc=5",
+        "pub_date": "Thu, 23 Oct 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMGtJelc1T1Y4clJrMWNXdmVEN1NSSmRidlBacTF3THUtazJkaDhXb2MyYzZmOVNJVXFGQ252QlkxaHZhdXJ5LWVtcmRmY3ByWnRLTEJZZUcwSndwckJWaklTaFBBeFRtUjZ6bjVub3c0bVM0dklVb1lxMHh5YWwwR2RZdlRJNTNfLTVORW15dWYwVXRMbTV6dUVob0FSeV82M0dUd2RlLVp4VTJ6cFVJcUJDMEtLclZkV0tVN1VlU0Q3SjJydEJTaW1QUDJoallwbFFXUl9zZjNkWDN3QXhMdDJLLWUyY1NuYmhFT29VN2s0QdIB9wFBVV95cUxQb1pVVWVUQWNxa040aW45RF9lQjY5ZFBadjlyYzRlN1BUYlJJY3NwdjR2YzN6N09veENOQm1GU1FadHBtUkl2UXhiVXB3ZXdYRDdDT3RUUXBWcEJqSWpXam5mMGJQR29HeWtjellLc0RNNDNHQTMtZ3hXSVh6ZnVLMmZyekJYdjFQMF9qOFJmZzBZVmNBdF9kc1JtcDRYRHBpdjY0VVNENDZpNDhsTDFJanE3ck9KcDFEU0UyU0FETUZ5YXhjVjRSOWNGMEpaMkpGMWt4RTZ1cTU4LW40UXVlNDI2M0RoeVFGUi1YNDJlel9JY3M2ZElv?oc=5\" target=\"_blank\">Exclusive | Mari Selvaraj on Guiding Actors Through Character Ideology - THR India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hollywood Reporter India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "'I'll keep making these films': 'Bison' director Mari Selvaraj on crafting films with social impact - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNRUdwbWNjUmY2cEJ5YTZZZFhuR0dEb0gxcDhIOWtESkw4M05oUTVwbE5uMlBMbi0zZV9mdi12cS12VkJycXUxcnJXYVJ0elloRnAta21LZ25UOGFTM3hNWktPSVhkZGNDcVl4QVVSbnQtTVBZTEQzWDd5QUZ1bVlzY1NHZVlIcy1zdzJ0RWhtZVFvbm9uekVhWDB3eE41QzZTbjBJdjJ4Zms5VGtaVjZYcjFabnBCZFdfUVhqU1ZHMTZYZ3o0eGw2a19hV1ZfQnp0QnpqWkNJaEozdHhtUE9SdExlZE0yakJ6UEt1bmtHNmNQbUtaWVVhdnViZ3ZiTHEtbGdlUFpBN1YwVjUwX2tCQXpIeWNiQdIBmwJBVV95cUxNN25UaG92LThLTnZ0cFNqREdMZ2JPMEsyUndheHNaZzNVNzRuT0VKQXVFNE0zT19fYVBCc0JRUm1ES3h1M0VxMFdBeVI3LVdHZTlHOTYzdEVOR1czVXVodUUtU1lYbGIzd0Q1NFJZRFJaNkE0R0pDUkhjbGcyOXFMT1YwUjgyYm5aaUhyYlZrLXIwem1IMVpncl9UOHFDRWpPRVl3RDJPSGd5NGJiSlJzWWs1RWdRV2NPY0hWWk14MW40X0hxRDY2dEljZXpOY1NCcUZycF9mNFVjMkQwSXdWN2FRSFJOLXpEMkRyNVlYZ1ZRTWNTUEJabU1NVmpUZzJRWklIR0VkWl9uZGpoVTVVSFpQMW0xbjl0Mk04?oc=5",
+        "pub_date": "Sun, 26 Oct 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxNRUdwbWNjUmY2cEJ5YTZZZFhuR0dEb0gxcDhIOWtESkw4M05oUTVwbE5uMlBMbi0zZV9mdi12cS12VkJycXUxcnJXYVJ0elloRnAta21LZ25UOGFTM3hNWktPSVhkZGNDcVl4QVVSbnQtTVBZTEQzWDd5QUZ1bVlzY1NHZVlIcy1zdzJ0RWhtZVFvbm9uekVhWDB3eE41QzZTbjBJdjJ4Zms5VGtaVjZYcjFabnBCZFdfUVhqU1ZHMTZYZ3o0eGw2a19hV1ZfQnp0QnpqWkNJaEozdHhtUE9SdExlZE0yakJ6UEt1bmtHNmNQbUtaWVVhdnViZ3ZiTHEtbGdlUFpBN1YwVjUwX2tCQXpIeWNiQdIBmwJBVV95cUxNN25UaG92LThLTnZ0cFNqREdMZ2JPMEsyUndheHNaZzNVNzRuT0VKQXVFNE0zT19fYVBCc0JRUm1ES3h1M0VxMFdBeVI3LVdHZTlHOTYzdEVOR1czVXVodUUtU1lYbGIzd0Q1NFJZRFJaNkE0R0pDUkhjbGcyOXFMT1YwUjgyYm5aaUhyYlZrLXIwem1IMVpncl9UOHFDRWpPRVl3RDJPSGd5NGJiSlJzWWs1RWdRV2NPY0hWWk14MW40X0hxRDY2dEljZXpOY1NCcUZycF9mNFVjMkQwSXdWN2FRSFJOLXpEMkRyNVlYZ1ZRTWNTUEJabU1NVmpUZzJRWklIR0VkWl9uZGpoVTVVSFpQMW0xbjl0Mk04?oc=5\" target=\"_blank\">'I'll keep making these films': 'Bison' director Mari Selvaraj on crafting films with social impact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Aging Japan is tripling its investments to $6.8 billion a year in a bid to get India's younger workers - Fortune",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oVVFBaV9zb2pEZ2ZhVm5mYW5nQTFvSjhtUGttRGpmYVdlNnJqcll3S2ozYVRQZ19GMGc4VjFkNmFWS2lnSEd5MTdmeXNpbllKRUt1VVdwSDNOUG9iUm5pbElDbWZsZTdQWUpJdWhvRjJwVmtyNHFIZw?oc=5",
+        "pub_date": "Fri, 29 Aug 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5oVVFBaV9zb2pEZ2ZhVm5mYW5nQTFvSjhtUGttRGpmYVdlNnJqcll3S2ozYVRQZ19GMGc4VjFkNmFWS2lnSEd5MTdmeXNpbllKRUt1VVdwSDNOUG9iUm5pbElDbWZsZTdQWUpJdWhvRjJwVmtyNHFIZw?oc=5\" target=\"_blank\">Aging Japan is tripling its investments to $6.8 billion a year in a bid to get India's younger workers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "#e4mExclusive: Omnicom is front-runner for Marico\u2019s \u20b9360-crore media account - Exchange4Media",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSkszWkxZWGlrTGswb041ZFZRSGc4X0RzaU4wa0cxZVAzQXBaaFlrVW1TdnBPVUhXM3N1LS1MT2NnRm9STFlHZFRmamJkUGFiSTVhQTlNYkZzMUZHNmlSckd2WHBBYnR5NHVJaE5lY0N2UGxVd2N0bmJyZnNMaGo4cVMzRmxfUHlST1hGUTBIa1ZLTWUyWFdaMEZEOFdULS1JekpVUEJ1V3hZcXpnZGZ2aFRmd0Ffamc3RV9n?oc=5",
+        "pub_date": "Sat, 06 Sep 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSkszWkxZWGlrTGswb041ZFZRSGc4X0RzaU4wa0cxZVAzQXBaaFlrVW1TdnBPVUhXM3N1LS1MT2NnRm9STFlHZFRmamJkUGFiSTVhQTlNYkZzMUZHNmlSckd2WHBBYnR5NHVJaE5lY0N2UGxVd2N0bmJyZnNMaGo4cVMzRmxfUHlST1hGUTBIa1ZLTWUyWFdaMEZEOFdULS1JekpVUEJ1V3hZcXpnZGZ2aFRmd0Ffamc3RV9n?oc=5\" target=\"_blank\">#e4mExclusive: Omnicom is front-runner for Marico\u2019s \u20b9360-crore media account</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Exchange4Media</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Bison OTT release update: When and where to watch Mari Selvaraj, Dhruv Vikram\u2019s Tamil movie after its bloc - The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVkJfWFFyRS1fbVVpZE40NHNkVXl1elU3T0NCQktMeXN5bWU2akN5YkRKeUVYa0VuWGFDemhuc2ZERWtFd29Bc3BhZmRJajFGc013VzFvZjVVRllDV0l3RFBKOHlpRkxNeVVkTExRSk1sTjlHeDRWbXljQVNQRFEyQVRvQlFYMElOcDhCTkR0dmIycUNOWWlYOTZ4MVdXWGZCWEFYeW9TNHRwU3ItOHBHUy1vLVU4VTIxSmd3b1ZiTVpLdWdaTWJVWEhPQTlZY045TDlMUHBtYkNYT1Zhb1k0U1lqeVdrR3ZjRUZFWWpqVktfNEJGQlpqbl9NZjltaHExUXREOVZzV1B5cTVfd09NOW4zMGEwd05uaW44bUZQRk0wVUHSAagCQVVfeXFMTzlLZUdqTHgzd1Rid0FGXzJsUU9EU2lzR3hkclZxdFF2QlNBV2Y0d0cxa3hDUU9QYkNiam45anFpZGxIYmdPTmx2MzJpVmVKRGxHQk9SY2c0ajRWM0RmZUhEQ0N3ai0ySDR3eWl4MDhtRFJRX2lBS3hDaDg2RUs4OUdtR0tLUkVZaW9OQmlOejY2ODU1LXBWZDFMVjBJUlZVT3NiOHRPOHA2dzVnX0dHSW8xXzhqaHNCZ2p3OWE5MGdWbEF4ZUFWM2hNdmlsVnVLQW9qMzkxUEtBakphclJ5Z3JGTVV5eklpSGh6em53YkZ3MGw3YTB3NmFiWEpmU0ZDc3lpUWdlME4wb1BSTThmdFZnUF9WdXdkNl9KU2FEOFVUVzRoUlo4U2c?oc=5",
+        "pub_date": "Fri, 14 Nov 2025 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxNVkJfWFFyRS1fbVVpZE40NHNkVXl1elU3T0NCQktMeXN5bWU2akN5YkRKeUVYa0VuWGFDemhuc2ZERWtFd29Bc3BhZmRJajFGc013VzFvZjVVRllDV0l3RFBKOHlpRkxNeVVkTExRSk1sTjlHeDRWbXljQVNQRFEyQVRvQlFYMElOcDhCTkR0dmIycUNOWWlYOTZ4MVdXWGZCWEFYeW9TNHRwU3ItOHBHUy1vLVU4VTIxSmd3b1ZiTVpLdWdaTWJVWEhPQTlZY045TDlMUHBtYkNYT1Zhb1k0U1lqeVdrR3ZjRUZFWWpqVktfNEJGQlpqbl9NZjltaHExUXREOVZzV1B5cTVfd09NOW4zMGEwd05uaW44bUZQRk0wVUHSAagCQVVfeXFMTzlLZUdqTHgzd1Rid0FGXzJsUU9EU2lzR3hkclZxdFF2QlNBV2Y0d0cxa3hDUU9QYkNiam45anFpZGxIYmdPTmx2MzJpVmVKRGxHQk9SY2c0ajRWM0RmZUhEQ0N3ai0ySDR3eWl4MDhtRFJRX2lBS3hDaDg2RUs4OUdtR0tLUkVZaW9OQmlOejY2ODU1LXBWZDFMVjBJUlZVT3NiOHRPOHA2dzVnX0dHSW8xXzhqaHNCZ2p3OWE5MGdWbEF4ZUFWM2hNdmlsVnVLQW9qMzkxUEtBakphclJ5Z3JGTVV5eklpSGh6em53YkZ3MGw3YTB3NmFiWEpmU0ZDc3lpUWdlME4wb1BSTThmdFZnUF9WdXdkNl9KU2FEOFVUVzRoUlo4U2c?oc=5\" target=\"_blank\">Bison OTT release update: When and where to watch Mari Selvaraj, Dhruv Vikram\u2019s Tamil movie after its bloc</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Mari State University and Max Healthcare Sign Strategic MoU to Enhance Medical Education and India-Russia Collaboration - Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNV0k0VG03THc3RXVtS0hmX0N1S2hVbWh5LVdhRUFWZkNMVlMxc3prQzQxdkQ5dmM0SlpBM3dNdy13ekZrQW5RNTFsUzItaXZTS01aMlNlSXBHbHp1bno4ZGIwNzlwbW5ad01BOXlHVFBicHpFX2UwU2UtaXFOMGs2VHFZRTZ5RnFKdlRmZXJ3TzNmUzdrUUpPeU9hdkhIMlJ2blpJaUVxR09BOXFwSzJZUFRQUFpORFZXOFF5MzZZV0s0YTJPVDBDQ2lUSndkNU5rN0pqTi10UkpwTW5mbFRwaUEzQXJxUEFMdVFWdzlHS1RuRGNEbUxocXdZTktWb1IwV25COTBTVEhaMDY3NElaaXZ4WWt0cGp4NHlMYnVQc1pRM0I1dk400gGsAkFVX3lxTE9wWGZ0c3hZOWx5YkVCSEh4dmV3SWIxbEZxY2VBaWRzZWxiY0dsLW9DWXl4Wlgzb19VTzg0eThZdHcybUlZQzBCb1pzamxIUmRxZ3RMeUNRUjJFY3JQYTl2dlV5SzVwLXZMcmJqQV9MekVEWldzX3JMNG5jcWItM0xQb2dNZW9nVXYxVnNQSFM2QjMtV1M1Rk9fNEVVblBTOFRsV084eTFMSXlGeWJHVWZRc3V1angxRjViQ3Y0M3RPR01tbnJ3V3c2aWwyOEc4cUFRQ3M2VXZEVWpLYmNSOHRZZThCamtPOEV4dDBDNzJDNkt3YWxrOVIzdmJKZVF0dFRvVmVJX0NfUVhaa01XY1lmN3BHWG1aSy1tbnloSkliZXcxTV9uLXM1c28ybw?oc=5",
+        "pub_date": "Tue, 12 Aug 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMipwJBVV95cUxNV0k0VG03THc3RXVtS0hmX0N1S2hVbWh5LVdhRUFWZkNMVlMxc3prQzQxdkQ5dmM0SlpBM3dNdy13ekZrQW5RNTFsUzItaXZTS01aMlNlSXBHbHp1bno4ZGIwNzlwbW5ad01BOXlHVFBicHpFX2UwU2UtaXFOMGs2VHFZRTZ5RnFKdlRmZXJ3TzNmUzdrUUpPeU9hdkhIMlJ2blpJaUVxR09BOXFwSzJZUFRQUFpORFZXOFF5MzZZV0s0YTJPVDBDQ2lUSndkNU5rN0pqTi10UkpwTW5mbFRwaUEzQXJxUEFMdVFWdzlHS1RuRGNEbUxocXdZTktWb1IwV25COTBTVEhaMDY3NElaaXZ4WWt0cGp4NHlMYnVQc1pRM0I1dk400gGsAkFVX3lxTE9wWGZ0c3hZOWx5YkVCSEh4dmV3SWIxbEZxY2VBaWRzZWxiY0dsLW9DWXl4Wlgzb19VTzg0eThZdHcybUlZQzBCb1pzamxIUmRxZ3RMeUNRUjJFY3JQYTl2dlV5SzVwLXZMcmJqQV9MekVEWldzX3JMNG5jcWItM0xQb2dNZW9nVXYxVnNQSFM2QjMtV1M1Rk9fNEVVblBTOFRsV084eTFMSXlGeWJHVWZRc3V1angxRjViQ3Y0M3RPR01tbnJ3V3c2aWwyOEc4cUFRQ3M2VXZEVWpLYmNSOHRZZThCamtPOEV4dDBDNzJDNkt3YWxrOVIzdmJKZVF0dFRvVmVJX0NfUVhaa01XY1lmN3BHWG1aSy1tbnloSkliZXcxTV9uLXM1c28ybw?oc=5\" target=\"_blank\">Mari State University and Max Healthcare Sign Strategic MoU to Enhance Medical Education and India-Russia Collaboration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "IT Department Conducts Raids At Marico Offices, Units: Reports - BW Marketing World",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3dpR2NESUlkRTYxd1ozd195eUtMSTBfRVJ6M256WkUwdEE4NzFSNUx0aTh5VmpEZ0h1dnFrUmZQUHVkb05PX0d2Y0pleWw5V2l0OWFYaVdMenlqQzdfOXgzb2VGelRsSV8zY2NmbWhzRElPcVlUSElHQ193blhXUWFVSXdRcXFTeENhWEpRYmtyMVFXYU1INnJidERNd3R4US1WMWdDUjVqRkdW?oc=5",
+        "pub_date": "Fri, 19 Sep 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3dpR2NESUlkRTYxd1ozd195eUtMSTBfRVJ6M256WkUwdEE4NzFSNUx0aTh5VmpEZ0h1dnFrUmZQUHVkb05PX0d2Y0pleWw5V2l0OWFYaVdMenlqQzdfOXgzb2VGelRsSV8zY2NmbWhzRElPcVlUSElHQ193blhXUWFVSXdRcXFTeENhWEpRYmtyMVFXYU1INnJidERNd3R4US1WMWdDUjVqRkdW?oc=5\" target=\"_blank\">IT Department Conducts Raids At Marico Offices, Units: Reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BW Marketing World</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Bison Movie OTT Release Date Announced! Find Out When You Can Watch Dhruv Vikram\u2019s Tamil Blockbuster Online - Business Connect Magazine",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaeG1UREhLMlRrTkY0ZTQ1RXpFTk1WMVhOWFZzTFpXVTNLMjZ5QkctR0RDNk42Y0FRTGFYb3JkSDdHYk9sTFhHT3c0aHMzc1NyOWd0U3F5NlVnTGRBaUUyN1l5X183dmdqTFR6Tm9iS2FWSUxpOHBwcjgxMA?oc=5",
+        "pub_date": "Thu, 13 Nov 2025 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBaeG1UREhLMlRrTkY0ZTQ1RXpFTk1WMVhOWFZzTFpXVTNLMjZ5QkctR0RDNk42Y0FRTGFYb3JkSDdHYk9sTFhHT3c0aHMzc1NyOWd0U3F5NlVnTGRBaUUyN1l5X183dmdqTFR6Tm9iS2FWSUxpOHBwcjgxMA?oc=5\" target=\"_blank\">Bison Movie OTT Release Date Announced! Find Out When You Can Watch Dhruv Vikram\u2019s Tamil Blockbuster Online</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Connect Magazine</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Flying academia's flag for Japan, with a nod to the U.K. - The Japan Times",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TS3JPZ1FUSi05Wl9yYnQyd3hWWHlnRkhNeS05RTY4TUxXaXE5RkhOcXB4M1FtdXJkWVFBMGJablNwelFjT1h6T2xDcHZBVldKbmNGcnZGQkVYQU40VkFvRXA2NjVCamU1QVNlWllyVEE4YUhMUUpyVlJ3?oc=5",
+        "pub_date": "Sun, 26 Oct 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1TS3JPZ1FUSi05Wl9yYnQyd3hWWHlnRkhNeS05RTY4TUxXaXE5RkhOcXB4M1FtdXJkWVFBMGJablNwelFjT1h6T2xDcHZBVldKbmNGcnZGQkVYQU40VkFvRXA2NjVCamU1QVNlWllyVEE4YUhMUUpyVlJ3?oc=5\" target=\"_blank\">Flying academia's flag for Japan, with a nod to the U.K.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Japan Times</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Pending India clearance stalls Bhutan-bound transshipment goods at Burimari - bdnews24.com",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tbnhBcl9qNjRTZXJjYVluSU14Uy1iUXg0MDFIdXVfT2ZSTjMzdFNzdnpicmdrYTJqMGNhSXpEUmhoZmRydjZyRmdUSkd2MGlqeU1OTw?oc=5",
+        "pub_date": "Sat, 29 Nov 2025 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tbnhBcl9qNjRTZXJjYVluSU14Uy1iUXg0MDFIdXVfT2ZSTjMzdFNzdnpicmdrYTJqMGNhSXpEUmhoZmRydjZyRmdUSkd2MGlqeU1OTw?oc=5\" target=\"_blank\">Pending India clearance stalls Bhutan-bound transshipment goods at Burimari</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bdnews24.com</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Pakistan strikes another JACKPOT? Discovers THIS precious resource in..., its worth Rs..., not gold, silver o - India.Com",
+        "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNMmRucktHaXpPeUdnREE4Tmt3MHl5NFpzdUViNXFiVk9XZVpiYmpLYXhlVnlhUl9QQlNjTTBUa3NRNVRqbWFqeUc5ZHNxM0pCOERfT3RlSmpfcEEwa3pqQzFuTGItMVNrZnZVa3ozM3hpMkd3TnZTcUJxYU0xbHpkcDhDTC1TR1VrTmN5NDZxQlVXNnVWRjdhdTFWNzhpNTZpeVEwZXpHTzAtTmZhRi13UHpHMzNIMWIwVmx0UVBuVnhqR0lHZHpORVBLSUJ2LVBRMlpjVWtweTFEQ01ELTl1N0pralp5YjctM0RLVHNRbzg1MFVwYy1MaWxiblQySUdvdy14ZlBsSzVlUUw5V0pWVGRlTng2UlJ6UzItLVZxZ01NYVI4MVo5c1RYNDg3UUFwYkNHR0VkUXBBV1R3MUJMZkp3NUUxT2PSAcwCQVVfeXFMTWdDaUh0NjFGRUtqMG9QbnpiamQycmlHa2tjQVFQdlpDRkpHLWlIRUUycEQ5b2ZST0R0MnFIbHJ1QzBaWXBHOTNyLUtvclBUTzdONzJVMTd5TkpxVHZObm0wakpjVmdpdXpMZkRGSlk3c2o0NWJmR2pGTmt3LTBkU3FodVVPSWxaOElqaFNNRnZXNUVlUFE0VmdFb3M4Y3FQanpwOW94dkpyNktMbmJJTXktWXpWUkoxM21lck9BOFZqY0lscDBXX3BfMHg0a3ZOTFd3eXA0U2kxNnpSODAzZ1N1TmdSa1Ftem4zYU9wdzRyRU1TX0RRQnpLQzNxZmlFYjRkSkEyRlRsZWpVUzk4RDR5Ry1uVzR3Rm45R0xxY3hYN2RxMTdtYjF5U2MzaEYyQWNLdW54d0RFMjlOWkZDQ3ZwMUE4eGxza1JRMUY?oc=5",
+        "pub_date": "Sun, 06 Apr 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxNMmRucktHaXpPeUdnREE4Tmt3MHl5NFpzdUViNXFiVk9XZVpiYmpLYXhlVnlhUl9QQlNjTTBUa3NRNVRqbWFqeUc5ZHNxM0pCOERfT3RlSmpfcEEwa3pqQzFuTGItMVNrZnZVa3ozM3hpMkd3TnZTcUJxYU0xbHpkcDhDTC1TR1VrTmN5NDZxQlVXNnVWRjdhdTFWNzhpNTZpeVEwZXpHTzAtTmZhRi13UHpHMzNIMWIwVmx0UVBuVnhqR0lHZHpORVBLSUJ2LVBRMlpjVWtweTFEQ01ELTl1N0pralp5YjctM0RLVHNRbzg1MFVwYy1MaWxiblQySUdvdy14ZlBsSzVlUUw5V0pWVGRlTng2UlJ6UzItLVZxZ01NYVI4MVo5c1RYNDg3UUFwYkNHR0VkUXBBV1R3MUJMZkp3NUUxT2PSAcwCQVVfeXFMTWdDaUh0NjFGRUtqMG9QbnpiamQycmlHa2tjQVFQdlpDRkpHLWlIRUUycEQ5b2ZST0R0MnFIbHJ1QzBaWXBHOTNyLUtvclBUTzdONzJVMTd5TkpxVHZObm0wakpjVmdpdXpMZkRGSlk3c2o0NWJmR2pGTmt3LTBkU3FodVVPSWxaOElqaFNNRnZXNUVlUFE0VmdFb3M4Y3FQanpwOW94dkpyNktMbmJJTXktWXpWUkoxM21lck9BOFZqY0lscDBXX3BfMHg0a3ZOTFd3eXA0U2kxNnpSODAzZ1N1TmdSa1Ftem4zYU9wdzRyRU1TX0RRQnpLQzNxZmlFYjRkSkEyRlRsZWpVUzk4RDR5Ry1uVzR3Rm45R0xxY3hYN2RxMTdtYjF5U2MzaEYyQWNLdW54d0RFMjlOWkZDQ3ZwMUE4eGxza1JRMUY?oc=5\" target=\"_blank\">Pakistan strikes another JACKPOT? Discovers THIS precious resource in..., its worth Rs..., not gold, silver o</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India.Com</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Vetrimaaran, Mari Selvaraj, Gautham Menon Join Hands With VELS Film International For New Film Slate - The Hollywood Reporter India",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPT2dQSlZUT2h3R0RJbTRhZkF4M2lXY09Ic2F5RmxIaEJRX0ltcjJJd1lIWkpQaDhPczJmRjZ3MGt5SmIxUzJhVXp4WGRIRVA3S1plOW05UC02RHBPSThPYTBFakdmdmdHVk9hQnJjaFNNbjJzX0ROUUlicEROZ0RCNXVHZVVnVUMySkFOXzJXVDRUTTJJQ1NuY1RhTlhTZmI3dWFieWVaRlEyMUpqYVZTM0J4dFdLRW82MjByTXFyMGVESjRCWVlieVNVSVRWa04yeTdlLWxaQTJpSVBIY2xvSURHVDQ1VlZBdGfSAe8BQVVfeXFMT0hFYmxvZHNPcFlsdDdXY3pZckJ0OVNCdGk5bWViOUJibVlEai1jejV4Qkc1NFN4b09Dd2VaR0hhd0tfTW1YMWZkcV9nR3N3ZW1DUmtYc0pkcVF3bGRMV243NmtmVVV1b2Zub1k3Q0YyLS14aXJJQmhaU2ZZSHFiMUpzcGFUT0tfV0FvcEphSHpaNXBHZ3ZtRzdlUEFTVlFqWFF6MU4wM2ZUaEJhbGlGNlloUC1DTFFvOXQzNERRRWdYMUREZ1BIaWNEVEFOQUlRWG50OVRvRU5oT0NKMFpPX3hJOUp3NXM3NXNNNmZ1WXc?oc=5",
+        "pub_date": "Mon, 30 Jun 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPT2dQSlZUT2h3R0RJbTRhZkF4M2lXY09Ic2F5RmxIaEJRX0ltcjJJd1lIWkpQaDhPczJmRjZ3MGt5SmIxUzJhVXp4WGRIRVA3S1plOW05UC02RHBPSThPYTBFakdmdmdHVk9hQnJjaFNNbjJzX0ROUUlicEROZ0RCNXVHZVVnVUMySkFOXzJXVDRUTTJJQ1NuY1RhTlhTZmI3dWFieWVaRlEyMUpqYVZTM0J4dFdLRW82MjByTXFyMGVESjRCWVlieVNVSVRWa04yeTdlLWxaQTJpSVBIY2xvSURHVDQ1VlZBdGfSAe8BQVVfeXFMT0hFYmxvZHNPcFlsdDdXY3pZckJ0OVNCdGk5bWViOUJibVlEai1jejV4Qkc1NFN4b09Dd2VaR0hhd0tfTW1YMWZkcV9nR3N3ZW1DUmtYc0pkcVF3bGRMV243NmtmVVV1b2Zub1k3Q0YyLS14aXJJQmhaU2ZZSHFiMUpzcGFUT0tfV0FvcEphSHpaNXBHZ3ZtRzdlUEFTVlFqWFF6MU4wM2ZUaEJhbGlGNlloUC1DTFFvOXQzNERRRWdYMUREZ1BIaWNEVEFOQUlRWG50OVRvRU5oT0NKMFpPX3hJOUp3NXM3NXNNNmZ1WXc?oc=5\" target=\"_blank\">Vetrimaaran, Mari Selvaraj, Gautham Menon Join Hands With VELS Film International For New Film Slate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hollywood Reporter India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "'Didn't have a fancy degree or MBA but built Marico': Harsh Mariwala's mantra for building success - Business Today",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOR2J3TUtiangtRmpSRVFiVHZlR1N4ekFPNHY0VHFyNlRVMFpFQXhBN0VGVS1mM1RhMERudFhLdWVPQ2hscnljd0VOaHJqQzZVTTZtRVdzUGl6ZEFuM1FiTHNmeFlkVHAyUG9jQk83T3dScXRKS0NhX3VjX19wc29FXy1fWWlKTkdSMTFXSFVoc2U2akdiLWdJd2hxdHhYdnhXNjBpTGNyNjNocElUcXdIRkJnVmhncnRFek42RGRMRXptU0p4VnN6QkdYb0lac0xOeUIwSWt4QjdOajl0S29kdkZQSkxmQknSAewBQVVfeXFMUDdXWFk4Snl4cHEwVFVyN2J3SjRiclJBeVdwal9CQnVBTnVaY08yMXBJYVRuZ1c1MllTdUZ2WlA0eWgweE1QcnJhS0gtaHdXVHNhOXFkRW5ueFFFNjFKMDV0U2g4c096bXV3WWdTZ3gyWWpPMFhkMmRmSmFubnFUTjlfd1RWSlZOZEdscU9YMWJTNmV1NTNyM0xuaUFTYmNWaEtzTWwyRmd0ZXRDUzBIRmhESXZua1gzQVBNOG9qUlhhTmdRc0VDeXRObU56VU9yXzl6ZGFqajlTZ2MzcEkzb0hkNTJYV1lfZjA0c3Q?oc=5",
+        "pub_date": "Wed, 26 Mar 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOR2J3TUtiangtRmpSRVFiVHZlR1N4ekFPNHY0VHFyNlRVMFpFQXhBN0VGVS1mM1RhMERudFhLdWVPQ2hscnljd0VOaHJqQzZVTTZtRVdzUGl6ZEFuM1FiTHNmeFlkVHAyUG9jQk83T3dScXRKS0NhX3VjX19wc29FXy1fWWlKTkdSMTFXSFVoc2U2akdiLWdJd2hxdHhYdnhXNjBpTGNyNjNocElUcXdIRkJnVmhncnRFek42RGRMRXptU0p4VnN6QkdYb0lac0xOeUIwSWt4QjdOajl0S29kdkZQSkxmQknSAewBQVVfeXFMUDdXWFk4Snl4cHEwVFVyN2J3SjRiclJBeVdwal9CQnVBTnVaY08yMXBJYVRuZ1c1MllTdUZ2WlA0eWgweE1QcnJhS0gtaHdXVHNhOXFkRW5ueFFFNjFKMDV0U2g4c096bXV3WWdTZ3gyWWpPMFhkMmRmSmFubnFUTjlfd1RWSlZOZEdscU9YMWJTNmV1NTNyM0xuaUFTYmNWaEtzTWwyRmd0ZXRDUzBIRmhESXZua1gzQVBNOG9qUlhhTmdRc0VDeXRObU56VU9yXzl6ZGFqajlTZ2MzcEkzb0hkNTJYV1lfZjA0c3Q?oc=5\" target=\"_blank\">'Didn't have a fancy degree or MBA but built Marico': Harsh Mariwala's mantra for building success</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Today</font>",
+        "sentiment": "POSITIVE"
+      },
+      {
+        "title": "Mari Energies Ltd Wins Rights to Explore 10 New Oil and Gas Blocks Across Pakistan - ProPakistani",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbVhTS0VCalFkZmotdnNlOFBqRm14dTkyR2ZKbGNkX2FteDczN3hueURIVTBOeEZuMlZCUWloVm05NFNPcUdYQ3Exd0tYSzI1S0toc1EtVVd5Y3pvNUlWbzd0ZWRMZC1HNG8tWk8yLW5nQzREQ0Q0cW1vNjNxNk51eG4zcVlOcG5uWDNoRTBkbEtqaG55QTlWNFJpUTFYekJibS1PTFJOQ0hvOGlqc08yLWVJVjhXcWVKTnfSAb8BQVVfeXFMT0FEeUVSTlp6WndkZFVQVzY0ZUNBcWRaMkRJVE13SFpMSlJmQmgyU3F0SUFRQXd1eGJpZDR5OThSTjdyZDZJYzZvWGM4R2VmTW9TNVZGRi1fYmVOUEhNcDRXSWUwVXA3RWZ1b0JLYWFKQUpxbzNOVlU2LVkyMDdsekY1aTZHekVTWkJkSXFUR0R2TFpvM1hGR283eFBPUlFtWkg4enJBcTE2QlR0TFpkcF9wZ3VPZU1lWVhMM2E1NVE?oc=5",
+        "pub_date": "Wed, 14 May 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNbVhTS0VCalFkZmotdnNlOFBqRm14dTkyR2ZKbGNkX2FteDczN3hueURIVTBOeEZuMlZCUWloVm05NFNPcUdYQ3Exd0tYSzI1S0toc1EtVVd5Y3pvNUlWbzd0ZWRMZC1HNG8tWk8yLW5nQzREQ0Q0cW1vNjNxNk51eG4zcVlOcG5uWDNoRTBkbEtqaG55QTlWNFJpUTFYekJibS1PTFJOQ0hvOGlqc08yLWVJVjhXcWVKTnfSAb8BQVVfeXFMT0FEeUVSTlp6WndkZFVQVzY0ZUNBcWRaMkRJVE13SFpMSlJmQmgyU3F0SUFRQXd1eGJpZDR5OThSTjdyZDZJYzZvWGM4R2VmTW9TNVZGRi1fYmVOUEhNcDRXSWUwVXA3RWZ1b0JLYWFKQUpxbzNOVlU2LVkyMDdsekY1aTZHekVTWkJkSXFUR0R2TFpvM1hGR283eFBPUlFtWkg4enJBcTE2QlR0TFpkcF9wZ3VPZU1lWVhMM2E1NVE?oc=5\" target=\"_blank\">Mari Energies Ltd Wins Rights to Explore 10 New Oil and Gas Blocks Across Pakistan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ProPakistani</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Mari\u2019s new reservoirs: ECC approves gas supply to 3 fertilizer plants - Business Recorder",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmd3czl4dmo3RzlVM3RzM3Z0VnpVQ2ZpNFFKLUZJTlVmR21nNU8wRFBSQm1XNl82QW1WX0JGc2E4YThQMVBVbXBqd0ZTcFNUMGp0QzBibkxHQ18tZFE3UEhtRTF4RU9TbUdOcWxOUmNxbFVHRy1TU09zb0dVWWFJTi1pbEZEVjZ0YlFyXzVQcjEzdmNONjlMaGJGTDd2RHI0UndlVFhuNnFHc1HSAVZBVV95cUxOUXZKcU5oTW9UNlEwUEROcXc3TXZGWjcwR1Y4WWl6b2VXZ25aaEFUc05HVzJkRnpkVEpIcDVtV2hPYWhkV0hlZVN6LTNub094NHhsNWp3dw?oc=5",
+        "pub_date": "Sun, 09 Nov 2025 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmd3czl4dmo3RzlVM3RzM3Z0VnpVQ2ZpNFFKLUZJTlVmR21nNU8wRFBSQm1XNl82QW1WX0JGc2E4YThQMVBVbXBqd0ZTcFNUMGp0QzBibkxHQ18tZFE3UEhtRTF4RU9TbUdOcWxOUmNxbFVHRy1TU09zb0dVWWFJTi1pbEZEVjZ0YlFyXzVQcjEzdmNONjlMaGJGTDd2RHI0UndlVFhuNnFHc1HSAVZBVV95cUxOUXZKcU5oTW9UNlEwUEROcXc3TXZGWjcwR1Y4WWl6b2VXZ25aaEFUc05HVzJkRnpkVEpIcDVtV2hPYWhkV0hlZVN6LTNub094NHhsNWp3dw?oc=5\" target=\"_blank\">Mari\u2019s new reservoirs: ECC approves gas supply to 3 fertilizer plants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Recorder</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Pakistani oil firm Mari developing 5MW data center in Islamabad - Data Center Dynamics",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFN6VjVkNzY0UXQ4cXprM2hkSXM4QW93NTVsR09fMTNjYUZVaDZlWG83STNLLTU3OWo4TWFpWEZLTVhYeTIzRFVqVFc4cGNoZVJTZGNPdmJ3VVFqWVh2WENGMXVVTExfV1huVTJJSkdhaU5wV19rZnFVOThPUW5hYkhkNnpDSEFUQU15UVM2aEtNOXNnS2xDUHdPWFE5NkRCZnkyLVBFQjk4aHc?oc=5",
+        "pub_date": "Mon, 29 Sep 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFN6VjVkNzY0UXQ4cXprM2hkSXM4QW93NTVsR09fMTNjYUZVaDZlWG83STNLLTU3OWo4TWFpWEZLTVhYeTIzRFVqVFc4cGNoZVJTZGNPdmJ3VVFqWVh2WENGMXVVTExfV1huVTJJSkdhaU5wV19rZnFVOThPUW5hYkhkNnpDSEFUQU15UVM2aEtNOXNnS2xDUHdPWFE5NkRCZnkyLVBFQjk4aHc?oc=5\" target=\"_blank\">Pakistani oil firm Mari developing 5MW data center in Islamabad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Center Dynamics</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Oiling the Wheels of Change in Traditional Business: The Marico Story - INSEAD Knowledge",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWkNXRV9HQ1JsN2V6R0cwdmphajJZc0E1dzJFWm00OU9wUl9mS21SVExUUDlMZjU4LWZyZmtjcEczaGxiSGJFUUtHOU9hNXZSeHE3NklGTnhWQlc3SFVPZXZnSm02RWJJSTlVWDBLV3hBYUx4eG1rTlJmaXNmRGoySnFFY2tQU3RJeWVlNllkaHB2UFR6ZjZCN0tiZ0tSOUF6cEE?oc=5",
+        "pub_date": "Fri, 21 Jun 2019 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPWkNXRV9HQ1JsN2V6R0cwdmphajJZc0E1dzJFWm00OU9wUl9mS21SVExUUDlMZjU4LWZyZmtjcEczaGxiSGJFUUtHOU9hNXZSeHE3NklGTnhWQlc3SFVPZXZnSm02RWJJSTlVWDBLV3hBYUx4eG1rTlJmaXNmRGoySnFFY2tQU3RJeWVlNllkaHB2UFR6ZjZCN0tiZ0tSOUF6cEE?oc=5\" target=\"_blank\">Oiling the Wheels of Change in Traditional Business: The Marico Story</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">INSEAD Knowledge</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Mari State University had the honor to host Samir Abdul Aziz, Advisor to the Indian Embassy in Moscow - Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPb0s4MmpIdkZ2R0NDWGloNFpidWRja2dKcnRheUtVNVNDTzQtZVctbjZ6UXRSX2ktVGpSa3M0VDdNd2MxR0l1MnV0OXQxU1QyeWVaUkNsaEY1cktkeTFJSmJpUFZGY3JNU2FkeTIzVmxXWjltWTRkbzN6YlctWVU5Qlo2X3EzU3RnbnZvdXZ1NEI4a1pabGVfaGF3M3NfZ1llaERqWWVGRUI1cVR4N1dzQjRiR2VDRkJLeHZSSzFQbE5lOVIxV2hNX3FHQU93d29pNmU5RW1oWU80N1kxa1c5ZnpFOXdPZHhXRHJEbXQ5c1N5NnBicGZDeHUwQnNDNjN0clpsTWRBVGEwSndfNWfSAZMCQVVfeXFMUFFzTUxrODBLSTd1b0dmZFJqeTVXRXpfMVRjMUs4MzRSUDJpeGFUT19tZ3BzTnZMU0pmWmo2cHM0X2ZkRmJmUkdKeGFyZUNNYnBWUW91cER6Vl94Qnc0TjNPNnZjMHpkcjVOR3h5N0phSGRMYjJZa3FqSktjRG1jTTNabnF5cmQzY1JnWTNKeXNKa1E4YWlIVGpVS3NzdHVnTGtwc1JldWlMaGRiTDBsZUFRdW9RaVdHcXpKUkVqTHdCMTRQX0ljYTVqc0czQ2VOMjJPT0hOT2Z0aU94bVB6M3FQZXhJc1JCMU4xRFJlNExYb1FsSW5aaU9LNVpvZ2tYYXl3NjZ5OVNObTdObkVNVllGTzg?oc=5",
+        "pub_date": "Fri, 11 Apr 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxPb0s4MmpIdkZ2R0NDWGloNFpidWRja2dKcnRheUtVNVNDTzQtZVctbjZ6UXRSX2ktVGpSa3M0VDdNd2MxR0l1MnV0OXQxU1QyeWVaUkNsaEY1cktkeTFJSmJpUFZGY3JNU2FkeTIzVmxXWjltWTRkbzN6YlctWVU5Qlo2X3EzU3RnbnZvdXZ1NEI4a1pabGVfaGF3M3NfZ1llaERqWWVGRUI1cVR4N1dzQjRiR2VDRkJLeHZSSzFQbE5lOVIxV2hNX3FHQU93d29pNmU5RW1oWU80N1kxa1c5ZnpFOXdPZHhXRHJEbXQ5c1N5NnBicGZDeHUwQnNDNjN0clpsTWRBVGEwSndfNWfSAZMCQVVfeXFMUFFzTUxrODBLSTd1b0dmZFJqeTVXRXpfMVRjMUs4MzRSUDJpeGFUT19tZ3BzTnZMU0pmWmo2cHM0X2ZkRmJmUkdKeGFyZUNNYnBWUW91cER6Vl94Qnc0TjNPNnZjMHpkcjVOR3h5N0phSGRMYjJZa3FqSktjRG1jTTNabnF5cmQzY1JnWTNKeXNKa1E4YWlIVGpVS3NzdHVnTGtwc1JldWlMaGRiTDBsZUFRdW9RaVdHcXpKUkVqTHdCMTRQX0ljYTVqc0czQ2VOMjJPT0hOT2Z0aU94bVB6M3FQZXhJc1JCMU4xRFJlNExYb1FsSW5aaU9LNVpvZ2tYYXl3NjZ5OVNObTdObkVNVllGTzg?oc=5\" target=\"_blank\">Mari State University had the honor to host Samir Abdul Aziz, Advisor to the Indian Embassy in Moscow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Dhanush, Mari Selvaraj Reunite for \u2018D56\u2019 | THR India - The Hollywood Reporter India",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWnpMT2VsLW8yc05yRzJFZERZR3R3VWZpOTRIc2I5eDFKV05GVGd1UjRTRjU4R3g2QXpmV1Q3a3RMc2UyNGk5Q0lNZThNYmlqRnpNVDFhSkRnMzVjREpnSDdleE96RVBCalZtQmJ5bFdBdHpoMmtiYlpOUFg5cE9BN1NNdW9KckdWY3lCQUZhNURpYV9aRlFvUNIBngFBVV95cUxNbzRqZkRzMGtOS0pqbDg1OHRQbEhvZ3lZSFRWS0xDVDZHTGNyakJ5Sm83bmFtZGVfOVFJeDR6V19OT19ZZWxfQnlxNXYtR2MxaTJIcWM0bEFuQVRlT1ZaQWxiZVRGRnU3M1ZhTTJ3ZzJfREpoZGdqZGFWZ0JnNkFSZHN6QURSMFBqV2x6RGlyR04tZFVfc2h3VGtmeGNmdw?oc=5",
+        "pub_date": "Mon, 14 Apr 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPWnpMT2VsLW8yc05yRzJFZERZR3R3VWZpOTRIc2I5eDFKV05GVGd1UjRTRjU4R3g2QXpmV1Q3a3RMc2UyNGk5Q0lNZThNYmlqRnpNVDFhSkRnMzVjREpnSDdleE96RVBCalZtQmJ5bFdBdHpoMmtiYlpOUFg5cE9BN1NNdW9KckdWY3lCQUZhNURpYV9aRlFvUNIBngFBVV95cUxNbzRqZkRzMGtOS0pqbDg1OHRQbEhvZ3lZSFRWS0xDVDZHTGNyakJ5Sm83bmFtZGVfOVFJeDR6V19OT19ZZWxfQnlxNXYtR2MxaTJIcWM0bEFuQVRlT1ZaQWxiZVRGRnU3M1ZhTTJ3ZzJfREpoZGdqZGFWZ0JnNkFSZHN6QURSMFBqV2x6RGlyR04tZFVfc2h3VGtmeGNmdw?oc=5\" target=\"_blank\">Dhanush, Mari Selvaraj Reunite for \u2018D56\u2019 | THR India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hollywood Reporter India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "THR India's 25 in 25: Rage and Reflection in Mari Selvaraj's 'Pariyerum Perumal' - The Hollywood Reporter India",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDdDVVZIRG54VzZxemt2a0FPM0txUmVsOTRCdUlib3ZONjZqMFNoZFl4Y1pEaktLdlJYdjU2S05WcTdkZjRpWndKR2lLd0lxZEJsaXhYbnZjdUZ5WTRvcmRUZFVmck5VTllRRzVybUJSQ1gtMExoSHJQME1lX0t6N0Z3TU42NkY5YlRDdzdHVXYtRmd4Z1dFdHRNaHhINE9iTEpzMGMyR2tvVDlacmhXMm5Vd3ZsenotcUQtMDRHT3BuT0cyaG5SQUtIb9IB0AFBVV95cUxPQklVcW9IX09idkdjWXJBQUY4R2tWZjY0T05LU042MnNTSENHRS1FVjdPYkU3SVFXRGg3a0JQVjA3dUhRZU9SQjNVWllHTVBjNE5PajVUc1ZyY29TNWdvbWl0YXdibElfWGNtQl9YMV9pR3pNeTJ0TzBXSWNabFY5d3VOX0FoX1gtWEtxSmE0bFRkTGMxcDR2NkYzQ216eU15blZRMEhUWDRkdWh5TmhqaExiZVN6VzJKcllZVTlYWEVXSmczbUFEX3plLVVzRDlt?oc=5",
+        "pub_date": "Wed, 24 Dec 2025 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDdDVVZIRG54VzZxemt2a0FPM0txUmVsOTRCdUlib3ZONjZqMFNoZFl4Y1pEaktLdlJYdjU2S05WcTdkZjRpWndKR2lLd0lxZEJsaXhYbnZjdUZ5WTRvcmRUZFVmck5VTllRRzVybUJSQ1gtMExoSHJQME1lX0t6N0Z3TU42NkY5YlRDdzdHVXYtRmd4Z1dFdHRNaHhINE9iTEpzMGMyR2tvVDlacmhXMm5Vd3ZsenotcUQtMDRHT3BuT0cyaG5SQUtIb9IB0AFBVV95cUxPQklVcW9IX09idkdjWXJBQUY4R2tWZjY0T05LU042MnNTSENHRS1FVjdPYkU3SVFXRGg3a0JQVjA3dUhRZU9SQjNVWllHTVBjNE5PajVUc1ZyY29TNWdvbWl0YXdibElfWGNtQl9YMV9pR3pNeTJ0TzBXSWNabFY5d3VOX0FoX1gtWEtxSmE0bFRkTGMxcDR2NkYzQ216eU15blZRMEhUWDRkdWh5TmhqaExiZVN6VzJKcllZVTlYWEVXSmczbUFEX3plLVVzRDlt?oc=5\" target=\"_blank\">THR India's 25 in 25: Rage and Reflection in Mari Selvaraj's 'Pariyerum Perumal'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hollywood Reporter India</font>",
+        "sentiment": "NEUTRAL"
+      }
+    ],
+    "promoter_analysis": {
+      "jai": {
+        "negative_news_count": 0,
+        "risk_level": "LOW",
+        "articles": []
+      }
+    },
+    "litigation": {
+      "total_cases": 0,
+      "pending_cases": 0,
+      "case_types": [],
+      "high_value_cases": [],
+      "risk_score": 0,
+      "search_attempted": true,
+      "source": "e-Courts Portal"
+    },
+    "sector_trends": {
+      "sector": "Services",
+      "recent_regulations": [],
+      "market_sentiment": "POSITIVE",
+      "growth_outlook": "STABLE",
+      "key_risks": []
+    },
+    "credit_ratings": {
+      "agencies": [],
+      "latest_rating": null,
+      "rating_trend": "STABLE",
+      "outlook": "STABLE"
+    },
+    "overall_risk_flags": []
+  },
+  "recommendation": {
+    "decision": "REJECTED",
+    "credit_score": 570,
+    "rating": "B",
+    "recommended_loan_amount": 0,
+    "recommended_interest_rate": 0,
+    "five_cs_breakdown": {
+      "character": 100,
+      "capacity": 20,
+      "capital": 10,
+      "collateral": 90,
+      "conditions": 100
+    },
+    "explanation": "Credit Decision: REJECTED\nCredit Score: 570 (Rating: B)\n\nKey Factors:\n- Capacity concerns (Score: 20/100)\n- Capital structure concerns (Score: 10/100)",
+    "risk_factors": [],
+    "strengths": [
+      "Conservative leverage (D/E: 0.00x)",
+      "High revenue consistency across sources",
+      "Good capacity utilization (75%)"
+    ]
+  },
+  "cam_document_path": "./outputs\\CAM_Mari_Company__20260311.docx",
+  "processing_timestamp": "2026-03-11T22:41:33.917756"
+}

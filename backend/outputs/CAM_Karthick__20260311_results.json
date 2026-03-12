@@ -1,0 +1,227 @@
+{
+  "company_info": {
+    "company_name": "Karthick ",
+    "sector": "Manufacturing",
+    "incorporation_year": 2015,
+    "promoters": [
+      "jai"
+    ]
+  },
+  "ingested_data": {
+    "gst": {
+      "gstin": null,
+      "total_turnover": 0,
+      "input_tax_credit": 0,
+      "tax_liability": 0,
+      "filing_frequency": [],
+      "gstr3b_vs_gstr2a_mismatch": false
+    },
+    "mca": {
+      "director_changes": 0,
+      "charge_modifications": 0,
+      "compliance_status": "Active",
+      "last_agm_date": null,
+      "authorized_capital": 100,
+      "paid_up_capital": 75
+    }
+  },
+  "research_results": {
+    "company_name": "Karthick ",
+    "research_date": "2026-03-11T22:40:11.482141",
+    "news_analysis": [
+      {
+        "title": "Supreme Court to Decide Contours of the \u201cRight to be Forgotten\u201d in Judicial Records. - Internet Freedom Foundation",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeDNtYS1OVjlYckN4bTJueEdOYm44Y1MzSDVIdkVmUWNKYkdQaEhrZEhpUjFTRnlycVEzQTVWYTR0REx2aHpGcWY2VFpjTkZVeUxVZ2FiWDlHTnBEOEF4M3UtZkdoc04yZUVyTF9BNUE1OTF2N1BfQlRCMHRhRFVSNlphVDUzcGdfTE91WUhDcFkwVFIxN2VzaHpGYmlKS1RBUDZKX2tjeWFYQlNtQXc?oc=5",
+        "pub_date": "Mon, 15 Sep 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOeDNtYS1OVjlYckN4bTJueEdOYm44Y1MzSDVIdkVmUWNKYkdQaEhrZEhpUjFTRnlycVEzQTVWYTR0REx2aHpGcWY2VFpjTkZVeUxVZ2FiWDlHTnBEOEF4M3UtZkdoc04yZUVyTF9BNUE1OTF2N1BfQlRCMHRhRFVSNlphVDUzcGdfTE91WUhDcFkwVFIxN2VzaHpGYmlKS1RBUDZKX2tjeWFYQlNtQXc?oc=5\" target=\"_blank\">Supreme Court to Decide Contours of the \u201cRight to be Forgotten\u201d in Judicial Records.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Internet Freedom Foundation</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "NEOBRAM WHERE AI GETS TO WORK: Revolutionising Business with Al: Karthick A Raju\u2019s Transformative Leadership - Business Connect Magazine",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yUmdBNXZfSUdKcjdzSzlvZXZIYXBuVzdGUlMyY1YxZXV5NUc3cVUzQlVfbi1FWkNLZ3FVTEloVHF6R3FpQUxOUERzQ2JxMjRINGpUaWRDUHFHRmkwYW9KR2xhb3lYYXNEZ2lhQ0FPRQ?oc=5",
+        "pub_date": "Thu, 26 Feb 2026 12:42:13 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE8yUmdBNXZfSUdKcjdzSzlvZXZIYXBuVzdGUlMyY1YxZXV5NUc3cVUzQlVfbi1FWkNLZ3FVTEloVHF6R3FpQUxOUERzQ2JxMjRINGpUaWRDUHFHRmkwYW9KR2xhb3lYYXNEZ2lhQ0FPRQ?oc=5\" target=\"_blank\">NEOBRAM WHERE AI GETS TO WORK: Revolutionising Business with Al: Karthick A Raju\u2019s Transformative Leadership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Connect Magazine</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "'My question was misunderstood': YouTuber Karthik apologizes to Gouri Kishan after backlash; Industry dem - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNWjhYRUVQZGhBaldrVGdUalpNdHhLNlZrejllYUdnRXZ1cGs4UkhtYXRGdWhNT2FFZGN6dC1xU29VTGlEeHpqek1CTUk5OWdpaGZtNHNxZFg5Y01ON05fWjhLYW5LOExodHdsS1VocDRnWEZUTExDM2xRSFg2UG5TTjBCc0hMTm5Dd1R0R3RwazU2QmdmTkpoZUpKYnhFYzRZQUtkYzFrMjdVVnRpR1Y2bUV4bVFVOTJKT2l2a3BGbkMzU2FwbTlSZFN0ellGMEZnN2VWTllFem5yNUtrNmRobDZFSndJZE83UlRjNkota0NFc1AwRFRoQXpzSExvYUtsRW1wb0hnYjFGTmhhMnJwUUR4NmN0RW9NTG9paFZGLUlKR2VnXzExUkNzXzRRelNvbHBoR1VBLXNlVzlJWUdDYtIBxgJBVV95cUxPc1lmOWE4NEx1anpHYXA2NXN6bGtxd00tcThfZVZlQVpleVNNczJXRHg0RXpvVy1YdHdkLTRDVFhpdHVuTXAtbWh2Wk1Tb1VNNUxYb056emVoR25fT1NVWG1FYzVLUms1R0U4Y013Q0NmTXg1YjNjZkdiQnJWNWtsOHB0clhGMFBqRVhNenFLYWhSa05kamdoUERocVBjWnluWGI5WTdpX0VXd21oMUZJdEhueFF6cmxIdnFzWG1CMnBacmh1WUlZbnNPZVhvNjZpcWRHQ1FmMGZySDFWRGg1Tmc5VnotREliRHN5ZHBRZjBLbWZwb2wybUxqNFJ3YUtMUXlTLVJQZHRScEpBZnJUa3R0QU5LeWNBa2Jud0ZBUUFGazV3RFlqMWxfTU9DcWVxc2RKTXZKLUdHUWpMQzZ5bG5RMUIwZw?oc=5",
+        "pub_date": "Wed, 12 Nov 2025 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAJBVV95cUxNWjhYRUVQZGhBaldrVGdUalpNdHhLNlZrejllYUdnRXZ1cGs4UkhtYXRGdWhNT2FFZGN6dC1xU29VTGlEeHpqek1CTUk5OWdpaGZtNHNxZFg5Y01ON05fWjhLYW5LOExodHdsS1VocDRnWEZUTExDM2xRSFg2UG5TTjBCc0hMTm5Dd1R0R3RwazU2QmdmTkpoZUpKYnhFYzRZQUtkYzFrMjdVVnRpR1Y2bUV4bVFVOTJKT2l2a3BGbkMzU2FwbTlSZFN0ellGMEZnN2VWTllFem5yNUtrNmRobDZFSndJZE83UlRjNkota0NFc1AwRFRoQXpzSExvYUtsRW1wb0hnYjFGTmhhMnJwUUR4NmN0RW9NTG9paFZGLUlKR2VnXzExUkNzXzRRelNvbHBoR1VBLXNlVzlJWUdDYtIBxgJBVV95cUxPc1lmOWE4NEx1anpHYXA2NXN6bGtxd00tcThfZVZlQVpleVNNczJXRHg0RXpvVy1YdHdkLTRDVFhpdHVuTXAtbWh2Wk1Tb1VNNUxYb056emVoR25fT1NVWG1FYzVLUms1R0U4Y013Q0NmTXg1YjNjZkdiQnJWNWtsOHB0clhGMFBqRVhNenFLYWhSa05kamdoUERocVBjWnluWGI5WTdpX0VXd21oMUZJdEhueFF6cmxIdnFzWG1CMnBacmh1WUlZbnNPZVhvNjZpcWRHQ1FmMGZySDFWRGg1Tmc5VnotREliRHN5ZHBRZjBLbWZwb2wybUxqNFJ3YUtMUXlTLVJQZHRScEpBZnJUa3R0QU5LeWNBa2Jud0ZBUUFGazV3RFlqMWxfTU9DcWVxc2RKTXZKLUdHUWpMQzZ5bG5RMUIwZw?oc=5\" target=\"_blank\">'My question was misunderstood': YouTuber Karthik apologizes to Gouri Kishan after backlash; Industry dem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Karthi hopes for India call-up after key learnings with India 'A' team - Hockey India",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTUVQVzBuMnRoRmhIMDNHekFucWFNWmR1OUh2bzRvUFVfOU8yTkQzNUpQVlBpcndkUFN3cElKM3I5clJubUdLVjJXcmdjQmFoenBIeVd1cGI4WUg2cWdtcDNhOXMzZGtGRVVTbk5GeUtwWndoS0RmT1dTUHpYYlFIS3ZqUHJfeDk2UTFBX2FidHA3NFB5THNQUjNhRHF3dzV1aW04?oc=5",
+        "pub_date": "Wed, 23 Jul 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPTUVQVzBuMnRoRmhIMDNHekFucWFNWmR1OUh2bzRvUFVfOU8yTkQzNUpQVlBpcndkUFN3cElKM3I5clJubUdLVjJXcmdjQmFoenBIeVd1cGI4WUg2cWdtcDNhOXMzZGtGRVVTbk5GeUtwWndoS0RmT1dTUHpYYlFIS3ZqUHJfeDk2UTFBX2FidHA3NFB5THNQUjNhRHF3dzV1aW04?oc=5\" target=\"_blank\">Karthi hopes for India call-up after key learnings with India 'A' team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hockey India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Chennai has moulded my outlook: Musician Ghatam Karthick - The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVJiWm5XbUxpUTAtN2VPdHJMYTlUeWVybEp0OUhYQUE5TFRNd2VpVjFycFk0Sk5iZGF4blVibGhITG4zZHdsc0ZESWpiV2tyaWdQYUd5RUZzSlJEbUd2WWpYTF9HYWpzeDdkMzdpMmxRZzJFX3ZLQWFaazRDZ1JVdjlrUTdIRW4wV3djWG5tZVcxLXJDR1VwVEQxZ2xyZGFIclAtVzctLTVpS3JjeVk1bkdCLTQxSHZPVDNTOdIBwwFBVV95cUxQY3BGOFR6d2NXVFhmZjlKaWtTWnphbUxhYnpWcVpZbkxyZVl5X2xzN2ZBdGRuZE9Wc25lZHh2VUNhU1o3TEJkQm5DRlB0a0RxNTRRMmUzNGpCaGdYbDI3TmhET29CTUtZZTJ2WDRwWFdiRjdRTmYxUVlBUm50X3BKME1UMl9CbG01Mm5XdWZiZ2FFblFJNEdNakc5VnkzTVhVQllMQl8tMzV4OHNWWTM3dVA3QldSWUJ6alBUZjY0UGYtWkU?oc=5",
+        "pub_date": "Sun, 14 Sep 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVJiWm5XbUxpUTAtN2VPdHJMYTlUeWVybEp0OUhYQUE5TFRNd2VpVjFycFk0Sk5iZGF4blVibGhITG4zZHdsc0ZESWpiV2tyaWdQYUd5RUZzSlJEbUd2WWpYTF9HYWpzeDdkMzdpMmxRZzJFX3ZLQWFaazRDZ1JVdjlrUTdIRW4wV3djWG5tZVcxLXJDR1VwVEQxZ2xyZGFIclAtVzctLTVpS3JjeVk1bkdCLTQxSHZPVDNTOdIBwwFBVV95cUxQY3BGOFR6d2NXVFhmZjlKaWtTWnphbUxhYnpWcVpZbkxyZVl5X2xzN2ZBdGRuZE9Wc25lZHh2VUNhU1o3TEJkQm5DRlB0a0RxNTRRMmUzNGpCaGdYbDI3TmhET29CTUtZZTJ2WDRwWFdiRjdRTmYxUVlBUm50X3BKME1UMl9CbG01Mm5XdWZiZ2FFblFJNEdNakc5VnkzTVhVQllMQl8tMzV4OHNWWTM3dVA3QldSWUJ6alBUZjY0UGYtWkU?oc=5\" target=\"_blank\">Chennai has moulded my outlook: Musician Ghatam Karthick</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Karthi\u2019s \u2018Vaa Vaathiyaar\u2019 Delayed Again, Misses Dec 5 - THR India - The Hollywood Reporter India",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ0s4OFJBa0d5YmVjWkZQbTQxRk5fdlJHTVBoQ2VQQVN2T2tIdTVPanZMaVVVaWZfcG9qNndRNlNmV2xZVGRyeURQYkxvLXJ2ckpyZ0F2MU1qOGJrTFQ2d050cHg1MURXOUtjN2JXeDVZWVAxZm1qdWxERzZXa19BYzJZa0owQVEtSGlHOFZ1U1pvVWhZeW5LUVNYeFZCRkxNaVN5aDdmQlNBVVpRYUJWeUhOU3RlQ2gtTGwwRjBR0gHDAUFVX3lxTE9RY0JUaTBZWGY4RDhpcWlkTTNzUVhrX212SHp3MEhGTi1TRjVFR0FsWS1tYTFDN1ZLRFFvVE5IUTF3Q181eUdGQms4ZDVLb2F4NXFRT3JlOXUxbFlpM1lURHM5WGRaTUYyLUJ6REN1SVNGMzZNaUxkejM3LU9ETGJsOHhZWFl6YlRjWTdwQnJ2Y1RaUkRjdjJ3TnVaZkduSnFSRFFlY2NkQVJZS09DXzJabXBTenkxMGNDQmZXaUFHQlJFNA?oc=5",
+        "pub_date": "Thu, 04 Dec 2025 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ0s4OFJBa0d5YmVjWkZQbTQxRk5fdlJHTVBoQ2VQQVN2T2tIdTVPanZMaVVVaWZfcG9qNndRNlNmV2xZVGRyeURQYkxvLXJ2ckpyZ0F2MU1qOGJrTFQ2d050cHg1MURXOUtjN2JXeDVZWVAxZm1qdWxERzZXa19BYzJZa0owQVEtSGlHOFZ1U1pvVWhZeW5LUVNYeFZCRkxNaVN5aDdmQlNBVVpRYUJWeUhOU3RlQ2gtTGwwRjBR0gHDAUFVX3lxTE9RY0JUaTBZWGY4RDhpcWlkTTNzUVhrX212SHp3MEhGTi1TRjVFR0FsWS1tYTFDN1ZLRFFvVE5IUTF3Q181eUdGQms4ZDVLb2F4NXFRT3JlOXUxbFlpM1lURHM5WGRaTUYyLUJ6REN1SVNGMzZNaUxkejM3LU9ETGJsOHhZWFl6YlRjWTdwQnJ2Y1RaUkRjdjJ3TnVaZkduSnFSRFFlY2NkQVJZS09DXzJabXBTenkxMGNDQmZXaUFHQlJFNA?oc=5\" target=\"_blank\">Karthi\u2019s \u2018Vaa Vaathiyaar\u2019 Delayed Again, Misses Dec 5 - THR India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hollywood Reporter India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Ingram Micro India names Karthik Narayanan as Director \u2013 Advanced Solutions - varindia.com",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUEJaZkwxbVNIc3JfQm45dE5CQTJnV0dia2wyQlR0bUFyTUhWV3Zzay02WEtna0RyTFJmLWVXd2ZZNWxuUnRDSnpXRnBkbDQ0TnQ0YlBBMVBvREJTUGxKek43bDNieFJWV2htRXBKRlNRRlNnbWZBTkxnRHJacmU4T1NFTy0xTVNZVVdaZDB0Njdxd1BmNWlScGxlZHIxY2lGWlFjZ1UteUpLRzhEZlE?oc=5",
+        "pub_date": "Tue, 05 Aug 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOUEJaZkwxbVNIc3JfQm45dE5CQTJnV0dia2wyQlR0bUFyTUhWV3Zzay02WEtna0RyTFJmLWVXd2ZZNWxuUnRDSnpXRnBkbDQ0TnQ0YlBBMVBvREJTUGxKek43bDNieFJWV2htRXBKRlNRRlNnbWZBTkxnRHJacmU4T1NFTy0xTVNZVVdaZDB0Njdxd1BmNWlScGxlZHIxY2lGWlFjZ1UteUpLRzhEZlE?oc=5\" target=\"_blank\">Ingram Micro India names Karthik Narayanan as Director \u2013 Advanced Solutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">varindia.com</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Karthi's Vaa Vaathiyaar postponed one day ahead of its release. Here's why - India Today",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONWVybTFfYzZZamtaTkZjYW05NG1SOUlRSURVb0FNRUd4WFlHS2RlSnFyTWpabDRKcGE2SEtBRy1mc3hNaHViZUQ3cnFwQ1duaDQ3TnJUY1FqeWpjR1NwOENKOVhrTkRWd1dtVTB6Vmk5UlhPdklETS1TTFBOM2JtYkdwYkNacVpyeXhXelQyLTBuYUJIMVliQURUR1ZpYWw5NHlldzFTdGlOQ19NOVlwQzZ2YS1BN1hiQmxWSUJfVjI5dmVVdnJYRnhocFBQMW45bDVjQmNTRHc0Rk03Um0wTHJSQdIB6AFBVV95cUxPWURyV3VCaDFydVR6anM1ekpXMVZEcjdST0tXZ3pvLVhUQVpqZWVyNXNUNzZ2OTY2WjdNZXdfU01YRWZhSVFmRXZoUHpNQk9NOHQzb0o1X05pNC1EdjdwZklKWGV2eDhqa05meW5QUkxMOXJtdDFMeUg3ZmtIY2poWm9DM2MzakdHYkFpUS1qSWxuTEdoUDNGdVV3TU9VNDZKUlJ1Wlg4SFRXOEhhRWZkc0I4cW9NQll0ak5PLTE0QUp4OFA2NjBhWnh5M3dkUENPbzI2TUxWSnVRelhKay1EcENvcjRMaWQ0?oc=5",
+        "pub_date": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxONWVybTFfYzZZamtaTkZjYW05NG1SOUlRSURVb0FNRUd4WFlHS2RlSnFyTWpabDRKcGE2SEtBRy1mc3hNaHViZUQ3cnFwQ1duaDQ3TnJUY1FqeWpjR1NwOENKOVhrTkRWd1dtVTB6Vmk5UlhPdklETS1TTFBOM2JtYkdwYkNacVpyeXhXelQyLTBuYUJIMVliQURUR1ZpYWw5NHlldzFTdGlOQ19NOVlwQzZ2YS1BN1hiQmxWSUJfVjI5dmVVdnJYRnhocFBQMW45bDVjQmNTRHc0Rk03Um0wTHJSQdIB6AFBVV95cUxPWURyV3VCaDFydVR6anM1ekpXMVZEcjdST0tXZ3pvLVhUQVpqZWVyNXNUNzZ2OTY2WjdNZXdfU01YRWZhSVFmRXZoUHpNQk9NOHQzb0o1X05pNC1EdjdwZklKWGV2eDhqa05meW5QUkxMOXJtdDFMeUg3ZmtIY2poWm9DM2MzakdHYkFpUS1qSWxuTEdoUDNGdVV3TU9VNDZKUlJ1Wlg4SFRXOEhhRWZkc0I4cW9NQll0ak5PLTE0QUp4OFA2NjBhWnh5M3dkUENPbzI2TUxWSnVRelhKay1EcENvcjRMaWQ0?oc=5\" target=\"_blank\">Karthi's Vaa Vaathiyaar postponed one day ahead of its release. Here's why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Indian coach Karthik Yarrammagari mentors young talent across borders - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTTVIbktrZUpWR281bk5OYmRVcUFyalY1dzVVWW81V0xsN1FrVnVKOTRGeEhMQkhGbmtRTGxCeXpmaXV3VzdQU292S3pBdWZCdThnU3dCQmE0NW9nUUZsdXVLTkVzMXlWT3ZxNlY5Tm5TNUllYTRua0pQRzF6bW1zS3o0MlpmY0RLdzR3cGNhWEdhTmphd0hEZDNGdlRZS1U1dFdtRC1lcVhoTXpfZEdIZUlfd09oZjRydnRYbWFRd3MyOFFWcHhJbzA3N0U5bVJBNVNGOGFaUzhyYlVmaEdSOU92UHdESDDSAewBQVVfeXFMT0lhdUN0emIyWWNCanlPaXVNREtkaGZ2Z0FlNXlHTXFZNDIxRE80V1MyMlBqdnp4TkZQanBBNy1LdDRLeGxQU0h5UUhhd0hhaGZpcmpYbGZ6VURFS3ViY1FLOHRwbjJVTi1LWHhDM2tYWmo1QzNkRnAtcGJOTEFaNU9ETWw1Slc2bW82Z3FQWV9PSVBlTHRZYmRmeU9SXy04WVVmVXhsRHpVOHlaR2tKNklXM285UFZXdnVMY0Z3MWVCNEVTVFNCVVBrMnpJZFEtOTZhU3Y2ZGktMmdRb2RjdmZNMEZ6WG5McXA5Vko?oc=5",
+        "pub_date": "Sat, 11 Oct 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTTVIbktrZUpWR281bk5OYmRVcUFyalY1dzVVWW81V0xsN1FrVnVKOTRGeEhMQkhGbmtRTGxCeXpmaXV3VzdQU292S3pBdWZCdThnU3dCQmE0NW9nUUZsdXVLTkVzMXlWT3ZxNlY5Tm5TNUllYTRua0pQRzF6bW1zS3o0MlpmY0RLdzR3cGNhWEdhTmphd0hEZDNGdlRZS1U1dFdtRC1lcVhoTXpfZEdIZUlfd09oZjRydnRYbWFRd3MyOFFWcHhJbzA3N0U5bVJBNVNGOGFaUzhyYlVmaEdSOU92UHdESDDSAewBQVVfeXFMT0lhdUN0emIyWWNCanlPaXVNREtkaGZ2Z0FlNXlHTXFZNDIxRE80V1MyMlBqdnp4TkZQanBBNy1LdDRLeGxQU0h5UUhhd0hhaGZpcmpYbGZ6VURFS3ViY1FLOHRwbjJVTi1LWHhDM2tYWmo1QzNkRnAtcGJOTEFaNU9ETWw1Slc2bW82Z3FQWV9PSVBlTHRZYmRmeU9SXy04WVVmVXhsRHpVOHlaR2tKNklXM285UFZXdnVMY0Z3MWVCNEVTVFNCVVBrMnpJZFEtOTZhU3Y2ZGktMmdRb2RjdmZNMEZ6WG5McXA5Vko?oc=5\" target=\"_blank\">Indian coach Karthik Yarrammagari mentors young talent across borders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Karthi\u2019s \u2018Vaa Vathiyar\u2019 Trailer Packed With \u2018MGRisms - THR India - The Hollywood Reporter India",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNTlYazZONnlkYk0zMFRFZk43WlVKWWQ3YlhzajcyV3k1eDFIaDg4RlZSV0FTenZTS2RIUDY0LWhaNUVSUjhNMVhFdTI4dEsxNkg3OHZFbmk0alktRlo2ZkgzaG54NGh5NlJnVnZVblRMS3VJZzdKQ2RpOWctdWxrNjR5R0N4U3VzOHR5OFhYczQ0alhqMXE4NlR6Xy1RZ2xSX3MwSk5NaVVWZTNaS0FKLWtEdjJuay16TGfSAb8BQVVfeXFMUEZxOUpNaXAyWUhyQ2ZMWmNnRC1oVDBpM3FOdE1XbnQxUGo5UG4xdGx1eTJ0UmRaejZkcnBleVJUZlBYV1M2a0RtY2kzdElmaG9UblVzQWsxZ3lsRmxXYlBtT3pCcEVHZE1pNlg0Z0FIb2xJN0Ztb3A0dHFOLUpPQnZpTkxkdFpEUzdoVlV5SXprcTBzZEw5Mm9WdkZ1dmhSTjBSU3JGcmd5ODBrUmJ6Vy1xRldmdU5ZbTFyTHdMdUk?oc=5",
+        "pub_date": "Tue, 09 Dec 2025 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQNTlYazZONnlkYk0zMFRFZk43WlVKWWQ3YlhzajcyV3k1eDFIaDg4RlZSV0FTenZTS2RIUDY0LWhaNUVSUjhNMVhFdTI4dEsxNkg3OHZFbmk0alktRlo2ZkgzaG54NGh5NlJnVnZVblRMS3VJZzdKQ2RpOWctdWxrNjR5R0N4U3VzOHR5OFhYczQ0alhqMXE4NlR6Xy1RZ2xSX3MwSk5NaVVWZTNaS0FKLWtEdjJuay16TGfSAb8BQVVfeXFMUEZxOUpNaXAyWUhyQ2ZMWmNnRC1oVDBpM3FOdE1XbnQxUGo5UG4xdGx1eTJ0UmRaejZkcnBleVJUZlBYV1M2a0RtY2kzdElmaG9UblVzQWsxZ3lsRmxXYlBtT3pCcEVHZE1pNlg0Z0FIb2xJN0Ztb3A0dHFOLUpPQnZpTkxkdFpEUzdoVlV5SXprcTBzZEw5Mm9WdkZ1dmhSTjBSU3JGcmd5ODBrUmJ6Vy1xRldmdU5ZbTFyTHdMdUk?oc=5\" target=\"_blank\">Karthi\u2019s \u2018Vaa Vathiyar\u2019 Trailer Packed With \u2018MGRisms - THR India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hollywood Reporter India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "'Hotspot' 2 trailer: Vignesh Karthick directorial promises bold conversations, controversial themes, and - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNSkFXVFk4WHdwS1V5RFhReGFGV1FEWUpOaVBsRkdVNVBnRE0yM3pRVzB3bGVqT19XNl9hSXltZ2piVHNLLTFFLU01eUhnRnhuOTNlVTVpYVFiQ0g3X2RzdjlQR0xJT21SMVdSUndZNEk5bjF1NHBGQTRhcGs3WVdGbWd0T3JDNnYxcllhcFIycmg1aVlXbUZmTmhUN2NBcE5DV3ViYWVLeVU2RFlEWXBWZThMTE9FX2p6ZGZRN29uNExsaVpBQmpxWFhIdHFjdEtHRUJuRjVOSlVEWlJnN09ucE41TWFDOUxPNkQ2QXNJejJXSjRpYzVPaVhOT0xTSWZ5NVhvTnZDNDcyQlhFU2o0VTdyVWNBcHA3Q08yM0VXRU93aTVyRlRZSWtNUFFKck43UUd6RTRDUW1la3fSAcACQVVfeXFMTmVVUlBFYXNCR09KdFFrOWgyZGVpNWlDYm9OYTJUaFowVDFCcGRzX3VXZEJQQm1uTTRXT05rcTcwRTdTWlpiVXVTeXZrZkJOaDIwMmpMQXBXUFF4MWE5OXM0cnZ0Q3VEdk81MUpQWE9hVGItOENJeDZQSDFVa29sS1ZHYS1yX1dHYXJmQkdiTmt2S2RQN1ZnRjlIdEN1RXA3cUhFcXdIVWVybmR0ZHNLQWJ2cGlRSDVLWUw3YlBDYW1ueXpad3NWcmEyWk5FSmtreUFzMy1BSXQxWUFkaTNZYTdnZWtsZDRHRHJmemJITnFwNV9lTjZKdHpCWmhnX1BEazlXZjRaZUtma0VrOElvTHFTcWt4NEpiS0FZSEZzY2ItRmxUbFF1X3c1dnVJV29PVHZsSUtzaWdqYXh4cElveVQ?oc=5",
+        "pub_date": "Wed, 07 Jan 2026 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwJBVV95cUxNSkFXVFk4WHdwS1V5RFhReGFGV1FEWUpOaVBsRkdVNVBnRE0yM3pRVzB3bGVqT19XNl9hSXltZ2piVHNLLTFFLU01eUhnRnhuOTNlVTVpYVFiQ0g3X2RzdjlQR0xJT21SMVdSUndZNEk5bjF1NHBGQTRhcGs3WVdGbWd0T3JDNnYxcllhcFIycmg1aVlXbUZmTmhUN2NBcE5DV3ViYWVLeVU2RFlEWXBWZThMTE9FX2p6ZGZRN29uNExsaVpBQmpxWFhIdHFjdEtHRUJuRjVOSlVEWlJnN09ucE41TWFDOUxPNkQ2QXNJejJXSjRpYzVPaVhOT0xTSWZ5NVhvTnZDNDcyQlhFU2o0VTdyVWNBcHA3Q08yM0VXRU93aTVyRlRZSWtNUFFKck43UUd6RTRDUW1la3fSAcACQVVfeXFMTmVVUlBFYXNCR09KdFFrOWgyZGVpNWlDYm9OYTJUaFowVDFCcGRzX3VXZEJQQm1uTTRXT05rcTcwRTdTWlpiVXVTeXZrZkJOaDIwMmpMQXBXUFF4MWE5OXM0cnZ0Q3VEdk81MUpQWE9hVGItOENJeDZQSDFVa29sS1ZHYS1yX1dHYXJmQkdiTmt2S2RQN1ZnRjlIdEN1RXA3cUhFcXdIVWVybmR0ZHNLQWJ2cGlRSDVLWUw3YlBDYW1ueXpad3NWcmEyWk5FSmtreUFzMy1BSXQxWUFkaTNZYTdnZWtsZDRHRHJmemJITnFwNV9lTjZKdHpCWmhnX1BEazlXZjRaZUtma0VrOElvTHFTcWt4NEpiS0FZSEZzY2ItRmxUbFF1X3c1dnVJV29PVHZsSUtzaWdqYXh4cElveVQ?oc=5\" target=\"_blank\">'Hotspot' 2 trailer: Vignesh Karthick directorial promises bold conversations, controversial themes, and</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Karthi\u2019s 'Vaa Vaathiytar' Set for December 5 Release - THR India - The Hollywood Reporter India",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX1Nkb1ZZOFB0Q1ljQzdmMUdWRzhtU2l6UFpBdk5KR2lVOEwwUERRTDNuQlc4WWpHaU54ZGM3QWZhcFpralBLSHRIVGk5WFF5V09WRHY2VGhJRXhrX2NvNkdwbEZGWDJkVjc1dVZPRFdVNWVzSnMzTlA0OGEtNVpScWVHY3VhS0ZFNG9GcTRoQUJucWV1MzFVX1BZb3FHMS1ubHYwekQ3MnhiVXhKZ1YwSEh2OXdBb1nSAbwBQVVfeXFMT2tmWDlKdGUyZ3RDSFBUUEhoYzRra0NTNDNwalhkTlJIYVBCNFlCODU0Mkg0YXo3SzNVekRzSnVhbk10V3NERmNUbGNQWGtQLU12bFRCdTY2Y25ObEQtLVRFdUlnUG1Kazdfdk0xUm5nR19BdWY1a3F6V3o2M2V0YVBDdEc1Z2UwRnoxSUFPdUhYcTBSMGFNNnpIalZDM2hURVpIazMyalc2cnEzRzFROVdjR1hjRzc3XzNvZVU?oc=5",
+        "pub_date": "Wed, 08 Oct 2025 05:51:47 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQX1Nkb1ZZOFB0Q1ljQzdmMUdWRzhtU2l6UFpBdk5KR2lVOEwwUERRTDNuQlc4WWpHaU54ZGM3QWZhcFpralBLSHRIVGk5WFF5V09WRHY2VGhJRXhrX2NvNkdwbEZGWDJkVjc1dVZPRFdVNWVzSnMzTlA0OGEtNVpScWVHY3VhS0ZFNG9GcTRoQUJucWV1MzFVX1BZb3FHMS1ubHYwekQ3MnhiVXhKZ1YwSEh2OXdBb1nSAbwBQVVfeXFMT2tmWDlKdGUyZ3RDSFBUUEhoYzRra0NTNDNwalhkTlJIYVBCNFlCODU0Mkg0YXo3SzNVekRzSnVhbk10V3NERmNUbGNQWGtQLU12bFRCdTY2Y25ObEQtLVRFdUlnUG1Kazdfdk0xUm5nR19BdWY1a3F6V3o2M2V0YVBDdEc1Z2UwRnoxSUFPdUhYcTBSMGFNNnpIalZDM2hURVpIazMyalc2cnEzRzFROVdjR1hjRzc3XzNvZVU?oc=5\" target=\"_blank\">Karthi\u2019s 'Vaa Vaathiytar' Set for December 5 Release - THR India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hollywood Reporter India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "'Where is Shreyas Iyer? How could he miss out?': Dinesh Karthik slams India's Asia Cup squad omission - W - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQeVUzQVMyWTNkblFrYWVqYWRRTlE4aks3NmZMOXhlNER6al90N2xwZG1KZGVqc1BFaXBTNkFuYWxMWU9DVEZiYzlnLWpYTXEwd0x1TFk1WnFKOTVBTjJ1Skg4dnVVNmVySFNXSm1kQ0xwazZxblkwazM4OE9nNElaWG9JOF8tVWhvTndFV3pjTm9nZnR3VUdFUXZuSDRieUoyQWY0d2JRMkVrSVpsN0NicXQ0Z1RtRXpXbDJFVktuczZOcTZPQTRGY054NTloQkp3eFZIMGd2TFFYQk0zU0ZfeW9zZUprWkNhekxMOWl5YWZxUUVNa1YxR2NORDIyU0NSdnFiZmZkaFVoYjJNbm9YcXQ3X0RlQdIBmwJBVV95cUxNSlJrN0EzMEpyRnJ4MUJtSGI2a3hQNllmVlloSl92WFZtYTRPdE9xT1c0aE5KT3VwUHZrSnIwV0d1STVmNkh3cU1lWkphUXRTcVdHUEFrSzhQSFNPTmJQd0JKcUZEUlF4V1BKaXdQaVVCX3loQ21pbVRTNE9YRHFlbEt3dTdEZWVVMEF1b1lfYmZSbER3VnItdkxXR2I2N0pBMlFtT3FnSzdlR0VBLUV4RmdmQUdoME1FZTZQMnJUREREQVJrOFdIbEdPUjMzcXdYNTVtRHNXSXMwN0FHdWJXeUhYYzZIN0M4Y3V6bWpKNkdFcDVhczFUMzNkcnpPTnJidUYzZjB1VmxfQWRMQV9VVmI3WW9iQXNTVlYw?oc=5",
+        "pub_date": "Thu, 21 Aug 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxQeVUzQVMyWTNkblFrYWVqYWRRTlE4aks3NmZMOXhlNER6al90N2xwZG1KZGVqc1BFaXBTNkFuYWxMWU9DVEZiYzlnLWpYTXEwd0x1TFk1WnFKOTVBTjJ1Skg4dnVVNmVySFNXSm1kQ0xwazZxblkwazM4OE9nNElaWG9JOF8tVWhvTndFV3pjTm9nZnR3VUdFUXZuSDRieUoyQWY0d2JRMkVrSVpsN0NicXQ0Z1RtRXpXbDJFVktuczZOcTZPQTRGY054NTloQkp3eFZIMGd2TFFYQk0zU0ZfeW9zZUprWkNhekxMOWl5YWZxUUVNa1YxR2NORDIyU0NSdnFiZmZkaFVoYjJNbm9YcXQ3X0RlQdIBmwJBVV95cUxNSlJrN0EzMEpyRnJ4MUJtSGI2a3hQNllmVlloSl92WFZtYTRPdE9xT1c0aE5KT3VwUHZrSnIwV0d1STVmNkh3cU1lWkphUXRTcVdHUEFrSzhQSFNPTmJQd0JKcUZEUlF4V1BKaXdQaVVCX3loQ21pbVRTNE9YRHFlbEt3dTdEZWVVMEF1b1lfYmZSbER3VnItdkxXR2I2N0pBMlFtT3FnSzdlR0VBLUV4RmdmQUdoME1FZTZQMnJUREREQVJrOFdIbEdPUjMzcXdYNTVtRHNXSXMwN0FHdWJXeUhYYzZIN0M4Y3V6bWpKNkdFcDVhczFUMzNkcnpPTnJidUYzZjB1VmxfQWRMQV9VVmI3WW9iQXNTVlYw?oc=5\" target=\"_blank\">'Where is Shreyas Iyer? How could he miss out?': Dinesh Karthik slams India's Asia Cup squad omission - W</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "'He was never someone desperate to play for India before': Dinesh Karthik lauds youngster ahead of Asia C - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPaURXQlZqMGxydGY5Q2JCT3gySWNGQ1ZZMjZVc3dfZkw4ZmhRdmJsY1hrbTB2LVVJeUdxTFVzcU5sbVkxOWROS3QwOWpGLWtXRVBRcmFIaGxlelJRcmFNSXFpaVBPUUtnT19BaTlBUnJEOTI3Y052dzVoQnNWV0pTSzVjYUltVGprNkRibTBXaTVHZDR4YzdGdnpKbmRiLUF4aHFnLWExZ1o4Nzg5ZDUwSmRGeWZaSmJPRkJpdnFrdDNSUWZwUWQ4WDFJUDMzYnFPZXNzMXpRU1ZqN3FrNzJjekExZ3l1dklEbnNnUFB4RFVKVFpEZ1pyblQxU0FETVRwZzBieDQ0TFRWWjk0ODFSdXRYQmRYLWIwQnhV0gGgAkFVX3lxTFBIM1o2NGR5V2dlajlpWEdscnFyb04zWTRCdTZBT1FSSTlpcDNXUTJoWHFVMVhIXzltdjRVMkg5M3J1TTg4bmo5UFF0WkxybWtsOW51YVg4VUQ3YnFJd3dJcEM2Sm9KODRXRDRGQUZURTc2MXZXTnZQOWwzemRZVTEzMkRZd29ZWmNVM2hIYk9DeURscENBWlItZm95Wm9mUFE5Y1AzblEta19ZSVhQblVTS1J6NWdpYm9GUjNPbTlDTTNPN3hxejVPT3dhUmtqWVY3dXdKNHhQcXQxN1RuNnFVeVlNcWpzODZ0Y1c5NGhidjRXVVl6WkZNTnh5Tk9oZ3NzWlo5cThrTDFpV1FOQzl1cmhWRjZpdElldmhoQUZhZA?oc=5",
+        "pub_date": "Mon, 01 Sep 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxPaURXQlZqMGxydGY5Q2JCT3gySWNGQ1ZZMjZVc3dfZkw4ZmhRdmJsY1hrbTB2LVVJeUdxTFVzcU5sbVkxOWROS3QwOWpGLWtXRVBRcmFIaGxlelJRcmFNSXFpaVBPUUtnT19BaTlBUnJEOTI3Y052dzVoQnNWV0pTSzVjYUltVGprNkRibTBXaTVHZDR4YzdGdnpKbmRiLUF4aHFnLWExZ1o4Nzg5ZDUwSmRGeWZaSmJPRkJpdnFrdDNSUWZwUWQ4WDFJUDMzYnFPZXNzMXpRU1ZqN3FrNzJjekExZ3l1dklEbnNnUFB4RFVKVFpEZ1pyblQxU0FETVRwZzBieDQ0TFRWWjk0ODFSdXRYQmRYLWIwQnhV0gGgAkFVX3lxTFBIM1o2NGR5V2dlajlpWEdscnFyb04zWTRCdTZBT1FSSTlpcDNXUTJoWHFVMVhIXzltdjRVMkg5M3J1TTg4bmo5UFF0WkxybWtsOW51YVg4VUQ3YnFJd3dJcEM2Sm9KODRXRDRGQUZURTc2MXZXTnZQOWwzemRZVTEzMkRZd29ZWmNVM2hIYk9DeURscENBWlItZm95Wm9mUFE5Y1AzblEta19ZSVhQblVTS1J6NWdpYm9GUjNPbTlDTTNPN3hxejVPT3dhUmtqWVY3dXdKNHhQcXQxN1RuNnFVeVlNcWpzODZ0Y1c5NGhidjRXVVl6WkZNTnh5Tk9oZ3NzWlo5cThrTDFpV1FOQzl1cmhWRjZpdElldmhoQUZhZA?oc=5\" target=\"_blank\">'He was never someone desperate to play for India before': Dinesh Karthik lauds youngster ahead of Asia C</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Who is Karthik Sharma? Young Rajasthan batter sold to CSK for a whopping Rs 14.20 crore - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNaEdnUUh0Y01uVUxuN3F3Z3F6NFhGTUcxTUZPaDFBYlVnejM2SmFSQk5ZRlNYQnROZlMtRjdoRXlKRnFrY2Y3d1pUYWRlYnh6dHNaZ1dSSmU1X2o1eG45NjFCOW5Nb003MEJfWGdJSmN2UUxOa2llSFA0bkVoOG82T1J2SXNpTlI1QjFpNXc5Y2QxMExqeGNNVzRTN3dCbHlBWW9uZHRCLThTOVhYbHdLV2Mya01lTjl3ZHVyQ1AwcEhUSjRWYkVoV0pxVWtMbkhidFFWZGI2NVFyU2NkS0ZDODFEUkNNZmc3Z0o0Q0oxQUhKNVdIZzhXci1GQng1RFJWZ2FLODRHUXdVOFHSAZACQVVfeXFMT0owYzdyU1BjZ2FvSC1XMDJuRTNpNEE3ZUpvb0dtanE2TDZfSUE1eHM1OHdOVjVpdlNvbHZid1lXNks0UW5uaGttNDZraHdoVW0yRGJBdllNaWdIUHZ2akgtbUt0NDZJZ0NfSVZHSVp4S0p1b05kZm1VdUJkMVJxby1JYnZDZTJFLVZIUkh2ZDk2bmRQNXNOclJjcmxpX3F1bWtBeW5ZM1VMdW5rbnRJdDBTYWhnVkdZaFpWNHNMN09LRzZkVFlqdjRtVk9Lay11QXJLeER5eXNGdGx0dE5BdXdnMTNzbXZRcFZrb3JjN3BmLVVvdXQwMUZLVGExNUFMQXpMcmo2QkoxRlFacmRrNnM?oc=5",
+        "pub_date": "Tue, 16 Dec 2025 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxNaEdnUUh0Y01uVUxuN3F3Z3F6NFhGTUcxTUZPaDFBYlVnejM2SmFSQk5ZRlNYQnROZlMtRjdoRXlKRnFrY2Y3d1pUYWRlYnh6dHNaZ1dSSmU1X2o1eG45NjFCOW5Nb003MEJfWGdJSmN2UUxOa2llSFA0bkVoOG82T1J2SXNpTlI1QjFpNXc5Y2QxMExqeGNNVzRTN3dCbHlBWW9uZHRCLThTOVhYbHdLV2Mya01lTjl3ZHVyQ1AwcEhUSjRWYkVoV0pxVWtMbkhidFFWZGI2NVFyU2NkS0ZDODFEUkNNZmc3Z0o0Q0oxQUhKNVdIZzhXci1GQng1RFJWZ2FLODRHUXdVOFHSAZACQVVfeXFMT0owYzdyU1BjZ2FvSC1XMDJuRTNpNEE3ZUpvb0dtanE2TDZfSUE1eHM1OHdOVjVpdlNvbHZid1lXNks0UW5uaGttNDZraHdoVW0yRGJBdllNaWdIUHZ2akgtbUt0NDZJZ0NfSVZHSVp4S0p1b05kZm1VdUJkMVJxby1JYnZDZTJFLVZIUkh2ZDk2bmRQNXNOclJjcmxpX3F1bWtBeW5ZM1VMdW5rbnRJdDBTYWhnVkdZaFpWNHNMN09LRzZkVFlqdjRtVk9Lay11QXJLeER5eXNGdGx0dE5BdXdnMTNzbXZRcFZrb3JjN3BmLVVvdXQwMUZLVGExNUFMQXpMcmo2QkoxRlFacmRrNnM?oc=5\" target=\"_blank\">Who is Karthik Sharma? Young Rajasthan batter sold to CSK for a whopping Rs 14.20 crore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "'Vaa Vaathiyaar' Twitter review: Netizens feel the \u2018MGR factor\u2019 in the Karthi starrer worked well! - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPc18xTUhCYUtpQm1uVm1vRkdXQ3d1ZlllN1Q4WEZ4ZFp0R25DZWExMUxWQ0I2SFlVc25EQVlnM3hDVzNENHVoNEpRN0hqeGRpX1JWOGkwZW16bkJUM0FxRVdoU1BTT2dkd0pxMmV1czdRbVVQZVRRM2pCZlBDTDR4WkNBckpkYTNEbWcyREQ2dDNEVjZHZ0JPRkItSV9tUHpsa0ZxeE8zeHBTeDM1SWE3S2o5aEhJLUtDT0ZvSTZxdUkyVHpLTnNfT0JWci1PNXNDeERqQjdpQ2R3aXpuY045OGdHV1FuLTJsUXZjZ3dQZVNEUURROUZxcVhCQ3pxVnQ5d1lxSm5TSW9SZjJqVGduTy1KcknSAZoCQVVfeXFMUEM1TjVYdzJXNFlhT0RFejVZd0ZNaUFPSXlkVU8wbndoN2lqRS1PVGV0OGVFdjdteXBsbElyYjEzanA2NVlBNzRNWl9uaWVMamxWSXVXZGxXVmRXdktPMkMyOE55N0FXVm5oUlFhX3F3cEM5bkQ5UzRJdDRWSkhNNW4tTG5FaHBYS0FHMDNlcFNlemFOUUp3ckJwYnlrcW43NlYwZUVFRkdDdVVSS1E5cFdlMnQ1MWVzZmNTMHRmbXRiRE5BSGlzSFBuQWdIXzh2ejZwZ1pOazh0SFJGZGtob2xjS29tTjZmRHQ3UG1UNnVsUWtrbFFSajFUV0drRlJOTHJpcFlpNXdHWURLOU41RVNteEVHcGdueXZR?oc=5",
+        "pub_date": "Wed, 14 Jan 2026 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxPc18xTUhCYUtpQm1uVm1vRkdXQ3d1ZlllN1Q4WEZ4ZFp0R25DZWExMUxWQ0I2SFlVc25EQVlnM3hDVzNENHVoNEpRN0hqeGRpX1JWOGkwZW16bkJUM0FxRVdoU1BTT2dkd0pxMmV1czdRbVVQZVRRM2pCZlBDTDR4WkNBckpkYTNEbWcyREQ2dDNEVjZHZ0JPRkItSV9tUHpsa0ZxeE8zeHBTeDM1SWE3S2o5aEhJLUtDT0ZvSTZxdUkyVHpLTnNfT0JWci1PNXNDeERqQjdpQ2R3aXpuY045OGdHV1FuLTJsUXZjZ3dQZVNEUURROUZxcVhCQ3pxVnQ5d1lxSm5TSW9SZjJqVGduTy1KcknSAZoCQVVfeXFMUEM1TjVYdzJXNFlhT0RFejVZd0ZNaUFPSXlkVU8wbndoN2lqRS1PVGV0OGVFdjdteXBsbElyYjEzanA2NVlBNzRNWl9uaWVMamxWSXVXZGxXVmRXdktPMkMyOE55N0FXVm5oUlFhX3F3cEM5bkQ5UzRJdDRWSkhNNW4tTG5FaHBYS0FHMDNlcFNlemFOUUp3ckJwYnlrcW43NlYwZUVFRkdDdVVSS1E5cFdlMnQ1MWVzZmNTMHRmbXRiRE5BSGlzSFBuQWdIXzh2ejZwZ1pOazh0SFJGZGtob2xjS29tTjZmRHQ3UG1UNnVsUWtrbFFSajFUV0drRlJOTHJpcFlpNXdHWURLOU41RVNteEVHcGdueXZR?oc=5\" target=\"_blank\">'Vaa Vaathiyaar' Twitter review: Netizens feel the \u2018MGR factor\u2019 in the Karthi starrer worked well!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Shedding weight, Karthi Selvam back in India hockey team fold - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVHcwQ3RxWDkyNHJhbHI5T3hfSGFjYXA3d1F0cUttTDZYTnVxdmtROHlUbFZRbF9sdnBVUThEZkpFOFhIb05qN1d0cDNqM1cyUUJodzl2dkloakVDSGF6WEI0MUIxRzFXQ2NPWmc0Nndsa08zT2lTR2ZaNURWRWFGelhaVWZ2WVNUN0VvajZ5WUxzdGlpa0NWWWdrd3FQaTI0X0RuMDJNdFJXV01mY0lNYk9wX1RGcnNUb2tEcnR0dXZFVVhqMWRxX3ZKelllQkxJ0gHWAUFVX3lxTE9fWHU0eGVxNENfd0pNS05XNnFCMDVveGRocGlXRDJERlY4Q0NUa3d6V2w3VUdTR0xOa2NUbEx6b0ZSME9yNnloYmFNMml1aENnUDkwOUlYYUlNdHpoaUNRNG5xRjlVRUhXbXk2U1h3WnZlaW1GLWZXWnc0bFFPaTdBQWJ4aVV0NGhYOXhnRm1XQTBSZlJ5TWhxSGtINEpwalFIUGVtdGpEWE42WUJuWmEwR01mRExaRm92UVJ6NHRpaHVyUzJDVGdFck11Tlp3TmtUb25hT0E?oc=5",
+        "pub_date": "Wed, 06 Aug 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVHcwQ3RxWDkyNHJhbHI5T3hfSGFjYXA3d1F0cUttTDZYTnVxdmtROHlUbFZRbF9sdnBVUThEZkpFOFhIb05qN1d0cDNqM1cyUUJodzl2dkloakVDSGF6WEI0MUIxRzFXQ2NPWmc0Nndsa08zT2lTR2ZaNURWRWFGelhaVWZ2WVNUN0VvajZ5WUxzdGlpa0NWWWdrd3FQaTI0X0RuMDJNdFJXV01mY0lNYk9wX1RGcnNUb2tEcnR0dXZFVVhqMWRxX3ZKelllQkxJ0gHWAUFVX3lxTE9fWHU0eGVxNENfd0pNS05XNnFCMDVveGRocGlXRDJERlY4Q0NUa3d6V2w3VUdTR0xOa2NUbEx6b0ZSME9yNnloYmFNMml1aENnUDkwOUlYYUlNdHpoaUNRNG5xRjlVRUhXbXk2U1h3WnZlaW1GLWZXWnc0bFFPaTdBQWJ4aVV0NGhYOXhnRm1XQTBSZlJ5TWhxSGtINEpwalFIUGVtdGpEWE42WUJuWmEwR01mRExaRm92UVJ6NHRpaHVyUzJDVGdFck11Tlp3TmtUb25hT0E?oc=5\" target=\"_blank\">Shedding weight, Karthi Selvam back in India hockey team fold</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Read Google CEO Sudar Pichai's welcome note for Karthik Narain on joining Google Cloud - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSzdFbmo4bHMtdS1rY1Jvb3dQc2htUTBzeFVCT1M2cm5rYzNrdmFQZnVTbHpETFJuNzV0ZWl0OFpqUkNxeFJRUVJ2M0dGOW9IUEotckVXNS1STGhHbE14WGtId1pHZTBlMEJicS0wQW9tRUtnOUkzVHF3SUFCNHdFZExqYXZpbVAwTjYxTHE1VUhuQ3duYno0aU10TFplTmc5MlBwcUxZRmRIQ2NDMlVYaE0xMkJ4YVp5Wl9ab0k4VmJRem5TejhkWmlGd09kTDdrbHMwQVdBakNkLWlvSDRjN2R1eHJPaDhZUi1Ieng0SFVXM3hXZUhfRDQ2TWXSAYICQVVfeXFMTkx3Ym5mY3gwV1N6TF9RVUhjZlkxNzdubjBya1dZLThVTGR2NGRYNTN3bnhZZUhETXpJYXJQZFBWWXpvdDNHY1d1TEdDUC0zR0FaOUVabUdHN05JSy1pTjAwakc0UzNkaVRDcVgtSGZqZGZpRHZRQktENDJqTUJKdk5aY3VaRE4yM1F5TmFJSGJVaEZqU0lmOHk0RWhYR255V3BuR1B4WllQNzFCbkJtai00WGpkOGNMcnI5eGlrOUlCU3pHd2NxMHIzam52OEhZVUJaU0NDT21CN1FPQjlRb0dCRUpOcUJfMHlQWmw4NzNKMUx3RHR6MWVKLWNjQnVBdk5n?oc=5",
+        "pub_date": "Tue, 21 Oct 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSzdFbmo4bHMtdS1rY1Jvb3dQc2htUTBzeFVCT1M2cm5rYzNrdmFQZnVTbHpETFJuNzV0ZWl0OFpqUkNxeFJRUVJ2M0dGOW9IUEotckVXNS1STGhHbE14WGtId1pHZTBlMEJicS0wQW9tRUtnOUkzVHF3SUFCNHdFZExqYXZpbVAwTjYxTHE1VUhuQ3duYno0aU10TFplTmc5MlBwcUxZRmRIQ2NDMlVYaE0xMkJ4YVp5Wl9ab0k4VmJRem5TejhkWmlGd09kTDdrbHMwQVdBakNkLWlvSDRjN2R1eHJPaDhZUi1Ieng0SFVXM3hXZUhfRDQ2TWXSAYICQVVfeXFMTkx3Ym5mY3gwV1N6TF9RVUhjZlkxNzdubjBya1dZLThVTGR2NGRYNTN3bnhZZUhETXpJYXJQZFBWWXpvdDNHY1d1TEdDUC0zR0FaOUVabUdHN05JSy1pTjAwakc0UzNkaVRDcVgtSGZqZGZpRHZRQktENDJqTUJKdk5aY3VaRE4yM1F5TmFJSGJVaEZqU0lmOHk0RWhYR255V3BuR1B4WllQNzFCbkJtai00WGpkOGNMcnI5eGlrOUlCU3pHd2NxMHIzam52OEhZVUJaU0NDT21CN1FPQjlRb0dCRUpOcUJfMHlQWmw4NzNKMUx3RHR6MWVKLWNjQnVBdk5n?oc=5\" target=\"_blank\">Read Google CEO Sudar Pichai's welcome note for Karthik Narain on joining Google Cloud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "'Kaithi 2': Is Karthi starrer sequel in works anytime soon? Actor shares what fans can expect - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQVnlFdmp5T1htRmhyMzlLTlUxcU5tb2JnZk1Xcm52c1JXdWR0Z2VXaTdjV3hnV3dYd05oNF9XemJOUE9mUDRFMng2X2FRT1dSTXhFQWlZelhXYTR4bWNGOHZuUF9WcGdkRkE4RnlHT0d3Ym5RaGpjSkFrb0ZWUkstRlI0M3l0V1R4NHRLWHlzT0F6UUVUdTVWdENjUTFWNERIcFZPN19YeHg5OEJVbU5XajdXY2tBWmZsQ2ZlYTJGVlk3UnRJelZ3dXE5X0xHYmVKUjI5QzRBcWYxT1BSMDZncTZ1YnUyM2VsUG5pdFRXY2E2XzdYdVZPZ0VUYm9femtrU3M0TDlrS0xEMFpZa0dnY9IBlgJBVV95cUxOdFlPWDl0ZUpObDZVMHhILURBMlQ1QTI1cWxQWDV3bUk1UHN4MXNwdEtxMEZoN1JRd2dNMVJiSlkxVGVrLTYyU1JiZUFMN1NZdjM4V1F5VjNmV2JBcFBXcm9QMkpEWXY2eGt1RTdWRGZKRkhmanlZaExYNTBibERvV1JKQ21EZ0Nmc1dHZnhmREZ4djB2UmN2enoySV93czA5enotTVkySkRLVXBCeHdIWlM0NHBYdDFQaGxIX0pTTE54amJyMGtMNnBkWVptT18wcmlsWmpWbUZLZHpXc0NqeEhyR3Q5S09yZ2VGd0o1eFYtRC1zLUc1Sjk2VERWcHhjcTE3aXFTUmRORWVWYy1yTGllMzFpZw?oc=5",
+        "pub_date": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxQVnlFdmp5T1htRmhyMzlLTlUxcU5tb2JnZk1Xcm52c1JXdWR0Z2VXaTdjV3hnV3dYd05oNF9XemJOUE9mUDRFMng2X2FRT1dSTXhFQWlZelhXYTR4bWNGOHZuUF9WcGdkRkE4RnlHT0d3Ym5RaGpjSkFrb0ZWUkstRlI0M3l0V1R4NHRLWHlzT0F6UUVUdTVWdENjUTFWNERIcFZPN19YeHg5OEJVbU5XajdXY2tBWmZsQ2ZlYTJGVlk3UnRJelZ3dXE5X0xHYmVKUjI5QzRBcWYxT1BSMDZncTZ1YnUyM2VsUG5pdFRXY2E2XzdYdVZPZ0VUYm9femtrU3M0TDlrS0xEMFpZa0dnY9IBlgJBVV95cUxOdFlPWDl0ZUpObDZVMHhILURBMlQ1QTI1cWxQWDV3bUk1UHN4MXNwdEtxMEZoN1JRd2dNMVJiSlkxVGVrLTYyU1JiZUFMN1NZdjM4V1F5VjNmV2JBcFBXcm9QMkpEWXY2eGt1RTdWRGZKRkhmanlZaExYNTBibERvV1JKQ21EZ0Nmc1dHZnhmREZ4djB2UmN2enoySV93czA5enotTVkySkRLVXBCeHdIWlM0NHBYdDFQaGxIX0pTTE54amJyMGtMNnBkWVptT18wcmlsWmpWbUZLZHpXc0NqeEhyR3Q5S09yZ2VGd0o1eFYtRC1zLUc1Sjk2VERWcHhjcTE3aXFTUmRORWVWYy1yTGllMzFpZw?oc=5\" target=\"_blank\">'Kaithi 2': Is Karthi starrer sequel in works anytime soon? Actor shares what fans can expect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "'Vaa Vaathiyaar' eyes new release date as Karthi's film to pay tribute to MG Ramachandran - Reports - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOUmRNUWlydm5PTGxSRDRTNWh2SmVWR2pGQ3VncVQ4dHZMdmxQSDByNGtPbU5GV2NERHpkOTNwVzhqeVk1Qnd0OVZwTFhoQmlFUUdhMVlua1lockRGZ2JqbUQzVnE5VFUzbm5MNFU4TExPMURpOXozOU4wQkdkdWNkSkFadXdmLXh3bmZzUHFPem92c3otR0JZSFdINWtzRjZFMERDazc0aXhNd3hFSWFKZVNKUmpqUE1ldTZINUtwcW5uYW1lOGJQcUE5NXpDREVEUk9PcVRuSXlTblN6MjBOX1hBNGw5aGtJZVdZbzBLYlliYlpCT1V4MzNfNXlyVFhWdzVOTDUxcFdYci0yeUg2TDgwRTdWVnfSAZwCQVVfeXFMTlpveUpsTWFLd2lKb09PYmpUbHFxaUFjN1RoRXpab0JaR0VPNUtPVkYzbWhuYV9UOG5qSFI4T2hjaVFuY0ZhVEhUOUFKSVRHOHlSdzRfTVRpQWtyanFpY0ZEZ0tTWUlZYUR1d3c1b1FNc1hlWC1Hc3IxY3NZcTFJdzNjNE9pUTJLS24yZmxqREdNSFo2WG5YYXJ5d211TW9Wb0J2MDNMN01DcERlSlVUNmt5YlJaVnNwaUIwOFhWYW9Bc1pxaTlTeFJicV93YVNDblNfemRKRG00YmEtR0VqOHE4OXJlV3dGR0NsV1NaVkhUMnJYRDAxZ3NlVWRSNDM0d3JKTEZrS0NvRUprakU0b3RxUlFCT2pRQktNZ1U?oc=5",
+        "pub_date": "Tue, 16 Dec 2025 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxOUmRNUWlydm5PTGxSRDRTNWh2SmVWR2pGQ3VncVQ4dHZMdmxQSDByNGtPbU5GV2NERHpkOTNwVzhqeVk1Qnd0OVZwTFhoQmlFUUdhMVlua1lockRGZ2JqbUQzVnE5VFUzbm5MNFU4TExPMURpOXozOU4wQkdkdWNkSkFadXdmLXh3bmZzUHFPem92c3otR0JZSFdINWtzRjZFMERDazc0aXhNd3hFSWFKZVNKUmpqUE1ldTZINUtwcW5uYW1lOGJQcUE5NXpDREVEUk9PcVRuSXlTblN6MjBOX1hBNGw5aGtJZVdZbzBLYlliYlpCT1V4MzNfNXlyVFhWdzVOTDUxcFdYci0yeUg2TDgwRTdWVnfSAZwCQVVfeXFMTlpveUpsTWFLd2lKb09PYmpUbHFxaUFjN1RoRXpab0JaR0VPNUtPVkYzbWhuYV9UOG5qSFI4T2hjaVFuY0ZhVEhUOUFKSVRHOHlSdzRfTVRpQWtyanFpY0ZEZ0tTWUlZYUR1d3c1b1FNc1hlWC1Hc3IxY3NZcTFJdzNjNE9pUTJLS24yZmxqREdNSFo2WG5YYXJ5d211TW9Wb0J2MDNMN01DcERlSlVUNmt5YlJaVnNwaUIwOFhWYW9Bc1pxaTlTeFJicV93YVNDblNfemRKRG00YmEtR0VqOHE4OXJlV3dGR0NsV1NaVkhUMnJYRDAxZ3NlVWRSNDM0d3JKTEZrS0NvRUprakU0b3RxUlFCT2pRQktNZ1U?oc=5\" target=\"_blank\">'Vaa Vaathiyaar' eyes new release date as Karthi's film to pay tribute to MG Ramachandran - Reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "sentiment": "NEUTRAL"
+      }
+    ],
+    "promoter_analysis": {
+      "jai": {
+        "negative_news_count": 0,
+        "risk_level": "LOW",
+        "articles": []
+      }
+    },
+    "litigation": {
+      "total_cases": 0,
+      "pending_cases": 0,
+      "case_types": [],
+      "high_value_cases": [],
+      "risk_score": 0,
+      "search_attempted": true,
+      "source": "e-Courts Portal"
+    },
+    "sector_trends": {
+      "sector": "Manufacturing",
+      "recent_regulations": [],
+      "market_sentiment": "POSITIVE",
+      "growth_outlook": "STABLE",
+      "key_risks": []
+    },
+    "credit_ratings": {
+      "agencies": [],
+      "latest_rating": null,
+      "rating_trend": "STABLE",
+      "outlook": "STABLE"
+    },
+    "overall_risk_flags": []
+  },
+  "recommendation": {
+    "decision": "REJECTED",
+    "credit_score": 570,
+    "rating": "B",
+    "recommended_loan_amount": 0,
+    "recommended_interest_rate": 0,
+    "five_cs_breakdown": {
+      "character": 100,
+      "capacity": 20,
+      "capital": 10,
+      "collateral": 90,
+      "conditions": 100
+    },
+    "explanation": "Credit Decision: REJECTED\nCredit Score: 570 (Rating: B)\n\nKey Factors:\n- Capacity concerns (Score: 20/100)\n- Capital structure concerns (Score: 10/100)",
+    "risk_factors": [],
+    "strengths": [
+      "Conservative leverage (D/E: 0.00x)",
+      "High revenue consistency across sources",
+      "Good capacity utilization (75%)"
+    ]
+  },
+  "cam_document_path": "./outputs\\CAM_Karthick__20260311.docx",
+  "processing_timestamp": "2026-03-11T22:40:28.414322"
+}

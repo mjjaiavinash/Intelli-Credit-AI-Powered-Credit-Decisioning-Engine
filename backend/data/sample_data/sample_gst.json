@@ -1,0 +1,75 @@
+{
+  "gstin": "27AABCU9603R1ZM",
+  "legal_name": "ABC Manufacturing Pvt Ltd",
+  "trade_name": "ABC Manufacturing",
+  "gstr3b": [
+    {
+      "period": "2023-01",
+      "total_turnover": 50.5,
+      "tax_liability": 5.05,
+      "itc_claimed": 3.2,
+      "net_tax_payable": 1.85
+    },
+    {
+      "period": "2023-02",
+      "total_turnover": 55.2,
+      "tax_liability": 5.52,
+      "itc_claimed": 3.5,
+      "net_tax_payable": 2.02
+    },
+    {
+      "period": "2023-03",
+      "total_turnover": 48.8,
+      "tax_liability": 4.88,
+      "itc_claimed": 3.1,
+      "net_tax_payable": 1.78
+    },
+    {
+      "period": "2023-04",
+      "total_turnover": 52.3,
+      "tax_liability": 5.23,
+      "itc_claimed": 3.3,
+      "net_tax_payable": 1.93
+    },
+    {
+      "period": "2023-05",
+      "total_turnover": 58.1,
+      "tax_liability": 5.81,
+      "itc_claimed": 3.7,
+      "net_tax_payable": 2.11
+    },
+    {
+      "period": "2023-06",
+      "total_turnover": 54.6,
+      "tax_liability": 5.46,
+      "itc_claimed": 3.4,
+      "net_tax_payable": 2.06
+    }
+  ],
+  "gstr2a": [
+    {
+      "period": "2023-01",
+      "itc_available": 3.3
+    },
+    {
+      "period": "2023-02",
+      "itc_available": 3.6
+    },
+    {
+      "period": "2023-03",
+      "itc_available": 3.2
+    },
+    {
+      "period": "2023-04",
+      "itc_available": 3.4
+    },
+    {
+      "period": "2023-05",
+      "itc_available": 3.8
+    },
+    {
+      "period": "2023-06",
+      "itc_available": 3.5
+    }
+  ]
+}

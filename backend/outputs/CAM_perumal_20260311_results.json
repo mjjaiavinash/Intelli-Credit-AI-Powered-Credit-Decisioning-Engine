@@ -1,0 +1,227 @@
+{
+  "company_info": {
+    "company_name": "perumal",
+    "sector": "Services",
+    "incorporation_year": 2015,
+    "promoters": [
+      "jai"
+    ]
+  },
+  "ingested_data": {
+    "gst": {
+      "gstin": null,
+      "total_turnover": 0,
+      "input_tax_credit": 0,
+      "tax_liability": 0,
+      "filing_frequency": [],
+      "gstr3b_vs_gstr2a_mismatch": false
+    },
+    "mca": {
+      "director_changes": 0,
+      "charge_modifications": 0,
+      "compliance_status": "Active",
+      "last_agm_date": null,
+      "authorized_capital": 100,
+      "paid_up_capital": 75
+    }
+  },
+  "research_results": {
+    "company_name": "perumal",
+    "research_date": "2026-03-11T22:29:12.088422",
+    "news_analysis": [
+      {
+        "title": "16th-Century Thirumangai Alvar Idol Returned to Soundararaja Perumal Temple in TN - caleidoscope.in",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQjhnMHpJcEZ4SVg2bXFpbjJ1alRqVVYxd1pxTlZLcUxCdzlRZ1hOREZIank0N0tXaHpYaGZHSVBjV1lRS0hsTkctd0xJcXhZNVNHanlNSERIUERwcVJtaTlZUmVHWnVfZ1B1Y0xFNGRma3VZaVY3MVhEZEpiak1yZi1Oc2lwcjQ?oc=5",
+        "pub_date": "Tue, 10 Mar 2026 02:43:37 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOQjhnMHpJcEZ4SVg2bXFpbjJ1alRqVVYxd1pxTlZLcUxCdzlRZ1hOREZIank0N0tXaHpYaGZHSVBjV1lRS0hsTkctd0xJcXhZNVNHanlNSERIUERwcVJtaTlZUmVHWnVfZ1B1Y0xFNGRma3VZaVY3MVhEZEpiak1yZi1Oc2lwcjQ?oc=5\" target=\"_blank\">16th-Century Thirumangai Alvar Idol Returned to Soundararaja Perumal Temple in TN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">caleidoscope.in</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Vice-President visits Sowmya Narayana Perumal Temple in Sivaganga district; lays stone for construction of 140-ft VOC statue in Madurai - The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOOTRjNDZ0ZTdycU80MkNxQkE4YXh6NVRfeDZkbWg5ZnlIOFkwZ3RRcmQ3RWZDazVCLUU2VGxPUjktOFFnQnBHZFZjX2ZlOGp6T0xsS3p0UGlJaWRqR3U0S3R4WXZBTkhUdUVqSmNfc2xDN2pYTVF6YWg5Z1o2M3JSa015UXh2bGQ5NnZMRG1xLUdpdUh3WXd0YWtld255Qmp4aXhoQjBEOHBYNGo4V0c0Q3RCXzRoM1lsN2VRZlBjai1XSkJ6SWdrbWxiVlRHOUt4eG54NFRNT2FleHNVZk83Uy1LM2lWNjVaeUhhREpOM0hCMDM1dFo0RVhoV0VoTFFTT0tYeGh0dVU0elFuX2lXM1VzZ2xVSzBsQmIwTlQwT0lKQkh3bkHSAawCQVVfeXFMTXRlSEJVZ2lodlczaXVfcmpqOGdRR2lsYzJDZDVJbmJ5ekF5bkk1Z090ZGROV210M2xCeFRMMmdMcUdQcFpwZUVlSzdEV29uYmlWdkY2aG1VTjI1VGRFZmFmX2VYTzFUeE9wZmxWdXJLMTZLZXR0N0dBeWUxSzl1MXFuMWU1SjdjNmFfT2ZuVlVpM2JYaFNoTmxfQlpZcmZPSnloWUlNTkVXUGU3UXg2VWw0ZFhoWFlIZFBrdFVwY19kRWV0WlUtNVVpNGktRXdWcGpOdi1wUWsycUNPd0c2NkxiSmpJRHdxZHJZcU0xRi1rd2NzVjRsa0NPRmtJTG42ajNPbzYtVjBCRUlCd3JjNjZHbGVkMzJEeHd1T25ZSkFYbjhjM0s1VkU1NXpY?oc=5",
+        "pub_date": "Sun, 22 Feb 2026 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxOOTRjNDZ0ZTdycU80MkNxQkE4YXh6NVRfeDZkbWg5ZnlIOFkwZ3RRcmQ3RWZDazVCLUU2VGxPUjktOFFnQnBHZFZjX2ZlOGp6T0xsS3p0UGlJaWRqR3U0S3R4WXZBTkhUdUVqSmNfc2xDN2pYTVF6YWg5Z1o2M3JSa015UXh2bGQ5NnZMRG1xLUdpdUh3WXd0YWtld255Qmp4aXhoQjBEOHBYNGo4V0c0Q3RCXzRoM1lsN2VRZlBjai1XSkJ6SWdrbWxiVlRHOUt4eG54NFRNT2FleHNVZk83Uy1LM2lWNjVaeUhhREpOM0hCMDM1dFo0RVhoV0VoTFFTT0tYeGh0dVU0elFuX2lXM1VzZ2xVSzBsQmIwTlQwT0lKQkh3bkHSAawCQVVfeXFMTXRlSEJVZ2lodlczaXVfcmpqOGdRR2lsYzJDZDVJbmJ5ekF5bkk1Z090ZGROV210M2xCeFRMMmdMcUdQcFpwZUVlSzdEV29uYmlWdkY2aG1VTjI1VGRFZmFmX2VYTzFUeE9wZmxWdXJLMTZLZXR0N0dBeWUxSzl1MXFuMWU1SjdjNmFfT2ZuVlVpM2JYaFNoTmxfQlpZcmZPSnloWUlNTkVXUGU3UXg2VWw0ZFhoWFlIZFBrdFVwY19kRWV0WlUtNVVpNGktRXdWcGpOdi1wUWsycUNPd0c2NkxiSmpJRHdxZHJZcU0xRi1rd2NzVjRsa0NPRmtJTG42ajNPbzYtVjBCRUlCd3JjNjZHbGVkMzJEeHd1T25ZSkFYbjhjM0s1VkU1NXpY?oc=5\" target=\"_blank\">Vice-President visits Sowmya Narayana Perumal Temple in Sivaganga district; lays stone for construction of 140-ft VOC statue in Madurai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "THR India's 25 in 25: Rage and Reflection in Mari Selvaraj's 'Pariyerum Perumal' - The Hollywood Reporter India",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDdDVVZIRG54VzZxemt2a0FPM0txUmVsOTRCdUlib3ZONjZqMFNoZFl4Y1pEaktLdlJYdjU2S05WcTdkZjRpWndKR2lLd0lxZEJsaXhYbnZjdUZ5WTRvcmRUZFVmck5VTllRRzVybUJSQ1gtMExoSHJQME1lX0t6N0Z3TU42NkY5YlRDdzdHVXYtRmd4Z1dFdHRNaHhINE9iTEpzMGMyR2tvVDlacmhXMm5Vd3ZsenotcUQtMDRHT3BuT0cyaG5SQUtIb9IB0AFBVV95cUxPQklVcW9IX09idkdjWXJBQUY4R2tWZjY0T05LU042MnNTSENHRS1FVjdPYkU3SVFXRGg3a0JQVjA3dUhRZU9SQjNVWllHTVBjNE5PajVUc1ZyY29TNWdvbWl0YXdibElfWGNtQl9YMV9pR3pNeTJ0TzBXSWNabFY5d3VOX0FoX1gtWEtxSmE0bFRkTGMxcDR2NkYzQ216eU15blZRMEhUWDRkdWh5TmhqaExiZVN6VzJKcllZVTlYWEVXSmczbUFEX3plLVVzRDlt?oc=5",
+        "pub_date": "Wed, 24 Dec 2025 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDdDVVZIRG54VzZxemt2a0FPM0txUmVsOTRCdUlib3ZONjZqMFNoZFl4Y1pEaktLdlJYdjU2S05WcTdkZjRpWndKR2lLd0lxZEJsaXhYbnZjdUZ5WTRvcmRUZFVmck5VTllRRzVybUJSQ1gtMExoSHJQME1lX0t6N0Z3TU42NkY5YlRDdzdHVXYtRmd4Z1dFdHRNaHhINE9iTEpzMGMyR2tvVDlacmhXMm5Vd3ZsenotcUQtMDRHT3BuT0cyaG5SQUtIb9IB0AFBVV95cUxPQklVcW9IX09idkdjWXJBQUY4R2tWZjY0T05LU042MnNTSENHRS1FVjdPYkU3SVFXRGg3a0JQVjA3dUhRZU9SQjNVWllHTVBjNE5PajVUc1ZyY29TNWdvbWl0YXdibElfWGNtQl9YMV9pR3pNeTJ0TzBXSWNabFY5d3VOX0FoX1gtWEtxSmE0bFRkTGMxcDR2NkYzQ216eU15blZRMEhUWDRkdWh5TmhqaExiZVN6VzJKcllZVTlYWEVXSmczbUFEX3plLVVzRDlt?oc=5\" target=\"_blank\">THR India's 25 in 25: Rage and Reflection in Mari Selvaraj's 'Pariyerum Perumal'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hollywood Reporter India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Bharathi Perumal appointed General Manager at Hilton Garden Inn Trivandrum - Hotelier India",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenYxT3VxZEladkplcEIwTkV0OVBMQXdjcGV4eEZDSEJrTlZGRGlQcEZFa1ZWZm9RSE5UTjlXQ09XZ2ViYWM4Z0xUcnZIQjl2b0hpRjRNR2t2RWxrblJQaE5GVDR3d2pwRXNEcC1uTjBjODZyX041TGZDeTVMTzFTb2xtNVpzQW81bHFxTFpJREVheGpfT3AtTEV2aGtFa1oyV2VxaEdnWkJoUEhqN1V4NFEtWldWUENK?oc=5",
+        "pub_date": "Wed, 23 Jul 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenYxT3VxZEladkplcEIwTkV0OVBMQXdjcGV4eEZDSEJrTlZGRGlQcEZFa1ZWZm9RSE5UTjlXQ09XZ2ViYWM4Z0xUcnZIQjl2b0hpRjRNR2t2RWxrblJQaE5GVDR3d2pwRXNEcC1uTjBjODZyX041TGZDeTVMTzFTb2xtNVpzQW81bHFxTFpJREVheGpfT3AtTEV2aGtFa1oyV2VxaEdnWkJoUEhqN1V4NFEtWldWUENK?oc=5\" target=\"_blank\">Bharathi Perumal appointed General Manager at Hilton Garden Inn Trivandrum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hotelier India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Vice Prez Radhakrishnan pays tributes to Rani Velu Nachiyar, visits Sowmyanarayana Perumal Temple in TN - thehawk.in",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcXhlNGNfNTUzbVlqaUc0RFpRUDdJQkhJbW9VcExJcDRqSnZGVmVEWE9tb2tVUGlSYmJtS0VyOVUtWHBDaGNHVjFqaDk0Q0Z0dEJpSjJ5VzdDX3RNb0tRRmtKbTd0RjN1eUVrOG9CaDBSZmc4N0cteXRBcW1qUDdJX1dXdW43aHUzWVo3d2gzR0g1dWh6cXdXRzNDbXdjU2hac0pBUDFYbUo2c1ZGQ3RVNlAzYk9JT2pPRFNKZnkwN1ZQTExsTGhmNXdRTGN6TGljNXc?oc=5",
+        "pub_date": "Sun, 22 Feb 2026 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcXhlNGNfNTUzbVlqaUc0RFpRUDdJQkhJbW9VcExJcDRqSnZGVmVEWE9tb2tVUGlSYmJtS0VyOVUtWHBDaGNHVjFqaDk0Q0Z0dEJpSjJ5VzdDX3RNb0tRRmtKbTd0RjN1eUVrOG9CaDBSZmc4N0cteXRBcW1qUDdJX1dXdW43aHUzWVo3d2gzR0g1dWh6cXdXRzNDbXdjU2hac0pBUDFYbUo2c1ZGQ3RVNlAzYk9JT2pPRFNKZnkwN1ZQTExsTGhmNXdRTGN6TGljNXc?oc=5\" target=\"_blank\">Vice Prez Radhakrishnan pays tributes to Rani Velu Nachiyar, visits Sowmyanarayana Perumal Temple in TN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thehawk.in</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "India Washed its Hands, Sri Lankan Army Turned to LTTE, and People Were Left With Nothing: Varadaraja Perumal - Frontline Magazine",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbkNUUElTR29Wbk56T3lvb0dpV2Rwcjl0NHF5RXhBbDFBWFZTZU8zaG1kS2R2ZFo4VnUzWkxSaGRnQ3ZBQVh4WUhHc1lSSlpGaThvNy1RVm4wd2s4MjVmNVJERjYyT0JETno4Y2ZBcDdjdExxTDhGNFVMakk0ZkdQRElSMlhDcVRBRkVyVmVOdDh2RlNkeWpYMGN4RHNmLUJoR2o3ZFJjLXk3THVKaE1iT20xRTA0aDhraFFKTnV3?oc=5",
+        "pub_date": "Sat, 26 Jul 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNbkNUUElTR29Wbk56T3lvb0dpV2Rwcjl0NHF5RXhBbDFBWFZTZU8zaG1kS2R2ZFo4VnUzWkxSaGRnQ3ZBQVh4WUhHc1lSSlpGaThvNy1RVm4wd2s4MjVmNVJERjYyT0JETno4Y2ZBcDdjdExxTDhGNFVMakk0ZkdQRElSMlhDcVRBRkVyVmVOdDh2RlNkeWpYMGN4RHNmLUJoR2o3ZFJjLXk3THVKaE1iT20xRTA0aDhraFFKTnV3?oc=5\" target=\"_blank\">India Washed its Hands, Sri Lankan Army Turned to LTTE, and People Were Left With Nothing: Varadaraja Perumal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontline Magazine</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Can Dhadak 2 Speak The Same Truth Pariyerum Perumal Did? - Outlook India",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXNxT29DdXNUcUwwMnctTHpLOTY1UlZISTRQTjgwbzNCd3dMNXN1RTJnNUhmTUdGZVNRcnZrc1VIaVBpUE12NFZwOGRHbmFhWHFQdHBmWDJfTE81Wm03TVpnYXFDdFJKbGtUdzhjWXA5TS1YdlZBNy16eDRrendNcWt4bmFKNUJBTTJsRzNnbmsxb0JEd1VLYWJaXzFaVzFJbTdZRNIBsgFBVV95cUxQeWJ4NEpvSlBnaC1xWHM1WmhTYVRTYW9xNmdNVFl5ZnZHZ0I5TFBlMjQzV3ZrM2RLbG5pdXNITWs1UGlGRnJpc2xlZlYxMW1zTk9PdnBXMDNiMUliRnVpd1I0OVA5MGJlMXNSVTh4cm5MdjNzNmNsbkJJT3BNMjM2ajRTd054Qy1wSEZFWnhsMlM5VXpSZFNsM3hldEwwQ2RoLWQwRmhRMVpJOVlQOXNnQUxR?oc=5",
+        "pub_date": "Mon, 28 Jul 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXNxT29DdXNUcUwwMnctTHpLOTY1UlZISTRQTjgwbzNCd3dMNXN1RTJnNUhmTUdGZVNRcnZrc1VIaVBpUE12NFZwOGRHbmFhWHFQdHBmWDJfTE81Wm03TVpnYXFDdFJKbGtUdzhjWXA5TS1YdlZBNy16eDRrendNcWt4bmFKNUJBTTJsRzNnbmsxb0JEd1VLYWJaXzFaVzFJbTdZRNIBsgFBVV95cUxQeWJ4NEpvSlBnaC1xWHM1WmhTYVRTYW9xNmdNVFl5ZnZHZ0I5TFBlMjQzV3ZrM2RLbG5pdXNITWs1UGlGRnJpc2xlZlYxMW1zTk9PdnBXMDNiMUliRnVpd1I0OVA5MGJlMXNSVTh4cm5MdjNzNmNsbkJJT3BNMjM2ajRTd054Qy1wSEZFWnhsMlM5VXpSZFNsM3hldEwwQ2RoLWQwRmhRMVpJOVlQOXNnQUxR?oc=5\" target=\"_blank\">Can Dhadak 2 Speak The Same Truth Pariyerum Perumal Did?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Outlook India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Entertainment, Books, Movies, TV and Art - silverscreenindia.com",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV1RocmVKZ1dneVhKMXVSRXhjbFJPRGxNTjdKS1NzQ3lUb19ERkZDVjM2eERKX1hQeXc5bEktcDc0a2hIR29yLVprRGpVSjgyY3pWY244S2lCU3Zyc3IzVU8xc2R4SElER3M1cnhEMlZ3YVBmRzVsVzVGb2tGaHpTUjIyZWN0REx4enkxRm43TWc1REFQMlBWcFBEbFY5eDVMbVhWYg?oc=5",
+        "pub_date": "Fri, 22 Aug 2025 08:28:21 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQV1RocmVKZ1dneVhKMXVSRXhjbFJPRGxNTjdKS1NzQ3lUb19ERkZDVjM2eERKX1hQeXc5bEktcDc0a2hIR29yLVprRGpVSjgyY3pWY244S2lCU3Zyc3IzVU8xc2R4SElER3M1cnhEMlZ3YVBmRzVsVzVGb2tGaHpTUjIyZWN0REx4enkxRm43TWc1REFQMlBWcFBEbFY5eDVMbVhWYg?oc=5\" target=\"_blank\">Entertainment, Books, Movies, TV and Art</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">silverscreenindia.com</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "A raze down in literary world - The New Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSkl2Mk14emlqRnNNT0pxZnEzbzgwSGhrbDBTWVR0bFJNZE1XeG1YV05vZkZNQTk5VV82czRoNTZPS2RMLXE1WmtIX1BYQ280cEhKMERaejRpTkw1UFJYUUFaY3gzOTZZdi1fNDZCUWR6Y3VJNEp6NllwWUZSX1R0cWdRRG1aUU9BYzFzMklKSk13UjDSAaABQVVfeXFMTmo4QXhYVFM3UDdrRjdxb01BcWtOM1QwcWxLZ2t5T3RPZE9LZkZvQzk3bFdodHZmem5iUEJxa2dKYmg3cFNkYTlkYU81MDBRVTI2R3BDcVRFRHNvYXR5T0pfN24yR0phOWtjSFM2SkpCaFhTeHdmNktCd09FLWQzTWt6elZ2cDNUWTJ5MGRmeG45MG0taG1aX3FxSVdWWDVUdQ?oc=5",
+        "pub_date": "Sat, 28 Jun 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPSkl2Mk14emlqRnNNT0pxZnEzbzgwSGhrbDBTWVR0bFJNZE1XeG1YV05vZkZNQTk5VV82czRoNTZPS2RMLXE1WmtIX1BYQ280cEhKMERaejRpTkw1UFJYUUFaY3gzOTZZdi1fNDZCUWR6Y3VJNEp6NllwWUZSX1R0cWdRRG1aUU9BYzFzMklKSk13UjDSAaABQVVfeXFMTmo4QXhYVFM3UDdrRjdxb01BcWtOM1QwcWxLZ2t5T3RPZE9LZkZvQzk3bFdodHZmem5iUEJxa2dKYmg3cFNkYTlkYU81MDBRVTI2R3BDcVRFRHNvYXR5T0pfN24yR0phOWtjSFM2SkpCaFhTeHdmNktCd09FLWQzTWt6elZ2cDNUWTJ5MGRmeG45MG0taG1aX3FxSVdWWDVUdQ?oc=5\" target=\"_blank\">A raze down in literary world</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "\u2018Dhadak 2\u2019 honours \u2018Pariyerum Perumal\u2019 without losing its own voice: 5 reasons to watch it - Telegraph India",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSk1PUnlaQ2VQSWFEV1B6VWJ2cjlWUGtRMlFDa1BFYjhTZk5KalFtSkFreGZ4LWhEMTlpejdUeFFFUHAtVlduQ1FxVEVZSmF2OHIyajRZaXUwNzRNbTFMZGFpc1ZyWEVhWjJiOWF1Sk1LazdfeFpOQk0wUGVudWpsSkFCd2N6dlIxT2c3bHdKWmQ5T2FCY3BuMnJKZVBsS1JTX1dvQmMxZElYdDFGc19pQWo2cVRVWUNDemtRdkJna1JxQW4wOUk1V0diLVlJRTJsaVBrQi1XUUFRRURKd0Vj0gHkAUFVX3lxTE1EQ2N2bzRVX3VLc2Rjay1yblhCVXZkN2hLclF3STNVblNjNGMwc2RIakZIVV9DbmFZeUhpU05rLU5fZEVuT2J6blVhelByMVRQSldnUFVYbkFNWjdndXhmbWlBSUVYd0pJRzJZMEV5RGNhRzN0R2tPd3dEVWc4YkR4VUU2b2tlSnQzOUR1eDg4MXIzNXNfQzRhdUdXZE12Um5BemtWTzFIRm1vMWNaYlF2dExwN3pXVzZMTFdlSVE3czc1a09Mcl9GWlhvNUU3cXFic0NmRlNaejRKWXBPLWNJTDZEUw?oc=5",
+        "pub_date": "Sat, 02 Aug 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSk1PUnlaQ2VQSWFEV1B6VWJ2cjlWUGtRMlFDa1BFYjhTZk5KalFtSkFreGZ4LWhEMTlpejdUeFFFUHAtVlduQ1FxVEVZSmF2OHIyajRZaXUwNzRNbTFMZGFpc1ZyWEVhWjJiOWF1Sk1LazdfeFpOQk0wUGVudWpsSkFCd2N6dlIxT2c3bHdKWmQ5T2FCY3BuMnJKZVBsS1JTX1dvQmMxZElYdDFGc19pQWo2cVRVWUNDemtRdkJna1JxQW4wOUk1V0diLVlJRTJsaVBrQi1XUUFRRURKd0Vj0gHkAUFVX3lxTE1EQ2N2bzRVX3VLc2Rjay1yblhCVXZkN2hLclF3STNVblNjNGMwc2RIakZIVV9DbmFZeUhpU05rLU5fZEVuT2J6blVhelByMVRQSldnUFVYbkFNWjdndXhmbWlBSUVYd0pJRzJZMEV5RGNhRzN0R2tPd3dEVWc4YkR4VUU2b2tlSnQzOUR1eDg4MXIzNXNfQzRhdUdXZE12Um5BemtWTzFIRm1vMWNaYlF2dExwN3pXVzZMTFdlSVE3czc1a09Mcl9GWlhvNUU3cXFic0NmRlNaejRKWXBPLWNJTDZEUw?oc=5\" target=\"_blank\">\u2018Dhadak 2\u2019 honours \u2018Pariyerum Perumal\u2019 without losing its own voice: 5 reasons to watch it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telegraph India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Dhadak 2 is a remake of this Tamil classic; have you watched it? - India TV News",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT2c4WlRtaVhhRHZZNnNuSV9HQzFyX3B3SUxtd3BpU0dublRrNElDd0dPYTlQWGNydnNCREtOX2pWUjZKcktPWFBHaU1fdm9zN0kwQmE3RXlwMUZaUVhoLVR4cUpubzVDcmQ5NW13SG45UVF4MmR5Si1fNHl4SjNyX1ctclIzQ1FBblVUMmFBR016RzdqOUcwRjBYbklGVDF6SDNNWG9vTUhOMUpqYy1PazNQTU1BYTJPU0xDUnRtcGFzOC1KdVRxcjVwclNSOGx0TmlHdlh6QXF0U1XSAeABQVVfeXFMTjVJcXJNSlMwZ3VSZFBHYWFmZTNnWE94M2JGRHJCWldUOUMyQVB3Vl81eUgtcS1TcUlvQ282MUZsMlRkcGpac29nSmZHdmk2SFpPRW1DLVF0Zm1qa2FZLXBfU1JKbE1WLWpjTV84TFhpM0ZHYXNsNllVclduQUFWQ1JJdFNrM08tRnNhYmgxdUZ5cWtOelg3bngwWmh1Q1NtMTNQaTdkRDRGV1luLWNyaHA2dE9RR19BOEY3S1U1OTdVNl9zNlhlc0I0ejdrUm5lcDY2VGVaOGJEN2FZOWdYNzg?oc=5",
+        "pub_date": "Wed, 30 Jul 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT2c4WlRtaVhhRHZZNnNuSV9HQzFyX3B3SUxtd3BpU0dublRrNElDd0dPYTlQWGNydnNCREtOX2pWUjZKcktPWFBHaU1fdm9zN0kwQmE3RXlwMUZaUVhoLVR4cUpubzVDcmQ5NW13SG45UVF4MmR5Si1fNHl4SjNyX1ctclIzQ1FBblVUMmFBR016RzdqOUcwRjBYbklGVDF6SDNNWG9vTUhOMUpqYy1PazNQTU1BYTJPU0xDUnRtcGFzOC1KdVRxcjVwclNSOGx0TmlHdlh6QXF0U1XSAeABQVVfeXFMTjVJcXJNSlMwZ3VSZFBHYWFmZTNnWE94M2JGRHJCWldUOUMyQVB3Vl81eUgtcS1TcUlvQ282MUZsMlRkcGpac29nSmZHdmk2SFpPRW1DLVF0Zm1qa2FZLXBfU1JKbE1WLWpjTV84TFhpM0ZHYXNsNllVclduQUFWQ1JJdFNrM08tRnNhYmgxdUZ5cWtOelg3bngwWmh1Q1NtMTNQaTdkRDRGV1luLWNyaHA2dE9RR19BOEY3S1U1OTdVNl9zNlhlc0I0ejdrUm5lcDY2VGVaOGJEN2FZOWdYNzg?oc=5\" target=\"_blank\">Dhadak 2 is a remake of this Tamil classic; have you watched it?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India TV News</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "'Dhadak 2' Team on Reimagining 'Pariyerum Perumal' | THR India - The Hollywood Reporter India",
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVXFWU2l1TklJU2dRTDZhR2hVQUt4RW5WZnZ3ME5XNVJYS3k0a09nTHNSbUFCSzROejRxMjBaVGhKaXZCTzd3dnR1ZER1N0xyVXZvd3U2LVV4anFxQ0tTXzAtN3otaEVHZFZWdll1TzZVd0t5X0NZLVpURHNsbXpMUnI1OUtDVFVjemFnMVVrdmFXMlFPQ1MtbWlsUGNmR1ExVmR1M21kUWJVMDk2aG1nYW84WkZSLWc5S3U2MllPalY3dGxrTDktSFljYU9CODdjMXV6THBCc0Q3Mm5HQmhiMWdhRlZPTmZ3YzBtWHNIcU5pY3htWkhwNm5kWnBOc3luM1pKRDhvTUhBSjNYdjlr0gGUAkFVX3lxTFBhdEZHbGZIOW5VaDhSdzhVSFdFcFBZNHU1elc4OGgyeFc3dUx1eC1pWFZDNm0zMjVydXdMTXJfSnFPbW1zaTU3RVhvcTRGMi10WU96ZUI5MGcyY3dYa04yd1RkaGtURkRZMVZMS3R0UjV0RHVOek5EcEFZaUZDQWxuQmpfdkVXQllia1NLcGxZVHpOWU80akdRT2stSG5uNlEtX3hBMTJfRlItR181VjA2am81RUtDdXNndFRWd3hYOHV6TTdBV3JJd2VmcnhjdnZma1JSUkZIN1Rfc0IyNExidXhfV1hOcHpLNldpWmlLazFITE0yWG1ueDZjUnQzaFpiMjRkdnRBakt5OFhhUlgxeHNfWg?oc=5",
+        "pub_date": "Tue, 12 Aug 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPVXFWU2l1TklJU2dRTDZhR2hVQUt4RW5WZnZ3ME5XNVJYS3k0a09nTHNSbUFCSzROejRxMjBaVGhKaXZCTzd3dnR1ZER1N0xyVXZvd3U2LVV4anFxQ0tTXzAtN3otaEVHZFZWdll1TzZVd0t5X0NZLVpURHNsbXpMUnI1OUtDVFVjemFnMVVrdmFXMlFPQ1MtbWlsUGNmR1ExVmR1M21kUWJVMDk2aG1nYW84WkZSLWc5S3U2MllPalY3dGxrTDktSFljYU9CODdjMXV6THBCc0Q3Mm5HQmhiMWdhRlZPTmZ3YzBtWHNIcU5pY3htWkhwNm5kWnBOc3luM1pKRDhvTUhBSjNYdjlr0gGUAkFVX3lxTFBhdEZHbGZIOW5VaDhSdzhVSFdFcFBZNHU1elc4OGgyeFc3dUx1eC1pWFZDNm0zMjVydXdMTXJfSnFPbW1zaTU3RVhvcTRGMi10WU96ZUI5MGcyY3dYa04yd1RkaGtURkRZMVZMS3R0UjV0RHVOek5EcEFZaUZDQWxuQmpfdkVXQllia1NLcGxZVHpOWU80akdRT2stSG5uNlEtX3hBMTJfRlItR181VjA2am81RUtDdXNndFRWd3hYOHV6TTdBV3JJd2VmcnhjdnZma1JSUkZIN1Rfc0IyNExidXhfV1hOcHpLNldpWmlLazFITE0yWG1ueDZjUnQzaFpiMjRkdnRBakt5OFhhUlgxeHNfWg?oc=5\" target=\"_blank\">'Dhadak 2' Team on Reimagining 'Pariyerum Perumal' | THR India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hollywood Reporter India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "\u201cI was bullied for being brown\u201d: Actor Avantika Vandanapu and author Perumal Murugan discuss their school years - Vogue India",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaDZYLURIZ01VMWNyczBFMElyM3RtY2Q0OXozOHdSVTNDNU5MUnU4VWtIVTc0Z2lfYUhsSjhRS2c2MjY0TlhUWDZHejc0Qk9FdnFJMzYwM2RUaHg3VFJIYzZ4Y0c2UmZnMmcyR3Q1ZGlBUWVHVXFqU1p6Z3A4bUtCRUVnS2ZHd0l5cEI5NDFLZE1RZV9WMlJhVUh4STE1TnYyRWo5UGVKZTBXTkxVVHZENUdLWHMtelI2X1NsVUwwdmlrSE12dnZkQ2gxMkNKODdmUjBR?oc=5",
+        "pub_date": "Wed, 26 Mar 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaDZYLURIZ01VMWNyczBFMElyM3RtY2Q0OXozOHdSVTNDNU5MUnU4VWtIVTc0Z2lfYUhsSjhRS2c2MjY0TlhUWDZHejc0Qk9FdnFJMzYwM2RUaHg3VFJIYzZ4Y0c2UmZnMmcyR3Q1ZGlBUWVHVXFqU1p6Z3A4bUtCRUVnS2ZHd0l5cEI5NDFLZE1RZV9WMlJhVUh4STE1TnYyRWo5UGVKZTBXTkxVVHZENUdLWHMtelI2X1NsVUwwdmlrSE12dnZkQ2gxMkNKODdmUjBR?oc=5\" target=\"_blank\">\u201cI was bullied for being brown\u201d: Actor Avantika Vandanapu and author Perumal Murugan discuss their school years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vogue India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "How One American Brand Stays Ahead of Trump Tariff Whac-a-Mole - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd1gwNmRkMUY5dVhoM2puX1oyX3QtVGtuTGlIdW4yNkpGSENVbVNUWVc0aTNXb1BsMWpfb1owRWlEZHhqcFAxTmNuRWl1VFBRSVp1d00zdHN2VlowcXFYNmdrZG5pejlMbVlMSWk1STRRWGdjakt6d2FWcVM5ZmdlOTdn?oc=5",
+        "pub_date": "Sun, 24 Aug 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNd1gwNmRkMUY5dVhoM2puX1oyX3QtVGtuTGlIdW4yNkpGSENVbVNUWVc0aTNXb1BsMWpfb1owRWlEZHhqcFAxTmNuRWl1VFBRSVp1d00zdHN2VlowcXFYNmdrZG5pejlMbVlMSWk1STRRWGdjakt6d2FWcVM5ZmdlOTdn?oc=5\" target=\"_blank\">How One American Brand Stays Ahead of Trump Tariff Whac-a-Mole</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Perumal Murugan: Indian court drops charges against author - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WZDlxb0lYeVcxalZoakFxRFBLbmp2cUJwM0ZKZ015QWFXQXpoUmctZ1dPbzZKOFFHSzhoajdTaHNGVXcyWnRLRmpMU0Flcl9MYjBET3FZMGI1UnRLaUxZ?oc=5",
+        "pub_date": "Tue, 05 Jul 2016 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WZDlxb0lYeVcxalZoakFxRFBLbmp2cUJwM0ZKZ015QWFXQXpoUmctZ1dPbzZKOFFHSzhoajdTaHNGVXcyWnRLRmpMU0Flcl9MYjBET3FZMGI1UnRLaUxZ?oc=5\" target=\"_blank\">Perumal Murugan: Indian court drops charges against author</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Why Perumal Murugan's \"One Part Woman\" is Significant to the Debate on Freedom of Expression in India - The Caravan",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcDBJWHV1YUUtZVB5R2g5MThsb3RaVWRycGxlMU1SQWZzYS1FXzZvNjdPNDMxWnExVG5SZnhaU051MGZ1Tzd0bkJfSmFfOUtsR3dkZ2R3UXd5Q0tvdVczZlNPaWdtVi0zWUM3SVVqV1IxdEY2elhsdEpRM2ZDbC01Uk5XSGExMHNBQ1k1OGp2c1R0R3VFQlY3VDdid3c3dE1mVUVTMzVfTDRGbzBxeHhwT0RscHY?oc=5",
+        "pub_date": "Mon, 12 Jan 2015 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNcDBJWHV1YUUtZVB5R2g5MThsb3RaVWRycGxlMU1SQWZzYS1FXzZvNjdPNDMxWnExVG5SZnhaU051MGZ1Tzd0bkJfSmFfOUtsR3dkZ2R3UXd5Q0tvdVczZlNPaWdtVi0zWUM3SVVqV1IxdEY2elhsdEpRM2ZDbC01Uk5XSGExMHNBQ1k1OGp2c1R0R3VFQlY3VDdid3c3dE1mVUVTMzVfTDRGbzBxeHhwT0RscHY?oc=5\" target=\"_blank\">Why Perumal Murugan's \"One Part Woman\" is Significant to the Debate on Freedom of Expression in India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Caravan</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Book Review| Students Etched In Memory By Perumal Murugan - Outlook India",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVDZYT1VqWWJxZDFrdXBjNXdlV2VubVkweGk3ZWJMR0xzdEZPclRFZXhmVWg2V19lcHZpOFlKSnBVZU9lRnlDMFpLYUVhZ29GRnpnRmpjeDJXQnhjM0lUR0VGV3NaS0s1bnFZWEFiek9yMVdCWkxvTF9yaUVseWh2cEsxc1FKajZsRXViRS1tS05vTUZGRXfSAaMBQVVfeXFMUGtiUXR5UW90Zk9rS0dzSU4ta0ZoZnMtNS10TW5sQkhFMzNLOEU1b1dCNGc5N0xvN05TeE9EZ09JVTI4Vm5DYkVoWWJ6Ykl4RFdCZDRiUUt4NHMzMHc2Wl8zMWFuZ3hkeTB5SDVlY2lxVTRJUGptcTRsYnVLenctZEtacU52azUwUnB2NzNBYlIyZEl0TVhiYTRBRW5zU3pwQjMtSQ?oc=5",
+        "pub_date": "Sat, 05 Apr 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQVDZYT1VqWWJxZDFrdXBjNXdlV2VubVkweGk3ZWJMR0xzdEZPclRFZXhmVWg2V19lcHZpOFlKSnBVZU9lRnlDMFpLYUVhZ29GRnpnRmpjeDJXQnhjM0lUR0VGV3NaS0s1bnFZWEFiek9yMVdCWkxvTF9yaUVseWh2cEsxc1FKajZsRXViRS1tS05vTUZGRXfSAaMBQVVfeXFMUGtiUXR5UW90Zk9rS0dzSU4ta0ZoZnMtNS10TW5sQkhFMzNLOEU1b1dCNGc5N0xvN05TeE9EZ09JVTI4Vm5DYkVoWWJ6Ykl4RFdCZDRiUUt4NHMzMHc2Wl8zMWFuZ3hkeTB5SDVlY2lxVTRJUGptcTRsYnVLenctZEtacU52azUwUnB2NzNBYlIyZEl0TVhiYTRBRW5zU3pwQjMtSQ?oc=5\" target=\"_blank\">Book Review| Students Etched In Memory By Perumal Murugan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Outlook India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Dhadak 2 Director Shazia Iqbal on Censorship and Brownface | THR India - The Hollywood Reporter India",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQR3hhcmItdTlxMTVlZ2VkUTZSa3dvTkV0MmhvNkpyWlJsNDBKTDB2NG9ZcmZ5eEVlVjk3eVRwZEh0QzRyWkhyY1NsSGVDZndMOHZqTVJzNEEwZHQ4eFJEM0Y0eXp0UEFjbTdIb3VkSnZCenNNX0FERERUTkd6UDBxYW13eUtlRHZXbVlDa3RDU0xQeE1TQXhNUTFPemhLb2tOYWlCUjAxaVEtT3BoMHJVRE1naGswV3lzbk5wWVlQQ20zWGlEcXlvYjVTT3Z2S3l1VXhTWVVMbUJqcV84c2ZkMjdwY0ZuTV9TMVloSUJQMFNrQdIB9wFBVV95cUxPUGtBd0JHX1Rud1pZN3VYalZrbmtyQk5hSHBib0ZIb1RkWTV1WnY0SW1vVEctbnVrU3E1dkg2dDhKREhZb3cydEVVUmdFRUkxV1ptSVRUZWNTSUdLdDlIdl9VUXdMNnFaQnFyUFVxb3B1UWVVendEajB6YlIxQXdJUENkYzFDbjRqREJWX0NrYzdjd3IyNUVGbzEyV2NLQWliQnNicy1RRXQ0YXJfTkxkQldKZzhlRERiVG9QRWJ2cklfVkxzX1Q1X0JmLVhIUVJrMGNYbXpZM0dLaXZWNS1xdFJCMUVaTDlCYlVxRHBaN0pIQVg5N3ZF?oc=5",
+        "pub_date": "Thu, 31 Jul 2025 08:21:03 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQR3hhcmItdTlxMTVlZ2VkUTZSa3dvTkV0MmhvNkpyWlJsNDBKTDB2NG9ZcmZ5eEVlVjk3eVRwZEh0QzRyWkhyY1NsSGVDZndMOHZqTVJzNEEwZHQ4eFJEM0Y0eXp0UEFjbTdIb3VkSnZCenNNX0FERERUTkd6UDBxYW13eUtlRHZXbVlDa3RDU0xQeE1TQXhNUTFPemhLb2tOYWlCUjAxaVEtT3BoMHJVRE1naGswV3lzbk5wWVlQQ20zWGlEcXlvYjVTT3Z2S3l1VXhTWVVMbUJqcV84c2ZkMjdwY0ZuTV9TMVloSUJQMFNrQdIB9wFBVV95cUxPUGtBd0JHX1Rud1pZN3VYalZrbmtyQk5hSHBib0ZIb1RkWTV1WnY0SW1vVEctbnVrU3E1dkg2dDhKREhZb3cydEVVUmdFRUkxV1ptSVRUZWNTSUdLdDlIdl9VUXdMNnFaQnFyUFVxb3B1UWVVendEajB6YlIxQXdJUENkYzFDbjRqREJWX0NrYzdjd3IyNUVGbzEyV2NLQWliQnNicy1RRXQ0YXJfTkxkQldKZzhlRERiVG9QRWJ2cklfVkxzX1Q1X0JmLVhIUVJrMGNYbXpZM0dLaXZWNS1xdFJCMUVaTDlCYlVxRHBaN0pIQVg5N3ZF?oc=5\" target=\"_blank\">Dhadak 2 Director Shazia Iqbal on Censorship and Brownface | THR India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hollywood Reporter India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Dhadak 2 Movie Review: Breaking Through The Clutter and Cynicism | THR India - The Hollywood Reporter India",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORGEzNzZfdElMYldRUmRmS3dGU3JMQTk3MEtVS2c5OUtOTXRIYXNnTkJaWGVVdzdINndBemNNcmJZa0hLMV90RDMxaTMwNVVZWlc1YUFfX01SS3dheTYtVENMZFlSNFBQN3JlbHJNWEFxVHNJRXo0bk5SbGlFWDFEYWRoaTVlZUFLemEyYUJBeEtMeVlHalVueEhyWlFibnlhZlJwTnQ1S25fYmxLYmxIbGJldlJUTHVyeG0zT0dZYlhkVmttMlZDOU1QcHQ0aVl6ZXhmWXhXTjJhcGx6a0V1ZzI2N04xN1ZyOEZnX3lpTjl3UdIB9wFBVV95cUxOOFZ5MGFjS0MzS3NyZ2t5Z3hzb0VNandqMEdLQkNNeEdHUGZTSXpDQzhiamJCblpTS0tmdkVsQ2dHbzBDX2kzUFVQN1pJb0g0UnVZdUd4d0c4YlFBT3otMEJ5SVg4U2RfN3lNV0FKOWc5dm9yOExzWUxubFdrWmQ4eXl6NlJ3NjFsSGtnVDh6bVo1MUV6cUZEMXZ0MUc4UFVZaEVybUhFVFhOdjUySnVaVHRNLW1DaU5BdVZweFA1TjFzam9tdXFhV2hNa3lLeEN4cWprUmV5Q3lVQnk0VkVBcXk4SVRXQXFPakdJMm1PLXo0WmMxWXlj?oc=5",
+        "pub_date": "Fri, 01 Aug 2025 06:28:17 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxORGEzNzZfdElMYldRUmRmS3dGU3JMQTk3MEtVS2c5OUtOTXRIYXNnTkJaWGVVdzdINndBemNNcmJZa0hLMV90RDMxaTMwNVVZWlc1YUFfX01SS3dheTYtVENMZFlSNFBQN3JlbHJNWEFxVHNJRXo0bk5SbGlFWDFEYWRoaTVlZUFLemEyYUJBeEtMeVlHalVueEhyWlFibnlhZlJwTnQ1S25fYmxLYmxIbGJldlJUTHVyeG0zT0dZYlhkVmttMlZDOU1QcHQ0aVl6ZXhmWXhXTjJhcGx6a0V1ZzI2N04xN1ZyOEZnX3lpTjl3UdIB9wFBVV95cUxOOFZ5MGFjS0MzS3NyZ2t5Z3hzb0VNandqMEdLQkNNeEdHUGZTSXpDQzhiamJCblpTS0tmdkVsQ2dHbzBDX2kzUFVQN1pJb0g0UnVZdUd4d0c4YlFBT3otMEJ5SVg4U2RfN3lNV0FKOWc5dm9yOExzWUxubFdrWmQ4eXl6NlJ3NjFsSGtnVDh6bVo1MUV6cUZEMXZ0MUc4UFVZaEVybUhFVFhOdjUySnVaVHRNLW1DaU5BdVZweFA1TjFzam9tdXFhV2hNa3lLeEN4cWprUmV5Q3lVQnk0VkVBcXk4SVRXQXFPakdJMm1PLXo0WmMxWXlj?oc=5\" target=\"_blank\">Dhadak 2 Movie Review: Breaking Through The Clutter and Cynicism | THR India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hollywood Reporter India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Leaders of Sri Lankan Tamil parties should increase their engagement with India for resolving the Tamil issue, says Varatharaja Perumal - The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPQ0FHTDdmR0ZaT3lnYjNSRGF5TE9oTnloM1NLTGczY1RJNXFSU20zR2dHWGR3YnkxdzZQR3BEcVB3bm9xbVFIZy13N1Y1Mk1iUnZrM0tRVGtwajlqNUpBZVNBS3lGSE5yYll5MGl4Rl9IY1QxQzdCaUlsQUE4NG8zeWEyNjZadXBYYnFkMDlQS2g5ai1aT0hfbVp3NjRhbWNkVHg5bEVILTJTWjRGZDgzMVJteHV4SG95dVNnaVZWTmlqTFBsQ3l3QUlyR1NqenZnLUdxTERUcDM5Z000OC1sVExCRlFKN2RqQWNySEVoRVZaU0xVSGFfWHJQcXNFQS1kY2k3OWpuVUZEdHc1cTVTMERhbTBtR0hISktfX0RvRmF0UU4xaXZuenJIc3TSAbMCQVVfeXFMUHhtampuaEFFNnFsaFZzaWtncTROeW80c1VJQ1dDUzBPTFhxT1RNQmFpZDZQTWxieXB2N2UtdEpaWlg2U0dxb2l5eGo5Vk1uRHhNUE4zbS0zekd4ZU9rbV9zeUxiM1U3MEpmZnlaVXRva3oteTNrMEVLTV9BUnNtNXdoeURraFI2NTM2OW9DRDB2MzRzOEdXdjltN0dfV1pCZkpSUVZjVGdFUzRHNnRnZVlrWDhuSFR3azNucU5vN1lmblRXS0JRRlBVcnF5VWY5cmxvNWhUV3hXVlMtTzRPTDRBVzB1eElkR3hoRWUycWNhV0w3QTlOTUF1WmNQVGlqVXpFaXExY1FDRE11aGZlWmh4bVBOT1BxM3Rad1E0OHRFSy1NVTRqUDNpaWk4emF4NUtPOA?oc=5",
+        "pub_date": "Mon, 06 Nov 2023 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxPQ0FHTDdmR0ZaT3lnYjNSRGF5TE9oTnloM1NLTGczY1RJNXFSU20zR2dHWGR3YnkxdzZQR3BEcVB3bm9xbVFIZy13N1Y1Mk1iUnZrM0tRVGtwajlqNUpBZVNBS3lGSE5yYll5MGl4Rl9IY1QxQzdCaUlsQUE4NG8zeWEyNjZadXBYYnFkMDlQS2g5ai1aT0hfbVp3NjRhbWNkVHg5bEVILTJTWjRGZDgzMVJteHV4SG95dVNnaVZWTmlqTFBsQ3l3QUlyR1NqenZnLUdxTERUcDM5Z000OC1sVExCRlFKN2RqQWNySEVoRVZaU0xVSGFfWHJQcXNFQS1kY2k3OWpuVUZEdHc1cTVTMERhbTBtR0hISktfX0RvRmF0UU4xaXZuenJIc3TSAbMCQVVfeXFMUHhtampuaEFFNnFsaFZzaWtncTROeW80c1VJQ1dDUzBPTFhxT1RNQmFpZDZQTWxieXB2N2UtdEpaWlg2U0dxb2l5eGo5Vk1uRHhNUE4zbS0zekd4ZU9rbV9zeUxiM1U3MEpmZnlaVXRva3oteTNrMEVLTV9BUnNtNXdoeURraFI2NTM2OW9DRDB2MzRzOEdXdjltN0dfV1pCZkpSUVZjVGdFUzRHNnRnZVlrWDhuSFR3azNucU5vN1lmblRXS0JRRlBVcnF5VWY5cmxvNWhUV3hXVlMtTzRPTDRBVzB1eElkR3hoRWUycWNhV0w3QTlOTUF1WmNQVGlqVXpFaXExY1FDRE11aGZlWmh4bVBOT1BxM3Rad1E0OHRFSy1NVTRqUDNpaWk4emF4NUtPOA?oc=5\" target=\"_blank\">Leaders of Sri Lankan Tamil parties should increase their engagement with India for resolving the Tamil issue, says Varatharaja Perumal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+        "sentiment": "NEUTRAL"
+      }
+    ],
+    "promoter_analysis": {
+      "jai": {
+        "negative_news_count": 0,
+        "risk_level": "LOW",
+        "articles": []
+      }
+    },
+    "litigation": {
+      "total_cases": 0,
+      "pending_cases": 0,
+      "case_types": [],
+      "high_value_cases": [],
+      "risk_score": 0,
+      "search_attempted": true,
+      "source": "e-Courts Portal"
+    },
+    "sector_trends": {
+      "sector": "Services",
+      "recent_regulations": [],
+      "market_sentiment": "POSITIVE",
+      "growth_outlook": "STABLE",
+      "key_risks": []
+    },
+    "credit_ratings": {
+      "agencies": [],
+      "latest_rating": null,
+      "rating_trend": "STABLE",
+      "outlook": "STABLE"
+    },
+    "overall_risk_flags": []
+  },
+  "recommendation": {
+    "decision": "REJECTED",
+    "credit_score": 570,
+    "rating": "B",
+    "recommended_loan_amount": 0,
+    "recommended_interest_rate": 0,
+    "five_cs_breakdown": {
+      "character": 100,
+      "capacity": 20,
+      "capital": 10,
+      "collateral": 90,
+      "conditions": 100
+    },
+    "explanation": "Credit Decision: REJECTED\nCredit Score: 570 (Rating: B)\n\nKey Factors:\n- Capacity concerns (Score: 20/100)\n- Capital structure concerns (Score: 10/100)",
+    "risk_factors": [],
+    "strengths": [
+      "Conservative leverage (D/E: 0.00x)",
+      "High revenue consistency across sources",
+      "Good capacity utilization (75%)"
+    ]
+  },
+  "cam_document_path": "./outputs\\CAM_perumal_20260311.docx",
+  "processing_timestamp": "2026-03-11T22:29:29.538545"
+}

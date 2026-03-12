@@ -1,0 +1,66 @@
+{
+  "cin": "U12345MH2015PTC123456",
+  "company_name": "ABC MANUFACTURING PRIVATE LIMITED",
+  "registration_date": "2015-03-15",
+  "company_category": "Company limited by Shares",
+  "company_sub_category": "Non-govt company",
+  "class_of_company": "Private",
+  "authorized_capital": 10000000,
+  "paid_up_capital": 7500000,
+  "number_of_members": 4,
+  "date_of_last_agm": "2023-09-30",
+  "compliance_status": "Active",
+  "director_changes": [
+    {
+      "date": "2022-06-15",
+      "type": "Appointment",
+      "name": "Mr. Amit Verma",
+      "din": "08765432"
+    }
+  ],
+  "charges": [
+    {
+      "charge_id": "CHG001",
+      "date_of_creation": "2020-05-10",
+      "amount": 25000000,
+      "charge_holder": "State Bank of India",
+      "status": "Outstanding"
+    },
+    {
+      "charge_id": "CHG002",
+      "date_of_creation": "2021-08-22",
+      "amount": 15000000,
+      "charge_holder": "HDFC Bank",
+      "status": "Outstanding"
+    }
+  ],
+  "annual_returns": [
+    {
+      "financial_year": "2022-23",
+      "filing_date": "2023-10-15",
+      "status": "Filed"
+    },
+    {
+      "financial_year": "2021-22",
+      "filing_date": "2022-10-20",
+      "status": "Filed"
+    }
+  ],
+  "shareholding_pattern": [
+    {
+      "shareholder_name": "Mr. Rajesh Kumar",
+      "shares": 3000,
+      "percentage": 40.0
+    },
+    {
+      "shareholder_name": "Mrs. Priya Sharma",
+      "shares": 2500,
+      "percentage": 33.33
+    },
+    {
+      "shareholder_name": "Mr. Amit Verma",
+      "shares": 2000,
+      "percentage": 26.67
+    }
+  ]
+}

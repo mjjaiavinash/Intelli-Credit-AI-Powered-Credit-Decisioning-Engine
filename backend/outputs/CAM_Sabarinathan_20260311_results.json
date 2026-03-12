@@ -1,0 +1,228 @@
+{
+  "company_info": {
+    "company_name": "Sabarinathan",
+    "sector": "Trading",
+    "incorporation_year": 2015,
+    "promoters": [
+      "Avinash"
+    ]
+  },
+  "ingested_data": {
+    "gst": {
+      "gstin": null,
+      "total_turnover": 0,
+      "input_tax_credit": 0,
+      "tax_liability": 0,
+      "filing_frequency": [],
+      "gstr3b_vs_gstr2a_mismatch": false
+    },
+    "mca": {
+      "director_changes": 0,
+      "charge_modifications": 0,
+      "compliance_status": "Active",
+      "last_agm_date": null,
+      "authorized_capital": 100,
+      "paid_up_capital": 75
+    }
+  },
+  "research_results": {
+    "company_name": "Sabarinathan",
+    "research_date": "2026-03-11T22:49:01.865778",
+    "news_analysis": [
+      {
+        "title": "Why Congress is fielding former MLA KS Sabarinathan for Thiruvananthapuram mayor - The South First",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQms1ZnZlRGY4ZDJaNDRsZ09GZzVkSXFRc1hmY3RqRG54czg2RWlvT1p4ZExjazk0dlRnd3dMYmpja2NnNkgyRVJNSEpBaEZZWVV6aklSUFJvQVNpZWxsVzUwbGtHM0lkRWhlY0ptQVJkRlJRWHlTajFyY0s0Vks4NnJ2TWFxdFp1b1YycXJEc3lnVUZWNmE2OGxCeVMyRl9FU1RmaFR5WkRmUUNMeWJyRVh3UDk?oc=5",
+        "pub_date": "Sun, 02 Nov 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPQms1ZnZlRGY4ZDJaNDRsZ09GZzVkSXFRc1hmY3RqRG54czg2RWlvT1p4ZExjazk0dlRnd3dMYmpja2NnNkgyRVJNSEpBaEZZWVV6aklSUFJvQVNpZWxsVzUwbGtHM0lkRWhlY0ptQVJkRlJRWHlTajFyY0s0Vks4NnJ2TWFxdFp1b1YycXJEc3lnVUZWNmE2OGxCeVMyRl9FU1RmaFR5WkRmUUNMeWJyRVh3UDk?oc=5\" target=\"_blank\">Why Congress is fielding former MLA KS Sabarinathan for Thiruvananthapuram mayor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The South First</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Former MLA to be Congress mayoral candidate in Thiruvananthapuram | India News - Hindustan Times",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSm04dlpQckQxUm10X2hWQk5aMGVVVEd4aEg4Y3l0UmVnLUlQN3JiN0hIaEZmb0V1U0JhM2VHaGp6eFpSZEtWcEV3cU1MQnY3djRFbHJCXzZ5Q3RtTGxEVjNvN096U0NyQ2VOSVdQTDJ4bnpwR2RoeWdCOWRucHVpTXNWS2M1RHZ3MDFJS0VOYktZV2F5TzJTNTZLd3BUMElWbW0wNVlSRDhSTnBlR1kxMFo0VGtnVW1SWjJmNXByd3NaY0daU0k40gHMAUFVX3lxTE5tWDVsSG1RSFF5RlJxMzFOUFRIZ1RZeG8wbEV1Q2VOcVhKYmMtUlFKLVctcnVJdWcwcURRY2xiU1N2Z21zV3VhaU85TU55ci10akxOdWFkUjRpN3pPXzZzU3lhU01KRkVULTQxTE53VU8tbTkyLU9ZdWJfNHZSS1JYR2E3dXZ6blV0MHlyRFhZN3JTYzhha2VTSVlLREp2RlpRM0RuTjBwN3YyQzRGWkJ2ZXhOYXVwbzZBZ3htSkI0SnhSRTZSRlZvcTNxZQ?oc=5",
+        "pub_date": "Mon, 03 Nov 2025 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQSm04dlpQckQxUm10X2hWQk5aMGVVVEd4aEg4Y3l0UmVnLUlQN3JiN0hIaEZmb0V1U0JhM2VHaGp6eFpSZEtWcEV3cU1MQnY3djRFbHJCXzZ5Q3RtTGxEVjNvN096U0NyQ2VOSVdQTDJ4bnpwR2RoeWdCOWRucHVpTXNWS2M1RHZ3MDFJS0VOYktZV2F5TzJTNTZLd3BUMElWbW0wNVlSRDhSTnBlR1kxMFo0VGtnVW1SWjJmNXByd3NaY0daU0k40gHMAUFVX3lxTE5tWDVsSG1RSFF5RlJxMzFOUFRIZ1RZeG8wbEV1Q2VOcVhKYmMtUlFKLVctcnVJdWcwcURRY2xiU1N2Z21zV3VhaU85TU55ci10akxOdWFkUjRpN3pPXzZzU3lhU01KRkVULTQxTE53VU8tbTkyLU9ZdWJfNHZSS1JYR2E3dXZ6blV0MHlyRFhZN3JTYzhha2VTSVlLREp2RlpRM0RuTjBwN3YyQzRGWkJ2ZXhOYXVwbzZBZ3htSkI0SnhSRTZSRlZvcTNxZQ?oc=5\" target=\"_blank\">Former MLA to be Congress mayoral candidate in Thiruvananthapuram | India News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Good samaritan cop raises crores to help grieving police families - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcEFtTzVubzRsWk1sUUVfOFlJRkpqSWdPam5pdTQ3UmRwUUpldTNKLUVCeGV4YXY1bUJUd254X0h2YkJaT1RySl9LZVJMNkVCd3pVQjA4bXIzVUlKTk02cy15enFCVUs0NE44NUp2VGp3dUZGb0RNZjRwM2diSVlJZVlfekRNWGktRGJxZG0tQnI5LXEzaVA1cTJ2WU1ZMTd4RmdDZFR2WXRVdFRMS0NXb2JhNEVCMHpUU0tiVHBrVjhSTmpUVmFXLU9rcWduOXNXTUdqY2ljVdIB3AFBVV95cUxPelBnejJ6TlBCdTJiX3Z2V0c2bFdmaFhfTUtjQ3B4R3QzMTYzMU5GS3pRQklIRUZZaHpfUW9jMENMREtXWTBhblBOLTlJd3JUck9MTTFaMmgtNXhwTUxPN0VQbzNuc1JHSnBnenNYOVEtQU5oT3JoLW1nRmFmelVCU283RzVYM1JaZUJMVWktYmZWRTlpM2VhZHZIR3ZYUUowYXZtTTZTUlNZTTdhYjd1QXl5ZTI3WUkxeFlwZG9SN2V5WHNQLUtlMklyMzVNaVAwZ2x3UUMwYU51MXhV?oc=5",
+        "pub_date": "Mon, 06 Oct 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcEFtTzVubzRsWk1sUUVfOFlJRkpqSWdPam5pdTQ3UmRwUUpldTNKLUVCeGV4YXY1bUJUd254X0h2YkJaT1RySl9LZVJMNkVCd3pVQjA4bXIzVUlKTk02cy15enFCVUs0NE44NUp2VGp3dUZGb0RNZjRwM2diSVlJZVlfekRNWGktRGJxZG0tQnI5LXEzaVA1cTJ2WU1ZMTd4RmdDZFR2WXRVdFRMS0NXb2JhNEVCMHpUU0tiVHBrVjhSTmpUVmFXLU9rcWduOXNXTUdqY2ljVdIB3AFBVV95cUxPelBnejJ6TlBCdTJiX3Z2V0c2bFdmaFhfTUtjQ3B4R3QzMTYzMU5GS3pRQklIRUZZaHpfUW9jMENMREtXWTBhblBOLTlJd3JUck9MTTFaMmgtNXhwTUxPN0VQbzNuc1JHSnBnenNYOVEtQU5oT3JoLW1nRmFmelVCU283RzVYM1JaZUJMVWktYmZWRTlpM2VhZHZIR3ZYUUowYXZtTTZTUlNZTTdhYjd1QXl5ZTI3WUkxeFlwZG9SN2V5WHNQLUtlMklyMzVNaVAwZ2x3UUMwYU51MXhV?oc=5\" target=\"_blank\">Good samaritan cop raises crores to help grieving police families</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Bigg Boss Tamil Season 9 Winner is Divya Ganesan, reveals SCREEN Poll - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUEcwUmhsUEpYZkFuRUkzV2FBWU10UmdxRzFyYzBmVnVHdUpQSmI2MDVQcUszNVJpOXdjQjI0SUxSVlBoMlh1eXplcFRfZWhBQVNSZUJpbXBnaGc4eGJJekhsWFVaTTlOSm9IdW5Ia1EzdkZHVHdpR19sVk95cnViY1ZrLS1MN211NnFwMU1tYkJocTA4blJEX0t2U3liMXdGdjdiSWl1OUZLRV9zNlQyNGs3WktxZi1haVg4VjJxVG1hZmZlN05lQUpqOEpqOFE5OGpQT0M4Y9IB3gFBVV95cUxPRk9IUXZxekhCcG5icnIwZVR4dm1yYnlXeVRYUXJNejhlQ1ZyRlpQcFhJckZRbTFpVGJ6RFN1TFBUa1Z2MnFmd3NPbURGYXlXSkdHclBqWkZjaGlZUUZ2TmFMeUtTNzBUQkhLcmJWMjFWM3VabG95X1NGTXM0b3NmSzRzRzYtdzhHREhyc29Xd2c2RWFEREVUamthS3U4eUszX3QtTG1ZLWpTdHhyM3lYZEdteVRLZFRYbFEwNm1vclZCcEZGUGtLODRhV3VKdlp3Uk9kNDBpcWlnOVZGTWc?oc=5",
+        "pub_date": "Sun, 18 Jan 2026 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUEcwUmhsUEpYZkFuRUkzV2FBWU10UmdxRzFyYzBmVnVHdUpQSmI2MDVQcUszNVJpOXdjQjI0SUxSVlBoMlh1eXplcFRfZWhBQVNSZUJpbXBnaGc4eGJJekhsWFVaTTlOSm9IdW5Ia1EzdkZHVHdpR19sVk95cnViY1ZrLS1MN211NnFwMU1tYkJocTA4blJEX0t2U3liMXdGdjdiSWl1OUZLRV9zNlQyNGs3WktxZi1haVg4VjJxVG1hZmZlN05lQUpqOEpqOFE5OGpQT0M4Y9IB3gFBVV95cUxPRk9IUXZxekhCcG5icnIwZVR4dm1yYnlXeVRYUXJNejhlQ1ZyRlpQcFhJckZRbTFpVGJ6RFN1TFBUa1Z2MnFmd3NPbURGYXlXSkdHclBqWkZjaGlZUUZ2TmFMeUtTNzBUQkhLcmJWMjFWM3VabG95X1NGTXM0b3NmSzRzRzYtdzhHREhyc29Xd2c2RWFEREVUamthS3U4eUszX3QtTG1ZLWpTdHhyM3lYZEdteVRLZFRYbFEwNm1vclZCcEZGUGtLODRhV3VKdlp3Uk9kNDBpcWlnOVZGTWc?oc=5\" target=\"_blank\">Bigg Boss Tamil Season 9 Winner is Divya Ganesan, reveals SCREEN Poll</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "New twist to dispute over office space between CPM MLA and BJP councillor - The Statesman",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGMyRGJSUjJmdHNVTHo3aG1VSTR3RXJDc19OT2Y4NzBQaG9SRlZjZEkyczNra0FRWS1KMXpHQTh6Rlc4SURhOWFXbnJzUGprdmRjamd6M2QxM3JFaVJrRVdZRlN4cHRKUnZzUTRZVkhHSExMTG9JX05lYjVGMC1JQUtGRm9fWk1mWERmV0xHVDRSVTBUdDhzbk9WX1JlVHgya2N4MTAzVVBHenh2bnVwSjZuZ09MSkNzeWlURW50YmlOZ9IBxwFBVV95cUxOdmtIek9ZRlcxcXVSc1BCZV9naXFoVWFkVVgyOEtWdlZWVXJYTk4tS1lrdW40ano0eDFtWFFIYWxaYy1aNTczTEU1ZkJETkVHVDU0cmQtU2ZDbjlMa25MTTR3bGtmT2pVelA5OXNBQ25IN1E5Q0x1NlBzMldkSFZuYnJFWFJJOWh2NFE1azJ4OWJFLUliQ2RXVjlpT0FTUFM1Z3JGX25fd2tGeEdUYzB5ZEhoTHE0RU8ydGp0clZtQllpdVpmSkw4?oc=5",
+        "pub_date": "Mon, 29 Dec 2025 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGMyRGJSUjJmdHNVTHo3aG1VSTR3RXJDc19OT2Y4NzBQaG9SRlZjZEkyczNra0FRWS1KMXpHQTh6Rlc4SURhOWFXbnJzUGprdmRjamd6M2QxM3JFaVJrRVdZRlN4cHRKUnZzUTRZVkhHSExMTG9JX05lYjVGMC1JQUtGRm9fWk1mWERmV0xHVDRSVTBUdDhzbk9WX1JlVHgya2N4MTAzVVBHenh2bnVwSjZuZ09MSkNzeWlURW50YmlOZ9IBxwFBVV95cUxOdmtIek9ZRlcxcXVSc1BCZV9naXFoVWFkVVgyOEtWdlZWVXJYTk4tS1lrdW40ano0eDFtWFFIYWxaYy1aNTczTEU1ZkJETkVHVDU0cmQtU2ZDbjlMa25MTTR3bGtmT2pVelA5OXNBQ25IN1E5Q0x1NlBzMldkSFZuYnJFWFJJOWh2NFE1azJ4OWJFLUliQ2RXVjlpT0FTUFM1Z3JGX25fd2tGeEdUYzB5ZEhoTHE0RU8ydGp0clZtQllpdVpmSkw4?oc=5\" target=\"_blank\">New twist to dispute over office space between CPM MLA and BJP councillor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Statesman</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "As IndiGo Faces Crisis, the Company\u2019s Independent Directors Cannot Evade Responsibility - TheWire.in",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNVRDeVJqM2J2Qzl6SFlCRFdBSXRLQmlLNFQyWnNKem1LNXA3enBRYjhWaG41QUo0LVVLSkRLWXROMkFZbFdDNW0tTGt5eXFzSi1EZ1ZUZnBrSzk4NWYyVmhGNnZRR09Sa3VnbFR3dHotOE5EdTV5MndnTFhsOWNWNTl6M2RHSVpYSm4tMWR1bnpKVVU2MzRRQWdtcnc4RmNxMTkxUmtsRm5Rb00yVzd4Z3dXRHo5MF9YdHlrOWN30gHDAUFVX3lxTE1pa2FnMHl5eTZEbUljSXR3TEN0VkZ3M1cydWM2cXphX1liNXMzc3B4aHFqV21VMlVLcEEzMi1OOW0wTEhNeHFoREtpVGwwWUVDb3lSR1YzSHlhanR6cWpseXFFSjk5emFTVVpsR1A5Q0UxZXhVQ2hPRDVkWlRDU0FKaTRaX1hOUXktWWlMZjRRTzE5UXpyYkFNazNOMW9vcTZwdEFWbjhkZWc1VXhCNHlvaDB5UUZCUkRXRUgzQUFmVmduVQ?oc=5",
+        "pub_date": "Thu, 11 Dec 2025 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQNVRDeVJqM2J2Qzl6SFlCRFdBSXRLQmlLNFQyWnNKem1LNXA3enBRYjhWaG41QUo0LVVLSkRLWXROMkFZbFdDNW0tTGt5eXFzSi1EZ1ZUZnBrSzk4NWYyVmhGNnZRR09Sa3VnbFR3dHotOE5EdTV5MndnTFhsOWNWNTl6M2RHSVpYSm4tMWR1bnpKVVU2MzRRQWdtcnc4RmNxMTkxUmtsRm5Rb00yVzd4Z3dXRHo5MF9YdHlrOWN30gHDAUFVX3lxTE1pa2FnMHl5eTZEbUljSXR3TEN0VkZ3M1cydWM2cXphX1liNXMzc3B4aHFqV21VMlVLcEEzMi1OOW0wTEhNeHFoREtpVGwwWUVDb3lSR1YzSHlhanR6cWpseXFFSjk5emFTVVpsR1A5Q0UxZXhVQ2hPRDVkWlRDU0FKaTRaX1hOUXktWWlMZjRRTzE5UXpyYkFNazNOMW9vcTZwdEFWbjhkZWc1VXhCNHlvaDB5UUZCUkRXRUgzQUFmVmduVQ?oc=5\" target=\"_blank\">As IndiGo Faces Crisis, the Company\u2019s Independent Directors Cannot Evade Responsibility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheWire.in</font>",
+        "sentiment": "NEGATIVE"
+      },
+      {
+        "title": "Bigg Boss Tamil 9 Winner Is Divya Ganesh: Wikipedia Page Leaks Results Before Finale - Oneindia",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjF4MVpCeUtNZ1ctU0tVeTNSdzBFV1RMeDNQSUY1RlA2NDdBY2hnSnllNDc3LXRtRlpmbTZOYWkzU3owcUxxelFwM3dMS0duaXdKWkpDZ2tjS2hMUVZ2aXNiQ3E0N0pGdndES2lJSmRUdmtleDltZlZLVGhxQm5tdmFVQWRvRkVvSFZkeEVVWmx0SlAyenUwdWJTRHVWZWt0czBLM3JpOU5HcVpzMjg2VzdYcVUxQWhNT1pOVzZuOVRZZjBvZl93MnhIeVRKMl82?oc=5",
+        "pub_date": "Sun, 18 Jan 2026 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjF4MVpCeUtNZ1ctU0tVeTNSdzBFV1RMeDNQSUY1RlA2NDdBY2hnSnllNDc3LXRtRlpmbTZOYWkzU3owcUxxelFwM3dMS0duaXdKWkpDZ2tjS2hMUVZ2aXNiQ3E0N0pGdndES2lJSmRUdmtleDltZlZLVGhxQm5tdmFVQWRvRkVvSFZkeEVVWmx0SlAyenUwdWJTRHVWZWt0czBLM3JpOU5HcVpzMjg2VzdYcVUxQWhNT1pOVzZuOVRZZjBvZl93MnhIeVRKMl82?oc=5\" target=\"_blank\">Bigg Boss Tamil 9 Winner Is Divya Ganesh: Wikipedia Page Leaks Results Before Finale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oneindia</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "L&T VP Kumarasen and Sub-Inspector Sabarinathan Receive International Honorary Doctorates via Indian Media Works Initiative - MyNation",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDdwZDlGMUVFSElYMFFFMGlwa2JReDkxT0RjUldPMi1DMmJIamp2MkR4cXFBVHByVnhiV3JrcTBadXNZUmh2VUF6bTR0Y3RiS0RHZXBxX21ick5TWXNMSENEMHB2amdRMlAzUzBGcmJoLWFhUlVxZHc2cHB0Zktpa0g2T0Q3YmdsMVBiaGxvQzhkcTJWbTZTSmEtLXNRN21GdHlGYVJLYUZObDJ2NXpMa0s5c0lOSFVxSHh4Qk10UWo4c3NvRnVQeTFuVkzSAdIBQVVfeXFMUFAxN3A4eWFOZldPWmowQmczUF9YSkVaSUlUUTRDSndlcnRaTVJCbWtOQ2RnSFZNVERPQ0kxeTladUZsUV9WVl9JU0sxQjlPUkpaSzRlM205OW5lX0Z6RFFMRWZqWTAtOEhfalpUYlZJeDZ0TnZ5MjVwam95dktGQjRiRjBkVWsxbmduWWxLbGMta1AyMnY4OGdsWGQ2OXAzQkwtdTU4LXRuR2FtSTRnbU5pVXRRWGpRX1NXcTJudURQRFNOYTVfUlM0Sl9OR0VEM2xB?oc=5",
+        "pub_date": "Fri, 10 Oct 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDdwZDlGMUVFSElYMFFFMGlwa2JReDkxT0RjUldPMi1DMmJIamp2MkR4cXFBVHByVnhiV3JrcTBadXNZUmh2VUF6bTR0Y3RiS0RHZXBxX21ick5TWXNMSENEMHB2amdRMlAzUzBGcmJoLWFhUlVxZHc2cHB0Zktpa0g2T0Q3YmdsMVBiaGxvQzhkcTJWbTZTSmEtLXNRN21GdHlGYVJLYUZObDJ2NXpMa0s5c0lOSFVxSHh4Qk10UWo4c3NvRnVQeTFuVkzSAdIBQVVfeXFMUFAxN3A4eWFOZldPWmowQmczUF9YSkVaSUlUUTRDSndlcnRaTVJCbWtOQ2RnSFZNVERPQ0kxeTladUZsUV9WVl9JU0sxQjlPUkpaSzRlM205OW5lX0Z6RFFMRWZqWTAtOEhfalpUYlZJeDZ0TnZ5MjVwam95dktGQjRiRjBkVWsxbmduWWxLbGMta1AyMnY4OGdsWGQ2OXAzQkwtdTU4LXRuR2FtSTRnbU5pVXRRWGpRX1NXcTJudURQRFNOYTVfUlM0Sl9OR0VEM2xB?oc=5\" target=\"_blank\">L&T VP Kumarasen and Sub-Inspector Sabarinathan Receive International Honorary Doctorates via Indian Media Works Initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNation</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Aarav Sabarinathan \u2013 Appreciation - India Book of Records",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WcG5ZVG9VX2JTLXg2MTk5eVB3Y3pMRlVjaTN2a2s4NmVBT3Z2MWhJU0xTU0NIUjVXY3h4MGpoQTl4Y2JnMjRMWlpKUGhCcnY5dzRYUVpBZ21pZ1VRSERuTHJ4Slg4bmYtanRnUUVBTQ?oc=5",
+        "pub_date": "Fri, 10 Jun 2022 10:10:55 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5WcG5ZVG9VX2JTLXg2MTk5eVB3Y3pMRlVjaTN2a2s4NmVBT3Z2MWhJU0xTU0NIUjVXY3h4MGpoQTl4Y2JnMjRMWlpKUGhCcnY5dzRYUVpBZ21pZ1VRSERuTHJ4Slg4bmYtanRnUUVBTQ?oc=5\" target=\"_blank\">Aarav Sabarinathan \u2013 Appreciation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Book of Records</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Kerala: Congress ranks unhappy with Divya S. Iyer IAS praising Left leaders - theweek.in",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbVpzbHZ2VWMzLXo5UjY5RGZQNFl5TW5nbnNJNWNQLVRjYXJmcjFYem5EamsyOFdRQkdRV3BWWFQ0SWhXOGYwODRYNS0zT182bk1VSzRaeTdLY09ZTHRRRmhERmI4ZHpGVEFuSW9QbGR2b2dwZW5RQVlnaUwzai1ORUZ6aUUtckI5bmFEZnFLZGIzLVF3ODIzTTZ6RjdOVktCcTdheUNWUmRJUERiNEtiZEZtUEJ4dUZ2b2djdnFmTS1STXA3Q0Z1cGRZZ3VpSWFRRnFleXJ4WdIB3AFBVV95cUxQMGFMbmJRUXNocWhZNzEtZVhCbUp2bzItemlVUXhmSjZVNERQTVBNQjFFSFpEZno2WURYNjZwYUtua2paS241T2t4aXVRZVdkRDZHdFJEQ3VjdTFNX2pkWW0ycHRIdnRSbDJLczJtVHhCR3FpbWQ2N0M2a3otMjA0SjhhZlFISHFLVWtaQ2FMME1ESzFQdDIweWNrSmpHblJ6VmpFUzEyUjhndC0yeGkxOFh0ZmtwOWFBTU9oUzhHV21PalZPOU10SVkycEV2dnNtck5ibllnbDBPSGVK?oc=5",
+        "pub_date": "Wed, 16 Apr 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbVpzbHZ2VWMzLXo5UjY5RGZQNFl5TW5nbnNJNWNQLVRjYXJmcjFYem5EamsyOFdRQkdRV3BWWFQ0SWhXOGYwODRYNS0zT182bk1VSzRaeTdLY09ZTHRRRmhERmI4ZHpGVEFuSW9QbGR2b2dwZW5RQVlnaUwzai1ORUZ6aUUtckI5bmFEZnFLZGIzLVF3ODIzTTZ6RjdOVktCcTdheUNWUmRJUERiNEtiZEZtUEJ4dUZ2b2djdnFmTS1STXA3Q0Z1cGRZZ3VpSWFRRnFleXJ4WdIB3AFBVV95cUxQMGFMbmJRUXNocWhZNzEtZVhCbUp2bzItemlVUXhmSjZVNERQTVBNQjFFSFpEZno2WURYNjZwYUtua2paS241T2t4aXVRZVdkRDZHdFJEQ3VjdTFNX2pkWW0ycHRIdnRSbDJLczJtVHhCR3FpbWQ2N0M2a3otMjA0SjhhZlFISHFLVWtaQ2FMME1ESzFQdDIweWNrSmpHblJ6VmpFUzEyUjhndC0yeGkxOFh0ZmtwOWFBTU9oUzhHV21PalZPOU10SVkycEV2dnNtck5ibllnbDBPSGVK?oc=5\" target=\"_blank\">Kerala: Congress ranks unhappy with Divya S. Iyer IAS praising Left leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theweek.in</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Bigg Boss Tamil 9 Preview: The spat between Diwakar and Sabari Nathan intensifies - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNHBmMTFHTjdOTmVKdjRMc2YwM1EyaFUxMVJuc1RfanZWZXBEZ0RlaWVPanNwZ2h0OHd6eXNmcEw2TVIyU3ViQjF2RTFTbndSSEF6R3BRRjNnX19mdGZyLXBWOE1IOWQ3SGNUeWxaOG51eGJzUmtoME9XQUZ1Q0ktT0EtbzlVN1ZCNzhWYlk5eWFLMFJSbXpaMklhMzBsWFVqcjhqTzEtcEJMRE9MdjdzVUNPZTBjOWtCWUZzMjRxZHZCajZ1LS02MWNjRVJQbVkzZklxTDVibl9qXzYwQzR4djFiUXY0M1ZYR3NkUNIB8gFBVV95cUxOTTIxY01YUWtqZERDREItalNyZzlfN2M2Snp6MkhQMzl4Q3BGWEF6Q25RZlJmR19mcVk5S3BOMnhpeGk2eEtSLVZjaGNFQlhCZm9MS2NIU1FUbVpJb0o5bG0zbldQWTVnUlNyTEZXcV9mV3Qyc3VTajNYeEJLWmhQVDF0MVN4YlZUUFhjSVI2dUtEZW9CQmM0aktHa1pEVW1BWGlXWm5BZEJKNmllN2tZVVV4RXBBRlpqSDZiZEtseWFxT1RUTDBjMUwtTUs3NzlHV3BuVng1Q1dWQTR4S2Y2bmYwOGVqY3JyZERGRjU4TlQ4UQ?oc=5",
+        "pub_date": "Mon, 13 Oct 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNHBmMTFHTjdOTmVKdjRMc2YwM1EyaFUxMVJuc1RfanZWZXBEZ0RlaWVPanNwZ2h0OHd6eXNmcEw2TVIyU3ViQjF2RTFTbndSSEF6R3BRRjNnX19mdGZyLXBWOE1IOWQ3SGNUeWxaOG51eGJzUmtoME9XQUZ1Q0ktT0EtbzlVN1ZCNzhWYlk5eWFLMFJSbXpaMklhMzBsWFVqcjhqTzEtcEJMRE9MdjdzVUNPZTBjOWtCWUZzMjRxZHZCajZ1LS02MWNjRVJQbVkzZklxTDVibl9qXzYwQzR4djFiUXY0M1ZYR3NkUNIB8gFBVV95cUxOTTIxY01YUWtqZERDREItalNyZzlfN2M2Snp6MkhQMzl4Q3BGWEF6Q25RZlJmR19mcVk5S3BOMnhpeGk2eEtSLVZjaGNFQlhCZm9MS2NIU1FUbVpJb0o5bG0zbldQWTVnUlNyTEZXcV9mV3Qyc3VTajNYeEJLWmhQVDF0MVN4YlZUUFhjSVI2dUtEZW9CQmM0aktHa1pEVW1BWGlXWm5BZEJKNmllN2tZVVV4RXBBRlpqSDZiZEtseWFxT1RUTDBjMUwtTUs3NzlHV3BuVng1Q1dWQTR4S2Y2bmYwOGVqY3JyZERGRjU4TlQ4UQ?oc=5\" target=\"_blank\">Bigg Boss Tamil 9 Preview: The spat between Diwakar and Sabari Nathan intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Bigg Boss Tamil 9 Voting: How To Vote For Your Favourite Contestant? - Oneindia",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFN1OWNWOXhMZ3FIVFZ5T1kxUk5ma2d6cS1PUUtvQ0dGRWRZLUVYWEUxZldaOWNmOUU5WUxabWQzbEhnT1lveDRzNHJOckhyYVgyQmNSRVcwb1FmWlplZTdMaXNtN3BSNTV0Y1dHNS1xV2ZrazBaY0lOOVU5eGlIalRfWlBBUHlxelUtNEw5VjJRbXFzZElaR1VSVDQ5QzFiT3NWUWVDVFlzRWwxdk9JR0s0Ql9MVE0?oc=5",
+        "pub_date": "Tue, 13 Jan 2026 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFN1OWNWOXhMZ3FIVFZ5T1kxUk5ma2d6cS1PUUtvQ0dGRWRZLUVYWEUxZldaOWNmOUU5WUxabWQzbEhnT1lveDRzNHJOckhyYVgyQmNSRVcwb1FmWlplZTdMaXNtN3BSNTV0Y1dHNS1xV2ZrazBaY0lOOVU5eGlIalRfWlBBUHlxelUtNEw5VjJRbXFzZElaR1VSVDQ5QzFiT3NWUWVDVFlzRWwxdk9JR0s0Ql9MVE0?oc=5\" target=\"_blank\">Bigg Boss Tamil 9 Voting: How To Vote For Your Favourite Contestant?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oneindia</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Role of Artificial Intelligence in Oral Cancer - Umapathy - 2024 - Advances in Public Health - Wiley Online Library",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xcW1MNl80dmxkT0p6ZEw1THlyenRMNTFHaXRFRTl2UzBOSWlob2QyZk4xMFNfdENfVnM2WlRaTGVwMDhlS1ZYMS1HQ3dZdy1CcTlNUlFMYnNZX1Y4WmJkRmxVRzZubGJmcFFETkh3?oc=5",
+        "pub_date": "Mon, 30 Dec 2024 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1xcW1MNl80dmxkT0p6ZEw1THlyenRMNTFHaXRFRTl2UzBOSWlob2QyZk4xMFNfdENfVnM2WlRaTGVwMDhlS1ZYMS1HQ3dZdy1CcTlNUlFMYnNZX1Y4WmJkRmxVRzZubGJmcFFETkh3?oc=5\" target=\"_blank\">Role of Artificial Intelligence in Oral Cancer - Umapathy - 2024 - Advances in Public Health</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wiley Online Library</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Congress to field K S Sabarinathan in Thiruvananthapuram Corporation; list to be released tomorrow - Kerala Kaumudi",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeF9XNkdmUThIOEFUR2ZrZ2NqWFFKc01DaDVQV2t6QWhPRnVJX3EwMThUNmdSRVFXQWNBR1hZZXBXUGhaTTJMcUI1XzM5VERYSERSSDR2OU9ER0hVTHhmaTc1Z2o5QWM1bkRwS0xtZTZnM3MteWRYUWVNZG84OHU4QXFGVkcyZVlkRDJWRXlqT0plT3hYNlRpRlpoeXRGWWE4WnUxUXN3a3NSeHZJakRmMmJXVkdubXpPeHdvZllfSUh6djdyQndpT3lJYmgzZmpGTFpzN2p2Q0g1eEFWamFvMUZCNzFsa0JEckJVTnRZYm1nZ9IB9wFBVV95cUxQMkNKYUZWdUxBOWYxQ0x2SnZ0aDNIZm9naTFnRFZ2RnRSX1k2aE01bHpFOFUyUkp4Sm5SbFlKS01HM05DUWRjN2pKYjgwLXZfcmJCYXMwSWFRZGsyM3otcWdSZjZCQVhVanF2Mm9vdjVLWFFhOUVabWlwVkNpUUdCWEN1TmMwbVhBNVJZMDBuUDAwRmFiT0hvRWoyQUt5ZFpYZWJnWEhkcEhIV3MtbmlFdjhoNnVza1pJNEc0UmNXNWcwNkVMR0Z0X2xqT2JGdEtFaUpIUjFBRDBtS1hobGNNRUxxTVk3MnVoYUtxck5sVGdQZkRSVHBN?oc=5",
+        "pub_date": "Sun, 02 Nov 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeF9XNkdmUThIOEFUR2ZrZ2NqWFFKc01DaDVQV2t6QWhPRnVJX3EwMThUNmdSRVFXQWNBR1hZZXBXUGhaTTJMcUI1XzM5VERYSERSSDR2OU9ER0hVTHhmaTc1Z2o5QWM1bkRwS0xtZTZnM3MteWRYUWVNZG84OHU4QXFGVkcyZVlkRDJWRXlqT0plT3hYNlRpRlpoeXRGWWE4WnUxUXN3a3NSeHZJakRmMmJXVkdubXpPeHdvZllfSUh6djdyQndpT3lJYmgzZmpGTFpzN2p2Q0g1eEFWamFvMUZCNzFsa0JEckJVTnRZYm1nZ9IB9wFBVV95cUxQMkNKYUZWdUxBOWYxQ0x2SnZ0aDNIZm9naTFnRFZ2RnRSX1k2aE01bHpFOFUyUkp4Sm5SbFlKS01HM05DUWRjN2pKYjgwLXZfcmJCYXMwSWFRZGsyM3otcWdSZjZCQVhVanF2Mm9vdjVLWFFhOUVabWlwVkNpUUdCWEN1TmMwbVhBNVJZMDBuUDAwRmFiT0hvRWoyQUt5ZFpYZWJnWEhkcEhIV3MtbmlFdjhoNnVza1pJNEc0UmNXNWcwNkVMR0Z0X2xqT2JGdEtFaUpIUjFBRDBtS1hobGNNRUxxTVk3MnVoYUtxck5sVGdQZkRSVHBN?oc=5\" target=\"_blank\">Congress to field K S Sabarinathan in Thiruvananthapuram Corporation; list to be released tomorrow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kerala Kaumudi</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Bigg Boss Tamil 9 Preview: The spat between VJ Parvathy and Sabari Nathan intensifies inside the house - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcEpMOEpBMnFlaDZTeElieEtrWUxEY21mdmRYME5SODE2blllUEQxVlJtaDY1T3FpSnpZODY3MnhBR0dwTWZoMUY4cDcxcV8xeEg4WXMybGkwYzVwWWJnREp0Zi1YSkhaNmF1Q1A5MFZnNVYtdTBBWnFkejFKTDBiek10SGFGbm50ZWw1aUdDdnQ5WkxCUk5QRWhhQUdtRHR6bzhjUVdmcmFUZF9XMS1TQlZWQkw2LXl1R1JrelJUTWZBNjRJQUg3QXMtN2swNmlDRGlMemZDS2xlZjVIYmlFaUJ3TG5SOXVLUk5HOERHdU93ZnBmZ1U4YjlDYUZjTmJTR1VIdm5aZEvSAY4CQVVfeXFMTXFIeGtpeEJSN1A1aWMtR25jbU9kYW1LdHFZNF8yQXpzamJaU3RQUS1sazRncnJYSDVHZVBKcDlvV1RfTkpGZVJyY25oWndGellCeTlYaGwwZ0FoWTZkNHMtN0locEpEMlc3eW9oOTdrTV80cy1xMFhYamRQTWF2NzJhQ0VmZk85Z0dtMTNiaTJOXzF1eHBDelU5VjJ2VWdRS3dCQnlaRUhPcGIydDBKQVRkZy04WURCNmoyY3VFOHZBcTR5a0hXQ09RS21kaDkwYVpkNG0welJjUllwRnVNR19GbUlfNENueE1XQlBseUxtM2JRYkl3MjFheXdMdVkwT1hERVA0REc4clZiR3Bn?oc=5",
+        "pub_date": "Wed, 15 Oct 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcEpMOEpBMnFlaDZTeElieEtrWUxEY21mdmRYME5SODE2blllUEQxVlJtaDY1T3FpSnpZODY3MnhBR0dwTWZoMUY4cDcxcV8xeEg4WXMybGkwYzVwWWJnREp0Zi1YSkhaNmF1Q1A5MFZnNVYtdTBBWnFkejFKTDBiek10SGFGbm50ZWw1aUdDdnQ5WkxCUk5QRWhhQUdtRHR6bzhjUVdmcmFUZF9XMS1TQlZWQkw2LXl1R1JrelJUTWZBNjRJQUg3QXMtN2swNmlDRGlMemZDS2xlZjVIYmlFaUJ3TG5SOXVLUk5HOERHdU93ZnBmZ1U4YjlDYUZjTmJTR1VIdm5aZEvSAY4CQVVfeXFMTXFIeGtpeEJSN1A1aWMtR25jbU9kYW1LdHFZNF8yQXpzamJaU3RQUS1sazRncnJYSDVHZVBKcDlvV1RfTkpGZVJyY25oWndGellCeTlYaGwwZ0FoWTZkNHMtN0locEpEMlc3eW9oOTdrTV80cy1xMFhYamRQTWF2NzJhQ0VmZk85Z0dtMTNiaTJOXzF1eHBDelU5VjJ2VWdRS3dCQnlaRUhPcGIydDBKQVRkZy04WURCNmoyY3VFOHZBcTR5a0hXQ09RS21kaDkwYVpkNG0welJjUllwRnVNR19GbUlfNENueE1XQlBseUxtM2JRYkl3MjFheXdMdVkwT1hERVA0REc4clZiR3Bn?oc=5\" target=\"_blank\">Bigg Boss Tamil 9 Preview: The spat between VJ Parvathy and Sabari Nathan intensifies inside the house</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Sabarinathan cites \u2018lapse in judgment\u2019 by Divya - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYzJnbHVxTE1GMHY0WEVTMVhLNlVPbk9HY3Z3eE85OUhkQ1ZtdW1pTUE3ZXk3bUYycnZ2XzdYMGJSS29kVFN6RUdrQUVOMDBTNHVuaDJOc2pjY1p6cnNsSVo5NVFvOE9wWVdDNVdySGNuV1RsSnpPNFJSR1dFNm5hTE1ZSGNLc3JsdkplZ1ZHUjd1SVNCM2xWbjVVWEl3Y21pMG9QWDV2SElLcHV0Y0t5ejJQSzFNV1hkS2ZOM0VHcGlXSEpXaUJvbl9Oa9IB0AFBVV95cUxOZ1haWjMyUV80c2FtSzFhME5tQXN2QjQyZURHekNLZ1dwTUdIdlN2UzVGeENKZVRsOW9tTkVpWWVVM1h3dlRjLXpYLU8xV0xJbzhuNGtFYmN4TG9pX2NiLVpCWkdxQTFGVTVKSXF3d0JmdkxlU3pUUDZMMG9SQ0s2bHI2alpSRWlINDllelpvOFlvQ1VfM1d2dEVNUTBTUDR5Rm1RLUhSWUE4SzFkZXd4NUgzaDBQX1lrQjdzVVk0VHNwY3RSWXZIVE9yaFgxNVlV?oc=5",
+        "pub_date": "Thu, 17 Apr 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOYzJnbHVxTE1GMHY0WEVTMVhLNlVPbk9HY3Z3eE85OUhkQ1ZtdW1pTUE3ZXk3bUYycnZ2XzdYMGJSS29kVFN6RUdrQUVOMDBTNHVuaDJOc2pjY1p6cnNsSVo5NVFvOE9wWVdDNVdySGNuV1RsSnpPNFJSR1dFNm5hTE1ZSGNLc3JsdkplZ1ZHUjd1SVNCM2xWbjVVWEl3Y21pMG9QWDV2SElLcHV0Y0t5ejJQSzFNV1hkS2ZOM0VHcGlXSEpXaUJvbl9Oa9IB0AFBVV95cUxOZ1haWjMyUV80c2FtSzFhME5tQXN2QjQyZURHekNLZ1dwTUdIdlN2UzVGeENKZVRsOW9tTkVpWWVVM1h3dlRjLXpYLU8xV0xJbzhuNGtFYmN4TG9pX2NiLVpCWkdxQTFGVTVKSXF3d0JmdkxlU3pUUDZMMG9SQ0s2bHI2alpSRWlINDllelpvOFlvQ1VfM1d2dEVNUTBTUDR5Rm1RLUhSWUE4SzFkZXd4NUgzaDBQX1lrQjdzVVk0VHNwY3RSWXZIVE9yaFgxNVlV?oc=5\" target=\"_blank\">Sabarinathan cites \u2018lapse in judgment\u2019 by Divya</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Kerala: Police summon Sabarinathan - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTkdLNjJySjRscEJpbW0ycmNGbDFMWUlxd3NEcEtiMEx2dFJSeTdiMG03RERvX09IWkcwc1VIVU1nUENiR21IVlVRM2hOQkNBcEdCSm1DRWdqYmFnb0pRb0dUMmRleVhmN1RvYVhpWjhnMy1ZbGdKVTdIOFd5RHl2eTEzdjNBMEozN3NDSlY4aXYxYVhWcW9RQ19DcjZLY2hqYk1kY2hyS3RzbnUtVXFxZdIBtgFBVV95cUxNdXROeXc0MUhKXzB1aVl6RGk3UllpNEJLSE05MzNQcXU0M3VGbUxiQ2ttUEpyNVhBMXpSR2JxTVowaHVKX0o5ckFfS0s1dkd4aHprUVlDVEQ3UmhXTlVnMzByeWZVc1BWS1NuVzdUSEtHWTRmMFdkR0JzeE1Zam1MWFVHdGY2VzhSM001RWVWM3hQTWlCalFZV2NuZ3R6ZUctYWlDZEYxTU1zTjNfSUQyWGZvOWxLdw?oc=5",
+        "pub_date": "Tue, 19 Jul 2022 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPTkdLNjJySjRscEJpbW0ycmNGbDFMWUlxd3NEcEtiMEx2dFJSeTdiMG03RERvX09IWkcwc1VIVU1nUENiR21IVlVRM2hOQkNBcEdCSm1DRWdqYmFnb0pRb0dUMmRleVhmN1RvYVhpWjhnMy1ZbGdKVTdIOFd5RHl2eTEzdjNBMEozN3NDSlY4aXYxYVhWcW9RQ19DcjZLY2hqYk1kY2hyS3RzbnUtVXFxZdIBtgFBVV95cUxNdXROeXc0MUhKXzB1aVl6RGk3UllpNEJLSE05MzNQcXU0M3VGbUxiQ2ttUEpyNVhBMXpSR2JxTVowaHVKX0o5ckFfS0s1dkd4aHprUVlDVEQ3UmhXTlVnMzByeWZVc1BWS1NuVzdUSEtHWTRmMFdkR0JzeE1Zam1MWFVHdGY2VzhSM001RWVWM3hQTWlCalFZV2NuZ3R6ZUctYWlDZEYxTU1zTjNfSUQyWGZvOWxLdw?oc=5\" target=\"_blank\">Kerala: Police summon Sabarinathan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Two minors die in bike crash - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZG91dUlyakJBTUQtdm9HMWpRd2RxZnNibm8zTmtVNkJObTVIQ3JrRi0xYkxtd3N6UUxQMlprd1VNYXk5cWFHMEJId3BDdHFvelBhWThRcllRY2d1aTBDMEUxRzBDdWNkZVAxbnRweF9Uc0tmbVAwUURiNTVGc2R3em1Gbjk5dlNSM3lEVl9qdDg5WTlXd1J2UDdkcUVDZlhDQ1FydTNB0gGrAUFVX3lxTFBDZTl6WV9PUm1FbmNreFFFQ2Zyd0NfNG9Md0ZQUFhpUlJKeGZsdndRWDBXSURlQW1NVTl1bno0YkVYUkExQ0syeDRoWmZXaEdkR05YcDc3ZzM5bjRneWI5aG9YZkxvRlVQa3otNUtiSE5lQnRTMFVyNXNEbkZVNXdaNDJ5QWFWaU0td3ZsMExBdl9PZFI2TzlkTkJkcVNvSEJ0aTRmN3NGY05zRQ?oc=5",
+        "pub_date": "Sat, 22 Mar 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNZG91dUlyakJBTUQtdm9HMWpRd2RxZnNibm8zTmtVNkJObTVIQ3JrRi0xYkxtd3N6UUxQMlprd1VNYXk5cWFHMEJId3BDdHFvelBhWThRcllRY2d1aTBDMEUxRzBDdWNkZVAxbnRweF9Uc0tmbVAwUURiNTVGc2R3em1Gbjk5dlNSM3lEVl9qdDg5WTlXd1J2UDdkcUVDZlhDQ1FydTNB0gGrAUFVX3lxTFBDZTl6WV9PUm1FbmNreFFFQ2Zyd0NfNG9Md0ZQUFhpUlJKeGZsdndRWDBXSURlQW1NVTl1bno0YkVYUkExQ0syeDRoWmZXaEdkR05YcDc3ZzM5bjRneWI5aG9YZkxvRlVQa3otNUtiSE5lQnRTMFVyNXNEbkZVNXdaNDJ5QWFWaU0td3ZsMExBdl9PZFI2TzlkTkJkcVNvSEJ0aTRmN3NGY05zRQ?oc=5\" target=\"_blank\">Two minors die in bike crash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "'There is lapse in judgement'; K S Sabarinathan responds to Divya S Iyer's post - Kerala Kaumudi",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOXzBmeVlaMnpMSkVFdHV1Y3htWDJna2NMaUZDdnluczdBWnkzSkRveURVQjBqSEhuZkRYQmh3Q2VLd0VOZ1FrRHFMODFZYmJnZXVRdENiakNFa2RmcW1BT2gyOU1DTWxIMERJUWpBTmlqT3Vja2hNeUNXQmlORjlzdkpwMlppTWFnSDhmSEFKdVNiNGEtNVFTdW9lT0ZwQlV5aGhQWWNld21KcU5Gb3RDX29BZGotQjE4TThxNlRkOXFaZEpLaFZWUndhalhIdmJka094WdIB2gFBVV95cUxNOTV4SFhGaG9GNlBOWHVMOEpnUzVGYzRyQTR0cGIzcDRtOHRHWjJ5aVZRTnpKaDZxT25VbFpCZktNSFVGMnZxTVY4aEowZENNRlVTNUI2TjEyVm9mMlR4dUVKQ2hXVkRPWHRXZnppQVQ4NlRuQkg2eHJqYnVvQUx0SVpXbGtjaUdsXy1TbjNjOHFwWUMwWmFqZ1l6S29hNnlLd21WNXg3dUdGWlhGaHBCUE9vMVktdFhPTXlZZlhLN1lpdjdpYWV6QXJEMHR0Ylh5T3hMUWlOWktYQQ?oc=5",
+        "pub_date": "Wed, 16 Apr 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOXzBmeVlaMnpMSkVFdHV1Y3htWDJna2NMaUZDdnluczdBWnkzSkRveURVQjBqSEhuZkRYQmh3Q2VLd0VOZ1FrRHFMODFZYmJnZXVRdENiakNFa2RmcW1BT2gyOU1DTWxIMERJUWpBTmlqT3Vja2hNeUNXQmlORjlzdkpwMlppTWFnSDhmSEFKdVNiNGEtNVFTdW9lT0ZwQlV5aGhQWWNld21KcU5Gb3RDX29BZGotQjE4TThxNlRkOXFaZEpLaFZWUndhalhIdmJka094WdIB2gFBVV95cUxNOTV4SFhGaG9GNlBOWHVMOEpnUzVGYzRyQTR0cGIzcDRtOHRHWjJ5aVZRTnpKaDZxT25VbFpCZktNSFVGMnZxTVY4aEowZENNRlVTNUI2TjEyVm9mMlR4dUVKQ2hXVkRPWHRXZnppQVQ4NlRuQkg2eHJqYnVvQUx0SVpXbGtjaUdsXy1TbjNjOHFwWUMwWmFqZ1l6S29hNnlLd21WNXg3dUdGWlhGaHBCUE9vMVktdFhPTXlZZlhLN1lpdjdpYWV6QXJEMHR0Ylh5T3hMUWlOWktYQQ?oc=5\" target=\"_blank\">'There is lapse in judgement'; K S Sabarinathan responds to Divya S Iyer's post</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kerala Kaumudi</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Book review: Secession of the successful by Sanjaya Baru - Forbes India",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZWFNc0dLLXYySzkwUUp5LVllTTJSRm1HN0xlTGozcmFlNDdHRHdGdFYtLXA5WV9wLWt6UkNXQjB6eWgtckhmazFhUkVfdDNVc21aYlRabVZldFZyVmdBM2xIcllTWDBibDdyVDkzaEVQbm9GcVRkY1k3UGVVU3pZc1d0WTdEZTdqVThuYW5PU09kbU5wcXZzd0NUY2tuZjZTbTRIME1CeGpIeWxTLTgyV05DQ0NrUk1LSm1Gc2llWnFjbDdCNzIzeFM4bmI0YnPSAdQBQVVfeXFMT0RNNlF6RjFJbmdYOUlZMTl6dm5CUHpRZGszYnZsQUR6Q0xESmRRWTdUYVN5aGdnSDVoS0QwQ016MVpWWVRMeXZyY3FiVmRULXdHelNkY0V6UHl4TWhKTE1NRE5KQkJVNWprYTRXQVBVTkY2QVhxZU5aRU53X3N3VWplYjNFU1NPUGlTV1UxZW9SWEY5blc2djFMX1d2bnlwLURvVldqdVo0SmVreVRkaWNaeXRHUUduQms0NlB4SDZ1VHpsaUR1YTFObDVFRlBwWXUtSEY?oc=5",
+        "pub_date": "Mon, 17 Nov 2025 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOZWFNc0dLLXYySzkwUUp5LVllTTJSRm1HN0xlTGozcmFlNDdHRHdGdFYtLXA5WV9wLWt6UkNXQjB6eWgtckhmazFhUkVfdDNVc21aYlRabVZldFZyVmdBM2xIcllTWDBibDdyVDkzaEVQbm9GcVRkY1k3UGVVU3pZc1d0WTdEZTdqVThuYW5PU09kbU5wcXZzd0NUY2tuZjZTbTRIME1CeGpIeWxTLTgyV05DQ0NrUk1LSm1Gc2llWnFjbDdCNzIzeFM4bmI0YnPSAdQBQVVfeXFMT0RNNlF6RjFJbmdYOUlZMTl6dm5CUHpRZGszYnZsQUR6Q0xESmRRWTdUYVN5aGdnSDVoS0QwQ016MVpWWVRMeXZyY3FiVmRULXdHelNkY0V6UHl4TWhKTE1NRE5KQkJVNWprYTRXQVBVTkY2QVhxZU5aRU53X3N3VWplYjNFU1NPUGlTV1UxZW9SWEY5blc2djFMX1d2bnlwLURvVldqdVo0SmVreVRkaWNaeXRHUUduQms0NlB4SDZ1VHpsaUR1YTFObDVFRlBwWXUtSEY?oc=5\" target=\"_blank\">Book review: Secession of the successful by Sanjaya Baru</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes India</font>",
+        "sentiment": "POSITIVE"
+      }
+    ],
+    "promoter_analysis": {
+      "Avinash": {
+        "negative_news_count": 0,
+        "risk_level": "LOW",
+        "articles": []
+      }
+    },
+    "litigation": {
+      "total_cases": 0,
+      "pending_cases": 0,
+      "case_types": [],
+      "high_value_cases": [],
+      "risk_score": 0,
+      "search_attempted": true,
+      "source": "e-Courts Portal"
+    },
+    "sector_trends": {
+      "sector": "Trading",
+      "recent_regulations": [],
+      "market_sentiment": "POSITIVE",
+      "growth_outlook": "STABLE",
+      "key_risks": []
+    },
+    "credit_ratings": {
+      "agencies": [],
+      "latest_rating": null,
+      "rating_trend": "STABLE",
+      "outlook": "STABLE"
+    },
+    "overall_risk_flags": []
+  },
+  "recommendation": {
+    "decision": "REJECTED",
+    "credit_score": 570,
+    "rating": "B",
+    "recommended_loan_amount": 0,
+    "recommended_interest_rate": 0,
+    "five_cs_breakdown": {
+      "character": 100,
+      "capacity": 20,
+      "capital": 10,
+      "collateral": 90,
+      "conditions": 100
+    },
+    "explanation": "Credit Decision: REJECTED\nCredit Score: 570 (Rating: B)\n\nKey Factors:\n- Capacity concerns (Score: 20/100)\n- Capital structure concerns (Score: 10/100)",
+    "risk_factors": [],
+    "strengths": [
+      "Conservative leverage (D/E: 0.00x)",
+      "High revenue consistency across sources",
+      "Good capacity utilization (86%)",
+      "Strong management quality"
+    ]
+  },
+  "cam_document_path": "./outputs\\CAM_Sabarinathan_20260311.docx",
+  "processing_timestamp": "2026-03-11T22:49:19.885262"
+}

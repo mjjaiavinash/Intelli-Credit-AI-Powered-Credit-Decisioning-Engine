@@ -1,0 +1,214 @@
+{
+  "company_info": {
+    "company_name": "Hariprasath",
+    "sector": "NBFC",
+    "incorporation_year": 2015,
+    "promoters": [
+      "Marimuthu"
+    ]
+  },
+  "ingested_data": {
+    "gst": {
+      "gstin": null,
+      "total_turnover": 0,
+      "input_tax_credit": 0,
+      "tax_liability": 0,
+      "filing_frequency": [],
+      "gstr3b_vs_gstr2a_mismatch": false
+    },
+    "mca": {
+      "director_changes": 0,
+      "charge_modifications": 0,
+      "compliance_status": "Active",
+      "last_agm_date": null,
+      "authorized_capital": 100,
+      "paid_up_capital": 75
+    }
+  },
+  "research_results": {
+    "company_name": "Hariprasath",
+    "research_date": "2026-03-11T22:44:05.942079",
+    "news_analysis": [
+      {
+        "title": "'RSS is Indian Taliban': Senior Congress leader BK Hariprasad - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTU80UjBtSUc2WWtRTVRiekJSdnU4b19mVGlIUFd3WmhkSVBZWFlRRFExRWtJX2FmQlBGX1o1MmhBdEFOaXBYQ3VpY2tXaGg3VnBTYWRVUDVDUEl1Vl9xVHlUaVVVall5Tm9Cd1p5bm5abURJSEg0VzlLQzFkTjNFRGJpYzVNX0R0WUxvbVZ1d0paVENoWVZKbjJQNkJmYVFNWV9Ba01mbEhmc1JlM1RvRjRvWWV6QTJIbWJGSkZ1UDZHbEZaNS0yS1lsc3FZVEVU0gHWAUFVX3lxTE9QcWQ5VGRiSzlYUjN1WldRLUNaS09kbENaV05Iai05QVY1V2lSeUYydV9mVm9pbkhRUVR1aUxabUxhdmNsaGNqRkpEVVpBMC1EY3RrWm5ERWpfZ3RESm1DN1pIOWxJZE1iQWJic3RrN2ZmcFhNTm1RQUQtWmhCMTZSMEVLV3pCeTBiTE5mUWdBckwxQTM3N2ZNWUpGUnRVNENELTNHYVRRelBHd3V0V3htVDd0UVd4X2k4cFNPemoyRVN1OVFKc3VzOFBXR2JEbmVwM0JPWUE?oc=5",
+        "pub_date": "Sun, 17 Aug 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTU80UjBtSUc2WWtRTVRiekJSdnU4b19mVGlIUFd3WmhkSVBZWFlRRFExRWtJX2FmQlBGX1o1MmhBdEFOaXBYQ3VpY2tXaGg3VnBTYWRVUDVDUEl1Vl9xVHlUaVVVall5Tm9Cd1p5bm5abURJSEg0VzlLQzFkTjNFRGJpYzVNX0R0WUxvbVZ1d0paVENoWVZKbjJQNkJmYVFNWV9Ba01mbEhmc1JlM1RvRjRvWWV6QTJIbWJGSkZ1UDZHbEZaNS0yS1lsc3FZVEVU0gHWAUFVX3lxTE9QcWQ5VGRiSzlYUjN1WldRLUNaS09kbENaV05Iai05QVY1V2lSeUYydV9mVm9pbkhRUVR1aUxabUxhdmNsaGNqRkpEVVpBMC1EY3RrWm5ERWpfZ3RESm1DN1pIOWxJZE1iQWJic3RrN2ZmcFhNTm1RQUQtWmhCMTZSMEVLV3pCeTBiTE5mUWdBckwxQTM3N2ZNWUpGUnRVNENELTNHYVRRelBHd3V0V3htVDd0UVd4X2k4cFNPemoyRVN1OVFKc3VzOFBXR2JEbmVwM0JPWUE?oc=5\" target=\"_blank\">'RSS is Indian Taliban': Senior Congress leader BK Hariprasad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Who Is IPS S Hari Prasath? Appointed Community Policing Adviser in SPC, Italy - Indian Masterminds",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSkNydk1kUkdVQ09WS2pIMVRudWVFNDB5TDRXcmpBUFpUSG1ISmlSQVc2WWtBVzdsT1c1YjJkcGVxMGhEb2pWUU5wVktyWjljUkFtSi0tSUwwcEhZTTR1UXhac3FJZnhRWGUzTDdma09GM180OXczZ3FTeDBQM0NfQTMtRTZrTUR6N0ZoMnpIWndEU2JyRVEySzFUSjNsRE1xbjNlMjBWUQ?oc=5",
+        "pub_date": "Fri, 31 Oct 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNSkNydk1kUkdVQ09WS2pIMVRudWVFNDB5TDRXcmpBUFpUSG1ISmlSQVc2WWtBVzdsT1c1YjJkcGVxMGhEb2pWUU5wVktyWjljUkFtSi0tSUwwcEhZTTR1UXhac3FJZnhRWGUzTDdma09GM180OXczZ3FTeDBQM0NfQTMtRTZrTUR6N0ZoMnpIWndEU2JyRVEySzFUSjNsRE1xbjNlMjBWUQ?oc=5\" target=\"_blank\">Who Is IPS S Hari Prasath? Appointed Community Policing Adviser in SPC, Italy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Masterminds</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Choksi's wallet is full, he will do what Vijay Mallya did, warns whistleblower - India Today",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbzcwTk81WVZ4MWVvUnNOb0ZzXy1CWTFQd1pIVzl1MjBQUU1IRlFoejlTWFBUSElJUko0SXl0am1kYVdicEJPOUZ4MTFITEI0b0NLTnJxQzlUX0J5eW1jRG5HNDRCOWlxTHU2blRicHl2MDQ3R2FZc2M5QzVjVDlTcXdBRVRsblRLZ3NjNU1MckpDejJLcFM4R2tMaGtHWGdiYkotU21SOG5lNGJIczl3SlhaU2JaMHpXd1FlcEY1c2J3a0ZSUExYOExQTjJKd3llUzBzS2QyLVRMcGltUDd4VTBGWVgwLXBDTlNNVGJ2cjhoWU52eld1TFdUMFdFN0HSAYQCQVVfeXFMTnRCZEQ4RnZKcldHNXdqT25hdWdIYXBKMEpPU2Z2cXpGWVRwQm9qVjB1eXNLNVE5NDJZZlpVUzh4U1pPQ0dwMFdMM0lUendpcFBBRzAtNE44Y21rbkhhSHZZSU1KMmRtczlnX3BDblFNU3huTUdKa3pRdFUtMElmRVNKbzJQRnZHSEZNMUVjUGQ5amk3OGMzREJ0U3NDM29mUjY1N3NlNmxENkl3R2hXR2NycjlRWEJ3alM0dm5PSm5WMS1HTTBpa2w3OUpUOUlGSlZTeDg0THR0TVRPMTNpemFQVGRETHpmQ01tUUR3STB2S29fYWtyY3ZtSnl5R2Z0ZTJEbXg?oc=5",
+        "pub_date": "Mon, 14 Apr 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbzcwTk81WVZ4MWVvUnNOb0ZzXy1CWTFQd1pIVzl1MjBQUU1IRlFoejlTWFBUSElJUko0SXl0am1kYVdicEJPOUZ4MTFITEI0b0NLTnJxQzlUX0J5eW1jRG5HNDRCOWlxTHU2blRicHl2MDQ3R2FZc2M5QzVjVDlTcXdBRVRsblRLZ3NjNU1MckpDejJLcFM4R2tMaGtHWGdiYkotU21SOG5lNGJIczl3SlhaU2JaMHpXd1FlcEY1c2J3a0ZSUExYOExQTjJKd3llUzBzS2QyLVRMcGltUDd4VTBGWVgwLXBDTlNNVGJ2cjhoWU52eld1TFdUMFdFN0HSAYQCQVVfeXFMTnRCZEQ4RnZKcldHNXdqT25hdWdIYXBKMEpPU2Z2cXpGWVRwQm9qVjB1eXNLNVE5NDJZZlpVUzh4U1pPQ0dwMFdMM0lUendpcFBBRzAtNE44Y21rbkhhSHZZSU1KMmRtczlnX3BDblFNU3huTUdKa3pRdFUtMElmRVNKbzJQRnZHSEZNMUVjUGQ5amk3OGMzREJ0U3NDM29mUjY1N3NlNmxENkl3R2hXR2NycjlRWEJ3alM0dm5PSm5WMS1HTTBpa2w3OUpUOUlGSlZTeDg0THR0TVRPMTNpemFQVGRETHpmQ01tUUR3STB2S29fYWtyY3ZtSnl5R2Z0ZTJEbXg?oc=5\" target=\"_blank\">Choksi's wallet is full, he will do what Vijay Mallya did, warns whistleblower</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Vidhusiyaa Shri Hariprasath \u2013 IBR Achiever - India Book of Records",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10aU1fRUxMdXByWVBZMnpOQWpDcWxIam1hWUgtenVGaWd1VlVJOTBvRkF0MWxVYVJUSHdHVHpMS0FxVDZGVmZndDQ5eGJSUmt2SXVydkFHd3VHMDlBaGFsdTdKanFnRVZmQjVqc2tUektWa3h6UEFwOVVrOA?oc=5",
+        "pub_date": "Fri, 10 Jan 2025 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE10aU1fRUxMdXByWVBZMnpOQWpDcWxIam1hWUgtenVGaWd1VlVJOTBvRkF0MWxVYVJUSHdHVHpMS0FxVDZGVmZndDQ5eGJSUmt2SXVydkFHd3VHMDlBaGFsdTdKanFnRVZmQjVqc2tUektWa3h6UEFwOVVrOA?oc=5\" target=\"_blank\">Vidhusiyaa Shri Hariprasath \u2013 IBR Achiever</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Book of Records</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "IoT driven healthcare monitoring with evolutionary optimization and game theory - Nature",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pQnY2ZzNQZkJvdUpJSUJZb2xHc3ppTDZRbGFDY1NmMjJGcTlXQkMwNXJmRjRsRUpOVmlQaUZYSzlNc1pvV1BSUmUyaHhYOTNzVE9jOGxKa2tHbExyTzdv?oc=5",
+        "pub_date": "Wed, 30 Apr 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pQnY2ZzNQZkJvdUpJSUJZb2xHc3ppTDZRbGFDY1NmMjJGcTlXQkMwNXJmRjRsRUpOVmlQaUZYSzlNc1pvV1BSUmUyaHhYOTNzVE9jOGxKa2tHbExyTzdv?oc=5\" target=\"_blank\">IoT driven healthcare monitoring with evolutionary optimization and game theory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Congress' BK Hariprasad on his 'Pakistan is not enemy...' statement: 'I stand by whatever I said' - The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQd3Vhck01QUVrd0FpZEdwOVJjLU9Kd0xpdS1xVjNFRWFZNnhnb2xwYnh4SWpLa25GVmRla3BWWE5zYklIVXlqUDZKNUhXZHVZZ3BydVg3TFpCUzBoT2pES29DaExSNjk5eHV5cHU2d1YzV1JkN2hwQ0IxSzV6ZXRESUVRb1N6eE8yanotQ0tKZjFOcnNkdDRoWWpRNURJeG1iX0NjaUdlOXN5T0drZERBejdjQ1lHSktpdmdtTE1TV0xuSVMzdEVzRjdNUlBGSTFXRDdvSUtsTG9VOHQ2b3BhcjQ4RWFjOE9FbmFVUDdqS3kxQmt1LVNRddIB_gFBVV95cUxPN1NYT1ZUT1RKVGpTZ29GRlBCOUVZQ2NsWFUzdFFYTFBfdFFSQ3VXQ3BRb3Y1NHdPNlN3VDZPQTdMNzFsVkUtU0RPSWd3eFlJS3ZJazA2OTlIeVdyWjBzTzVMVFdzZDlpUWVVTXN3QlBFdVVsYTJLbHF4c2pPMHhfNkktXzZWT0pDekF0TXVKbVAzU29rNWdxM3MtTG5MMFlFOHkzTG4yeERmYUdhM1lWWTJVcnJBckliWHdpNnVZbExfTVR4aXJpY2pHQ2poX1RSOGoxeGN5SVVyclVNU1pCd1BTUFJVYmJNaVJzazJXLVhXUDVVQkc5RkdXVjRfZw?oc=5",
+        "pub_date": "Thu, 29 Feb 2024 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQd3Vhck01QUVrd0FpZEdwOVJjLU9Kd0xpdS1xVjNFRWFZNnhnb2xwYnh4SWpLa25GVmRla3BWWE5zYklIVXlqUDZKNUhXZHVZZ3BydVg3TFpCUzBoT2pES29DaExSNjk5eHV5cHU2d1YzV1JkN2hwQ0IxSzV6ZXRESUVRb1N6eE8yanotQ0tKZjFOcnNkdDRoWWpRNURJeG1iX0NjaUdlOXN5T0drZERBejdjQ1lHSktpdmdtTE1TV0xuSVMzdEVzRjdNUlBGSTFXRDdvSUtsTG9VOHQ2b3BhcjQ4RWFjOE9FbmFVUDdqS3kxQmt1LVNRddIB_gFBVV95cUxPN1NYT1ZUT1RKVGpTZ29GRlBCOUVZQ2NsWFUzdFFYTFBfdFFSQ3VXQ3BRb3Y1NHdPNlN3VDZPQTdMNzFsVkUtU0RPSWd3eFlJS3ZJazA2OTlIeVdyWjBzTzVMVFdzZDlpUWVVTXN3QlBFdVVsYTJLbHF4c2pPMHhfNkktXzZWT0pDekF0TXVKbVAzU29rNWdxM3MtTG5MMFlFOHkzTG4yeERmYUdhM1lWWTJVcnJBckliWHdpNnVZbExfTVR4aXJpY2pHQ2poX1RSOGoxeGN5SVVyclVNU1pCd1BTUFJVYmJNaVJzazJXLVhXUDVVQkc5RkdXVjRfZw?oc=5\" target=\"_blank\">Congress' BK Hariprasad on his 'Pakistan is not enemy...' statement: 'I stand by whatever I said'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "D S VARMA APPOINTED JOINT DIRECTOR SVPNPA HARI PRASATH DIG NSG - IndianMandarins",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUHVSU21zbHV3WVF0am1ialVEeXd6WFhQbmVZanhMdEtGWThLbmdEeFpRYkRBY0hVSVVWdGFNYXJDNWFNV0dmNDAtVk9mOU54VlBlTEZtd1JXUjd2Z2U2YmtPVW1SaU1uUU5mTjFsdnJuMllRUmFVQkZYMTN3RXg5Rm0xd3E0YUFmajhKcmtCdktzWWlmUEExdWpxY2xDcVhseUtNQVVsTkk?oc=5",
+        "pub_date": "Mon, 30 Dec 2024 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUHVSU21zbHV3WVF0am1ialVEeXd6WFhQbmVZanhMdEtGWThLbmdEeFpRYkRBY0hVSVVWdGFNYXJDNWFNV0dmNDAtVk9mOU54VlBlTEZtd1JXUjd2Z2U2YmtPVW1SaU1uUU5mTjFsdnJuMllRUmFVQkZYMTN3RXg5Rm0xd3E0YUFmajhKcmtCdktzWWlmUEExdWpxY2xDcVhseUtNQVVsTkk?oc=5\" target=\"_blank\">D S VARMA APPOINTED JOINT DIRECTOR SVPNPA HARI PRASATH DIG NSG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndianMandarins</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Congress leader BK Hariprasad gets party notice for remarks against Siddaramaiah - India Today",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcDE2ZG1uS21weWplcTQ4UHB4dFVVWG5RMmZwanBqQjlzekFJdy1lUW5QdjczSEs0NUVxSFhxNnhzXzQ2bUVyV0R4aEpIUWJRTUp5OVFLWFJqQklvZmJrX2VUbHRCQlI2TXJ3S3dKVmpoeDVMdlNobEVTblFIWnJibmN0NEp5cFF5T3hQNk1JRkRrUFpTLXpXTTFTV1U0b1k1b1NobXJUQUczYUVteGJrYjB5Tmw4ekVPVE9VU09rMHZvLVlSM3lyb2ZKY1h4QUhiUjZ6alJ0UdIB3AFBVV95cUxNdEFnc2pSOHRxNFA0OGJlak5oNGZGR0NDZWswMXN4TjdOM1ZxNnU0bFFwN0ZFeGlvY0ZvamhRdnJUdEdnbEdDUmFrTTVkRUZvd2w2VnVha1VCR0hSdDBjdDBycjJFb01OSUVCMkNUejYtVWhKc3hGelVEeDhIdjhfV0NLeGFZT1pPbjVzMXp6Ri1sVVkwamExOEtjaGUzMkhIRUoxQUtrOVhyaHNkTERNWnBxMXpRUXFETktDN19FbFhxWm1CdTFtalowZVo5QVZnWVdmaUhHVmhuazJr?oc=5",
+        "pub_date": "Tue, 12 Sep 2023 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcDE2ZG1uS21weWplcTQ4UHB4dFVVWG5RMmZwanBqQjlzekFJdy1lUW5QdjczSEs0NUVxSFhxNnhzXzQ2bUVyV0R4aEpIUWJRTUp5OVFLWFJqQklvZmJrX2VUbHRCQlI2TXJ3S3dKVmpoeDVMdlNobEVTblFIWnJibmN0NEp5cFF5T3hQNk1JRkRrUFpTLXpXTTFTV1U0b1k1b1NobXJUQUczYUVteGJrYjB5Tmw4ekVPVE9VU09rMHZvLVlSM3lyb2ZKY1h4QUhiUjZ6alJ0UdIB3AFBVV95cUxNdEFnc2pSOHRxNFA0OGJlak5oNGZGR0NDZWswMXN4TjdOM1ZxNnU0bFFwN0ZFeGlvY0ZvamhRdnJUdEdnbEdDUmFrTTVkRUZvd2w2VnVha1VCR0hSdDBjdDBycjJFb01OSUVCMkNUejYtVWhKc3hGelVEeDhIdjhfV0NLeGFZT1pPbjVzMXp6Ri1sVVkwamExOEtjaGUzMkhIRUoxQUtrOVhyaHNkTERNWnBxMXpRUXFETktDN19FbFhxWm1CdTFtalowZVo5QVZnWVdmaUhHVmhuazJr?oc=5\" target=\"_blank\">Congress leader BK Hariprasad gets party notice for remarks against Siddaramaiah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Khakee review: Always on the move - The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSjJfNDVJWnFvWXF1RzZ2YmRkbWpwajFMZlZPdkp1NmRSeUtHby0wN1luV0NSRWNwZ0h1VkpZM1pka3FIdV9vMUZhNFdMQy1wUElhTEpiT2VxN2dOczRWVHZiSGhndUdpd0lQaVRZY3N0U0hJVGdqdWUxSWlncXBkNmN0MW9GcE1wcFNsVENIUXhpWlVUc1pERFQzaWQ0UnfSAaYBQVVfeXFMTTktU1czZ3VsQVpiQVJHNmxvVk90bERYOWFsR0VPV0lLQ0drTFZMeE1lZ09nTVJ1bDZQU203UHpaVnBfcGhsUWxkaEVjMjN6S0tVMzdJWFdZTWplQ1hDT0Z1Z2FCS2loT3ZYTUNMd0tCemJRRkVlZ01uUEFsenE1dFlEMWJBVW1BbGY0Znd1V0tCYldxeXctWFpyTDJxYTNzb3hZak5LZw?oc=5",
+        "pub_date": "Fri, 17 Nov 2017 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOSjJfNDVJWnFvWXF1RzZ2YmRkbWpwajFMZlZPdkp1NmRSeUtHby0wN1luV0NSRWNwZ0h1VkpZM1pka3FIdV9vMUZhNFdMQy1wUElhTEpiT2VxN2dOczRWVHZiSGhndUdpd0lQaVRZY3N0U0hJVGdqdWUxSWlncXBkNmN0MW9GcE1wcFNsVENIUXhpWlVUc1pERFQzaWQ0UnfSAaYBQVVfeXFMTTktU1czZ3VsQVpiQVJHNmxvVk90bERYOWFsR0VPV0lLQ0drTFZMeE1lZ09nTVJ1bDZQU203UHpaVnBfcGhsUWxkaEVjMjN6S0tVMzdJWFdZTWplQ1hDT0Z1Z2FCS2loT3ZYTUNMd0tCemJRRkVlZ01uUEFsenE1dFlEMWJBVW1BbGY0Znd1V0tCYldxeXctWFpyTDJxYTNzb3hZak5LZw?oc=5\" target=\"_blank\">Khakee review: Always on the move</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Meet Hari Prasath Sundaresan | Co-Founder & Executive Producer - shoutout atlanta",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDd3Z2tNVlk0ODJ0WXlPMlU4WnRNQnNaWWhNWFd0eWZvX0lvUHRLbXBLQkpIazh0SDBhM1hqS3NKdTQ3UFFLVGQ2RV8tUnFRVDhiTzZSTXRYSmpjMDAxU0pVNzJWNzFNVjNXbmFiVmNUT2NUdE1WRmhXY2F5NnUzQWptaWlEdDgwcHU4bmdDSnY?oc=5",
+        "pub_date": "Wed, 28 Aug 2024 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDd3Z2tNVlk0ODJ0WXlPMlU4WnRNQnNaWWhNWFd0eWZvX0lvUHRLbXBLQkpIazh0SDBhM1hqS3NKdTQ3UFFLVGQ2RV8tUnFRVDhiTzZSTXRYSmpjMDAxU0pVNzJWNzFNVjNXbmFiVmNUT2NUdE1WRmhXY2F5NnUzQWptaWlEdDgwcHU4bmdDSnY?oc=5\" target=\"_blank\">Meet Hari Prasath Sundaresan | Co-Founder & Executive Producer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">shoutout atlanta</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Prasath bowls Namakkal to big win in TN Cricket Association inter-district U-14 meet - The New Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVWhiMDF3NVk1dlpqbnc2bk9YUDRRVVRlRWJ4ZmkwR2RvRG1KM19FUXBUT3F3WktpeGhrT0ZMMW5GaEx0S1k2Z3puVGRncGJQcEZVdUlva0MyaHBHUjdhVm5HU25xTC03QVZPbTZVbHc3WmJHR25XRFpYXzhZMW0yV3lRTzlQazdKRDBDMTRNaHh1TlB0SkJIcGtwSlAtaV95YURsUDZyM0RrNTdLRWxIZ3Bqd0dOWjVxVlU2STlxQkFaNnFWcVZHVEVaZ0g5RldvWlZUeGdqdHpnTEtDUlQ3eWFtUXV5dW1mMndEd9IB-gFBVV95cUxPSVU0bHAzemJmMHRZc1FxeWktcTYxYmZpY0ZSaFhHTFUyX1ppN0NHU3piLUx5UU9laGFfa01uZmZpWmh0ZTF4UFRLLU41RnVuM1FPMXE1cHVCWmxhUGhiakVCUVlPTmpjWjB4dWZpU1dHNm5MWkR3UTg3WVBCeDhXUjBPaFA4TFZ0WGhBYXRMLTNXVUhjWjBmTzM3eDVObVJzcERZQnRlUGExMW5xNHVVX2pocm5maGMxOVlLM1BBR0g5R0l3dmxtMDczbGstaVJNLV9YRUJJWFF5RWRKTkhVN1Q2bktzSmdqdWFOeFdtWGR0ZTlnY1lHeFNn?oc=5",
+        "pub_date": "Thu, 20 Jun 2019 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVWhiMDF3NVk1dlpqbnc2bk9YUDRRVVRlRWJ4ZmkwR2RvRG1KM19FUXBUT3F3WktpeGhrT0ZMMW5GaEx0S1k2Z3puVGRncGJQcEZVdUlva0MyaHBHUjdhVm5HU25xTC03QVZPbTZVbHc3WmJHR25XRFpYXzhZMW0yV3lRTzlQazdKRDBDMTRNaHh1TlB0SkJIcGtwSlAtaV95YURsUDZyM0RrNTdLRWxIZ3Bqd0dOWjVxVlU2STlxQkFaNnFWcVZHVEVaZ0g5RldvWlZUeGdqdHpnTEtDUlQ3eWFtUXV5dW1mMndEd9IB-gFBVV95cUxPSVU0bHAzemJmMHRZc1FxeWktcTYxYmZpY0ZSaFhHTFUyX1ppN0NHU3piLUx5UU9laGFfa01uZmZpWmh0ZTF4UFRLLU41RnVuM1FPMXE1cHVCWmxhUGhiakVCUVlPTmpjWjB4dWZpU1dHNm5MWkR3UTg3WVBCeDhXUjBPaFA4TFZ0WGhBYXRMLTNXVUhjWjBmTzM3eDVObVJzcERZQnRlUGExMW5xNHVVX2pocm5maGMxOVlLM1BBR0g5R0l3dmxtMDczbGstaVJNLV9YRUJJWFF5RWRKTkhVN1Q2bktzSmdqdWFOeFdtWGR0ZTlnY1lHeFNn?oc=5\" target=\"_blank\">Prasath bowls Namakkal to big win in TN Cricket Association inter-district U-14 meet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Techno-economic optimization of hybrid renewable systems for sustainable energy solutions - Nature",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yMFk0amZ4bjIwdUhOSmlzS1ltWS1zQ1JCbXRiMHdtTVg5OWg4QVdCemtWOVRvZ3d2YmgweXE2S2VESHpPU3lfaUJRQ2xGdm1jM2UyUnN2MEd4OG5qZHdF?oc=5",
+        "pub_date": "Tue, 01 Jul 2025 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yMFk0amZ4bjIwdUhOSmlzS1ltWS1zQ1JCbXRiMHdtTVg5OWg4QVdCemtWOVRvZ3d2YmgweXE2S2VESHpPU3lfaUJRQ2xGdm1jM2UyUnN2MEd4OG5qZHdF?oc=5\" target=\"_blank\">Techno-economic optimization of hybrid renewable systems for sustainable energy solutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "SSP transfer after MP son's arrest - Telegraph India",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT0puY2Y1eWZrVXVCR1lxQVRLcThTczdkX09JWmZYX1FmZjNBdDBiQUVsSHdNa1pDSmt1ekxIZlBxQ3dvTlJ0SVBXWEczeG5PcHF4a3FPTC1OYzJ0YkRXUzdLT3BkYWtlRTVEV3R0OU5mOURtVlQ1V0VtWDhsZG9qLUVfSTJEVDBjTENz?oc=5",
+        "pub_date": "Sun, 29 Apr 2018 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT0puY2Y1eWZrVXVCR1lxQVRLcThTczdkX09JWmZYX1FmZjNBdDBiQUVsSHdNa1pDSmt1ekxIZlBxQ3dvTlJ0SVBXWEczeG5PcHF4a3FPTC1OYzJ0YkRXUzdLT3BkYWtlRTVEV3R0OU5mOURtVlQ1V0VtWDhsZG9qLUVfSTJEVDBjTENz?oc=5\" target=\"_blank\">SSP transfer after MP son's arrest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telegraph India</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Exploring The Depths: The Adventures Of A Marine Biologist - Indiatimes",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTE8wZWFKbFNXZWNLUHFOV0hUNC1KdUhzYmV2NWlzc3hnQ2NITWd0TEhudHZONVVuMFhKSHN4R0lIMEdlUVdXUk9aYndJemhxcVBHbXJKWWdyNnlSNHJHejNkZHY5TjE0RWF3SVBmc0QzV3kyLWFIY3JTOHQyanVqcFhMYUhXUF92cFJmX3kwRHJFZGxWT3N3cTJUMzBfTEQ5cUJHcEdPS19ycktUWFE4Rk45dS1LX090SzBKS09LRdIBxAFBVV95cUxOcXphal9VR2hycUFxSF84S1A5cFlvR2Vkb285T0x0Tnd0bkhNblVUX3BHaHZkVU5iMlVUbWhkY2tDTXpBYnlWQUQ3dnVzUEtwei15ZlBTbkplU3pIQXhiR20wbU1ZeGxWaTJPRE1Jc2JVSVBfeVJwdHpmM2h2cmgtcVl3YzNvdWEyQWJLN0x4SkhRMlRyRXJYS0FzUXUwdDhkd0R5cDIwUFF3bnplTC1pTTdyVzNuVFJxWkNpTC1laDd4RjFw?oc=5",
+        "pub_date": "Thu, 26 Oct 2023 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOTE8wZWFKbFNXZWNLUHFOV0hUNC1KdUhzYmV2NWlzc3hnQ2NITWd0TEhudHZONVVuMFhKSHN4R0lIMEdlUVdXUk9aYndJemhxcVBHbXJKWWdyNnlSNHJHejNkZHY5TjE0RWF3SVBmc0QzV3kyLWFIY3JTOHQyanVqcFhMYUhXUF92cFJmX3kwRHJFZGxWT3N3cTJUMzBfTEQ5cUJHcEdPS19ycktUWFE4Rk45dS1LX090SzBKS09LRdIBxAFBVV95cUxOcXphal9VR2hycUFxSF84S1A5cFlvR2Vkb285T0x0Tnd0bkhNblVUX3BHaHZkVU5iMlVUbWhkY2tDTXpBYnlWQUQ3dnVzUEtwei15ZlBTbkplU3pIQXhiR20wbU1ZeGxWaTJPRE1Jc2JVSVBfeVJwdHpmM2h2cmgtcVl3YzNvdWEyQWJLN0x4SkhRMlRyRXJYS0FzUXUwdDhkd0R5cDIwUFF3bnplTC1pTTdyVzNuVFJxWkNpTC1laDd4RjFw?oc=5\" target=\"_blank\">Exploring The Depths: The Adventures Of A Marine Biologist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indiatimes</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Politics on dead bodies, religion is BJP's strategy, says Congress' BK Hariprasad - India Today",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZnVIZFlWX01JRm5rX0lkSTBzUGZMTFlnTWFuS3Q5TDlJU1BRUVlaTk9WeTJQbHVuR3AwelVtcWdKNERrOHhzNW1TZ0JYcHZHQ2hOa3FZUzR5UVk0ZVFaNWRQUjBEZDZlZ0F1dE04MDdUOGVSVFJNME9NcTNfSS1FSi0ySUVnT3hoamViMGd0SDdlbnlYemRtSDJ4b191WkJ0bFpzMlhaQTltTXN0cWtKZnZRRnVONXFNaGpwSE9tdWxBaEdPV3g4UHotdDnSAdIBQVVfeXFMTjFUcENLaDNISGdlOTJWVkhOell2U3lpNDZ4Y2Q0X1NieWh0aWw4NnQycUVhbENySDl1WG1yUGJvTEduOGpIV3IyUXNVci1NWUpxLURmN2c0TjF2Sm1ZdGhCSDdjZ2lmMm9PMmhZLU5oVjlOQk0yREZialU4WkY4Wk1DM3NjeVVTM1Q1VDc2OXZnUEh0YzMtWkFTMFplUGpZcVp1VTNLbW5DU2R6U1NiSWwzVzNJVDFvYmgxcV9JdGhKNTBtSHZ2SGpjU0kzcVFzWUdn?oc=5",
+        "pub_date": "Fri, 20 Jan 2023 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPZnVIZFlWX01JRm5rX0lkSTBzUGZMTFlnTWFuS3Q5TDlJU1BRUVlaTk9WeTJQbHVuR3AwelVtcWdKNERrOHhzNW1TZ0JYcHZHQ2hOa3FZUzR5UVk0ZVFaNWRQUjBEZDZlZ0F1dE04MDdUOGVSVFJNME9NcTNfSS1FSi0ySUVnT3hoamViMGd0SDdlbnlYemRtSDJ4b191WkJ0bFpzMlhaQTltTXN0cWtKZnZRRnVONXFNaGpwSE9tdWxBaEdPV3g4UHotdDnSAdIBQVVfeXFMTjFUcENLaDNISGdlOTJWVkhOell2U3lpNDZ4Y2Q0X1NieWh0aWw4NnQycUVhbENySDl1WG1yUGJvTEduOGpIV3IyUXNVci1NWUpxLURmN2c0TjF2Sm1ZdGhCSDdjZ2lmMm9PMmhZLU5oVjlOQk0yREZialU4WkY4Wk1DM3NjeVVTM1Q1VDc2OXZnUEh0YzMtWkFTMFplUGpZcVp1VTNLbW5DU2R6U1NiSWwzVzNJVDFvYmgxcV9JdGhKNTBtSHZ2SGpjU0kzcVFzWUdn?oc=5\" target=\"_blank\">Politics on dead bodies, religion is BJP's strategy, says Congress' BK Hariprasad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "This shark looks male but has female reproductive organ - Science News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGV2d09KejR5NjB0RVR6SE1mTUpTNkU2aUtZaEw0R0ZMb0NJOXRRQUQ3ZEdfQ1hmUlB0Zl8xYnlUM29uaGVLUHJnemdYSVY5YzAteFNJSlBITVVUaGlDcllmTVBVSzZKVkpGMVRyM1VyQmdzTlBwbWpvQ20xdTlDWG5mYmlTNVljMzBoakZB?oc=5",
+        "pub_date": "Tue, 10 Jul 2018 07:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGV2d09KejR5NjB0RVR6SE1mTUpTNkU2aUtZaEw0R0ZMb0NJOXRRQUQ3ZEdfQ1hmUlB0Zl8xYnlUM29uaGVLUHJnemdYSVY5YzAteFNJSlBITVVUaGlDcllmTVBVSzZKVkpGMVRyM1VyQmdzTlBwbWpvQ20xdTlDWG5mYmlTNVljMzBoakZB?oc=5\" target=\"_blank\">This shark looks male but has female reproductive organ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Science News</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Intelligent robotics harvesting system process for fruits grasping prediction | Scientific Reports - Nature",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2dlQtYkl0MXBJajUxNDJEV1pCNzdLaTRVek9oNXdfWnQ4NzRETGV2S1B3YWQ1ckR4RGdXSlNBaDBXQjNaM0hSYzdhdXRMbVJJd0pHSjdNU2thMnBWclVn?oc=5",
+        "pub_date": "Sat, 03 Feb 2024 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2dlQtYkl0MXBJajUxNDJEV1pCNzdLaTRVek9oNXdfWnQ4NzRETGV2S1B3YWQ1ckR4RGdXSlNBaDBXQjNaM0hSYzdhdXRMbVJJd0pHSjdNU2thMnBWclVn?oc=5\" target=\"_blank\">Intelligent robotics harvesting system process for fruits grasping prediction | Scientific Reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+        "sentiment": "NEUTRAL"
+      },
+      {
+        "title": "Karnataka hijab row: BJP, RSS agenda is to create civil war, says Congress's BK Hariprasad - India Today",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMVZNNWo4VHBwUVpDX0lROGdoVWNWNGJtVmhiTGlQZm1LbHJBTkJ0SjYyUW9vSlFJWnRpY2lrOUdPcmZsTzRfZWJQSTFDaHp0X2F5bTFLTU9EVjVaMHpIVVlQTVBlcGFGUUJfZW50UGR1bXdTNUpEMi1seEhxSkhxRUVSNHM1dE1jc3lxRmtLaExhcThhZWZUWFN3Z0JhazJ2RFM3ajJhc2g2ZDZhN213NS1STkFPa25ac19SMXRWTDhwVVBCcGluRmJ6TC02aXczMlBVS1NiQXVGQdIB3wFBVV95cUxNM0Jvc25reXNpQ2toU0RlZWhIaWt4cHI3N19Wem5CRmVDeEdNMkZLUDFEUzE5V2FleVlQZ0pBMXRZYWdKVUxWbEk3RWR1Sk0yZ0dERG1aUDNtVW5aWnlFMEpDQ3BOelpWS01jRnJkZGpyYmU3TFNVMEhoaVc2MktVcW5tTGF3dVA1X1hIVHNZZk8zWDRoZzU5MnZqNGVIVGtyRnp4bUVBN0oxa0lDcUprODNWOC1nSVlzd3kwel9PNE5YZVFiejNVa0djcUxBQ25fV19lWFpvMGhUMXpleUlv?oc=5",
+        "pub_date": "Thu, 10 Feb 2022 08:00:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMVZNNWo4VHBwUVpDX0lROGdoVWNWNGJtVmhiTGlQZm1LbHJBTkJ0SjYyUW9vSlFJWnRpY2lrOUdPcmZsTzRfZWJQSTFDaHp0X2F5bTFLTU9EVjVaMHpIVVlQTVBlcGFGUUJfZW50UGR1bXdTNUpEMi1seEhxSkhxRUVSNHM1dE1jc3lxRmtLaExhcThhZWZUWFN3Z0JhazJ2RFM3ajJhc2g2ZDZhN213NS1STkFPa25ac19SMXRWTDhwVVBCcGluRmJ6TC02aXczMlBVS1NiQXVGQdIB3wFBVV95cUxNM0Jvc25reXNpQ2toU0RlZWhIaWt4cHI3N19Wem5CRmVDeEdNMkZLUDFEUzE5V2FleVlQZ0pBMXRZYWdKVUxWbEk3RWR1Sk0yZ0dERG1aUDNtVW5aWnlFMEpDQ3BOelpWS01jRnJkZGpyYmU3TFNVMEhoaVc2MktVcW5tTGF3dVA1X1hIVHNZZk8zWDRoZzU5MnZqNGVIVGtyRnp4bUVBN0oxa0lDcUprODNWOC1nSVlzd3kwel9PNE5YZVFiejNVa0djcUxBQ25fV19lWFpvMGhUMXpleUlv?oc=5\" target=\"_blank\">Karnataka hijab row: BJP, RSS agenda is to create civil war, says Congress's BK Hariprasad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+        "sentiment": "NEUTRAL"
+      }
+    ],
+    "promoter_analysis": {
+      "Marimuthu": {
+        "negative_news_count": 0,
+        "risk_level": "LOW",
+        "articles": []
+      }
+    },
+    "litigation": {
+      "total_cases": 0,
+      "pending_cases": 0,
+      "case_types": [],
+      "high_value_cases": [],
+      "risk_score": 0,
+      "search_attempted": true,
+      "source": "e-Courts Portal"
+    },
+    "sector_trends": {
+      "sector": "NBFC",
+      "recent_regulations": [],
+      "market_sentiment": "POSITIVE",
+      "growth_outlook": "STABLE",
+      "key_risks": []
+    },
+    "credit_ratings": {
+      "agencies": [],
+      "latest_rating": null,
+      "rating_trend": "STABLE",
+      "outlook": "STABLE"
+    },
+    "overall_risk_flags": []
+  },
+  "recommendation": {
+    "decision": "REJECTED",
+    "credit_score": 570,
+    "rating": "B",
+    "recommended_loan_amount": 0,
+    "recommended_interest_rate": 0,
+    "five_cs_breakdown": {
+      "character": 100,
+      "capacity": 20,
+      "capital": 10,
+      "collateral": 90,
+      "conditions": 100
+    },
+    "explanation": "Credit Decision: REJECTED\nCredit Score: 570 (Rating: B)\n\nKey Factors:\n- Capacity concerns (Score: 20/100)\n- Capital structure concerns (Score: 10/100)",
+    "risk_factors": [],
+    "strengths": [
+      "Conservative leverage (D/E: 0.00x)",
+      "High revenue consistency across sources",
+      "Good capacity utilization (80%)",
+      "Strong management quality"
+    ]
+  },
+  "cam_document_path": "./outputs\\CAM_Hariprasath_20260311.docx",
+  "processing_timestamp": "2026-03-11T22:44:22.005634"
+}
