@@ -8,9 +8,7 @@ function About() {
       
       <div className="container">
         <div className="card" style={{ maxWidth: '900px', margin: '2rem auto' }}>
-          <h1 className="title" style={{ fontSize: '2.5rem' }}>
-            ℹ️ About Intelli-Credit
-          </h1>
+          <h1 className="title" style={{ fontSize: '2.5rem' }}>About Intelli-Credit</h1>
 
           <div style={{ color: '#cbd5e1', lineHeight: '1.8' }}>
             <h2 style={{ color: '#a5b4fc', marginTop: '2rem', fontWeight: '700' }}>Overview</h2>
@@ -48,7 +46,7 @@ function About() {
             <ul style={{ color: '#94a3b8' }}>
               <li><strong style={{ color: '#e2e8f0' }}>Frontend:</strong> React.js, Modern CSS</li>
               <li><strong style={{ color: '#e2e8f0' }}>Backend:</strong> Python, FastAPI</li>
-              <li><strong style={{ color: '#e2e8f0' }}>ML/AI:</strong> scikit-learn, XGBoost, SHAP</li>
+              <li><strong style={{ color: '#e2e8f0' }}>ML/AI:</strong> scikit-learn, XGBoost</li>
               <li><strong style={{ color: '#e2e8f0' }}>Document Processing:</strong> PyPDF2, pdfplumber</li>
               <li><strong style={{ color: '#e2e8f0' }}>Web Scraping:</strong> BeautifulSoup</li>
             </ul>

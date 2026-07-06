@@ -64,54 +64,18 @@ function Navbar() {
         letterSpacing: '0.5px',
         textTransform: 'uppercase'
       }}>
-        🏦 Intelli-Credit
+        Intelli-Credit
       </Link>
       
       <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center' }}>
-        <Link 
-          to="/" 
-          style={location.pathname === '/' ? activeLinkStyle : linkStyle}
-        >
-          Home
-        </Link>
-        <Link 
-          to="/new-application" 
-          style={location.pathname === '/new-application' ? activeLinkStyle : linkStyle}
-        >
-          New Application
-        </Link>
-        <Link 
-          to="/analytics" 
-          style={location.pathname === '/analytics' ? activeLinkStyle : linkStyle}
-        >
-          Analytics
-        </Link>
-        <Link 
-          to="/history" 
-          style={location.pathname === '/history' ? activeLinkStyle : linkStyle}
-        >
-          History
-        </Link>
-        <Link 
-          to="/reports" 
-          style={location.pathname === '/reports' ? activeLinkStyle : linkStyle}
-        >
-          Reports
-        </Link>
-        <Link 
-          to="/settings" 
-          style={location.pathname === '/settings' ? activeLinkStyle : linkStyle}
-        >
-          Settings
-        </Link>
-        <Link 
-          to="/about" 
-          style={location.pathname === '/about' ? activeLinkStyle : linkStyle}
-        >
-          About
-        </Link>
+        <Link to="/" style={location.pathname === '/' ? activeLinkStyle : linkStyle}>Home</Link>
+        <Link to="/new-application" style={location.pathname === '/new-application' ? activeLinkStyle : linkStyle}>New Application</Link>
+        <Link to="/analytics" style={location.pathname === '/analytics' ? activeLinkStyle : linkStyle}>Analytics</Link>
+        <Link to="/history" style={location.pathname === '/history' ? activeLinkStyle : linkStyle}>History</Link>
+        <Link to="/reports" style={location.pathname === '/reports' ? activeLinkStyle : linkStyle}>Reports</Link>
+        <Link to="/settings" style={location.pathname === '/settings' ? activeLinkStyle : linkStyle}>Settings</Link>
+        <Link to="/about" style={location.pathname === '/about' ? activeLinkStyle : linkStyle}>About</Link>
         
-        {/* User Menu */}
         <div style={{ 
           marginLeft: '0.75rem',
           paddingLeft: '0.75rem',
@@ -122,9 +86,7 @@ function Navbar() {
         }}>
           {isAuthenticated ? (
             <>
-              <span style={{ color: '#94a3b8', fontSize: '0.8rem' }}>
-                {userEmail}
-              </span>
+              <span style={{ color: '#94a3b8', fontSize: '0.8rem' }}>{userEmail}</span>
               <button
                 onClick={handleLogout}
                 style={{
@@ -136,7 +98,7 @@ function Navbar() {
                   padding: '0.6rem 1.2rem'
                 }}
               >
-                🚪 Logout
+                Logout
               </button>
             </>
           ) : (
@@ -151,7 +113,7 @@ function Navbar() {
                 padding: '0.4rem 0.9rem'
               }}
             >
-              🔐 Login
+              Login
             </Link>
           )}
         </div>
